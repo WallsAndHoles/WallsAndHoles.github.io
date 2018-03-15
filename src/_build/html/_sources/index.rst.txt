@@ -7,9 +7,9 @@
 Walls and Holes
 ================================
 
-	**Windows Installation:** :download:`Windows installer v1.0 <downloads/WAH_1_0_win64_installer.exe>`
+	**Windows Installation:** :download:`Windows installer v1.0.1 <downloads/WAH_1_0_win64_installer.exe>`
 
-	**Mac Installation:** :download:`Mac installer v1.0 <downloads/WallsAndHoles_1_0.dmg>`
+	**Mac Installation:** :download:`Mac installer v1.0.0 <downloads/WallsAndHoles_1_0.dmg>`
 
 	**Our github page:** https://github.com/Bdtrotte/3D-Map-Gen
 

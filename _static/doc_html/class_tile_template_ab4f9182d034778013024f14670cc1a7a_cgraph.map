@@ -1,0 +1,4 @@
+<map id="TileTemplate::setSideMaterial" name="TileTemplate::setSideMaterial">
+<area shape="rect" id="node2" href="$class_tile_material.html#a04b1f180be7f494df8dbcf72b60eb201" title="TileMaterial::getDefault\lMaterial" alt="" coords="249,5,407,44"/>
+<area shape="rect" id="node3" href="$class_tile_material.html#a3829a3fffb63a553ff273119c78ae5f5" title="Creates a TileMaterial with a default material. " alt="" coords="455,12,621,37"/>
+</map>

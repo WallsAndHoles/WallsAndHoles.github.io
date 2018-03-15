@@ -1,0 +1,17 @@
+<map id="WallsAndHoles/tilemapselectiontool.h" name="WallsAndHoles/tilemapselectiontool.h">
+<area shape="rect" id="node2" href="$abstracttileselectiontool_8h.html" title="abstracttileselectiontool.h" alt="" coords="1165,79,1336,104"/>
+<area shape="rect" id="node41" href="$changevaluecommand_8h.html" title="changevaluecommand.h" alt="" coords="1369,79,1535,104"/>
+<area shape="rect" id="node3" href="$abstracttilemaptool_8h.html" title="abstracttilemaptool.h" alt="" coords="1170,152,1315,177"/>
+<area shape="rect" id="node33" href="$propertybrowser_8h.html" title="propertybrowser.h" alt="" coords="1960,225,2088,251"/>
+<area shape="rect" id="node4" href="$abstracttool_8h.html" title="abstracttool.h" alt="" coords="1192,225,1293,251"/>
+<area shape="rect" id="node9" href="$tilemap_8h.html" title="tilemap.h" alt="" coords="501,225,576,251"/>
+<area shape="rect" id="node18" href="$tiletemplate_8h.html" title="tiletemplate.h" alt="" coords="286,372,386,397"/>
+<area shape="rect" id="node30" href="$tilemappreviewgraphicsitem_8h.html" title="tilemappreviewgraphicsitem.h" alt="" coords="1434,225,1630,251"/>
+<area shape="rect" id="node10" href="$array2d_8h.html" title="array2d.h" alt="" coords="733,299,811,324"/>
+<area shape="rect" id="node17" href="$tile_8h.html" title="tile.h" alt="" coords="514,299,563,324"/>
+<area shape="rect" id="node26" href="$tiletemplateset_8h.html" title="tiletemplateset.h" alt="" coords="177,299,295,324"/>
+<area shape="rect" id="node15" href="$array2d__private_8h.html" title="array2d_private.h" alt="" coords="709,372,835,397"/>
+<area shape="rect" id="node22" href="$tilematerial_8h.html" title="tilematerial.h" alt="" coords="342,445,439,471"/>
+<area shape="rect" id="node23" href="$imageandsource_8h.html" title="imageandsource.h" alt="" coords="325,519,456,544"/>
+<area shape="rect" id="node34" href="$abstractpropertymanager_8h.html" title="abstractpropertymanager.h" alt="" coords="2080,299,2261,324"/>
+</map>

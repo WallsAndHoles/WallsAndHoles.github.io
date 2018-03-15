@@ -1,0 +1,7 @@
+<map id="TileMapHelper::getAllOfTemplate" name="TileMapHelper::getAllOfTemplate">
+<area shape="rect" id="node2" href="$class_tile_map.html#a19a3ddf99b2d58766a847b5e5723504b" title="TileMap::width" alt="" coords="277,5,384,31"/>
+<area shape="rect" id="node4" href="$class_tile_map.html#a011e14a703c286cf374f60cfa29edebb" title="TileMap::height" alt="" coords="274,55,386,80"/>
+<area shape="rect" id="node5" href="$class_tile_map.html#a9b376db9b1b84540976c1e567987a610" title="TileMap::tileAt" alt="" coords="278,104,383,129"/>
+<area shape="rect" id="node6" href="$class_tile.html#a5238364a6fd66f916e183f94fab93d94" title="Tile::tileTemplate" alt="" coords="270,153,391,179"/>
+<area shape="rect" id="node3" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="439,55,540,80"/>
+</map>

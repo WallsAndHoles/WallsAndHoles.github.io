@@ -1,0 +1,7 @@
+<map id="WallsAndHoles/shaperegion.h" name="WallsAndHoles/shaperegion.h">
+<area shape="rect" id="node2" href="$ellipsebrushtool_8cpp.html" title="WallsAndHoles/ellipsebrushtool.cpp" alt="" coords="5,79,238,104"/>
+<area shape="rect" id="node3" href="$linebrushtool_8cpp.html" title="WallsAndHoles/linebrushtool.cpp" alt="" coords="262,79,478,104"/>
+<area shape="rect" id="node4" href="$rectbrushtool_8cpp.html" title="WallsAndHoles/rectbrushtool.cpp" alt="" coords="501,79,718,104"/>
+<area shape="rect" id="node5" href="$shaperegion_8cpp.html" title="WallsAndHoles/shaperegion.cpp" alt="" coords="743,79,957,104"/>
+<area shape="rect" id="node6" href="$tilemapselectiontool_8cpp.html" title="WallsAndHoles/tilemapselectiontool.cpp" alt="" coords="981,79,1238,104"/>
+</map>

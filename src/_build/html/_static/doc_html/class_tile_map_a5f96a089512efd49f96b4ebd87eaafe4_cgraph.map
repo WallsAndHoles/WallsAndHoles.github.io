@@ -1,0 +1,7 @@
+<map id="TileMap::TileMap" name="TileMap::TileMap">
+<area shape="rect" id="node2" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="209,5,310,31"/>
+<area shape="rect" id="node3" href="$class_tile_map.html#ab519edfa0952e2fa116359402249148f" title="TileMap::tilePinged" alt="" coords="192,55,327,80"/>
+<area shape="rect" id="node4" href="$class_tile_template_set.html#a19b5b0b70fe13928387938177d1a6723" title="TileTemplateSet::addTile\lTemplate" alt="" coords="176,104,343,143"/>
+<area shape="rect" id="node5" href="$class_tile_template_set.html#a24ae31aef04ae53e364b2b987855bc6a" title="TileTemplateSet::changed" alt="" coords="391,85,566,111"/>
+<area shape="rect" id="node6" href="$class_tile_template_set.html#a29f5e5f642e5e5381ab1c86f9ce9f8d1" title="TileTemplateSet::size" alt="" coords="405,135,552,160"/>
+</map>

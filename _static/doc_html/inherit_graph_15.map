@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_image_finder_bar.html" title="ImageFinderBar" alt="" coords="154,5,271,31"/>
+<area shape="rect" id="node3" href="$class_map_view_container.html" title="MapViewContainer" alt="" coords="146,55,279,80"/>
+<area shape="rect" id="node4" href="$class_mesh_view_container.html" title="MeshViewContainer" alt="" coords="142,104,283,129"/>
+<area shape="rect" id="node5" href="$class_template_material_selector.html" title="TemplateMaterialSelector" alt="" coords="127,153,298,179"/>
+<area shape="rect" id="node6" href="$class_tile_material_selection_bar.html" title="TileMaterialSelectionBar" alt="" coords="130,203,295,228"/>
+<area shape="rect" id="node7" href="$class_tile_material_view.html" title="TileMaterialView" alt="" coords="153,252,272,277"/>
+<area shape="rect" id="node8" href="$class_tile_template_sets_view.html" title="The TileTemplateSetsView class Stores and displays all open TileTemplateSets. Has a tool bar for savi..." alt="" coords="137,301,288,327"/>
+</map>

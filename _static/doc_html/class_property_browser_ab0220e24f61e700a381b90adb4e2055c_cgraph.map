@@ -1,0 +1,4 @@
+<map id="PropertyBrowser::setPropertyManager" name="PropertyBrowser::setPropertyManager">
+<area shape="rect" id="node2" href="$class_property_browser.html#a181f3995a0d1a0c4b190ca68fab31b37" title="clear Deletes the current propertyManager if there is one. The PropertyBrowser will show nothing..." alt="" coords="258,5,415,31"/>
+<area shape="rect" id="node3" href="$class_abstract_property_manager.html#a06e41d3b1d614afa8a83e98c437bd2aa" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="250,55,423,93"/>
+</map>

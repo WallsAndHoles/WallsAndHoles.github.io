@@ -1,0 +1,8 @@
+<map id="tileMaterialElement" name="tileMaterialElement">
+<area shape="rect" id="node2" href="$class_tile_material.html#a02495ceae9d0ab97c15ad440306adc7d" title="TileMaterial::name" alt="" coords="199,5,330,31"/>
+<area shape="rect" id="node3" href="$class_tile_material.html#ad8f8e5f95b18aef270a51b79622858a0" title="TileMaterial::texture" alt="" coords="195,55,333,80"/>
+<area shape="rect" id="node4" href="$class_tile_material.html#a2b262aceec446508b63b009d226c4673" title="TileMaterial::ambient" alt="" coords="192,104,337,129"/>
+<area shape="rect" id="node5" href="$class_tile_material.html#a4ee686fff495189ed164b23f802a342f" title="TileMaterial::diffuse" alt="" coords="196,153,333,179"/>
+<area shape="rect" id="node6" href="$class_tile_material.html#ad420b91ac80d4b0a59c1d637605814fa" title="TileMaterial::specular" alt="" coords="191,203,338,228"/>
+<area shape="rect" id="node7" href="$class_tile_material.html#af3ae7e908e0b9a66db5a801ae5560fb7" title="TileMaterial::shininess" alt="" coords="188,252,341,277"/>
+</map>

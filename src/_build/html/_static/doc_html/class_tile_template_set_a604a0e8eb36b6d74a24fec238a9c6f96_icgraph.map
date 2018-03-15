@@ -1,0 +1,6 @@
+<map id="TileTemplateSet::index" name="TileTemplateSet::index">
+<area shape="rect" id="node2" href="$class_tile_template_set.html#a634112a29b7f0892d551a678cd9086fc" title="TileTemplateSet::removeTile\lTemplate" alt="" coords="209,5,398,44"/>
+<area shape="rect" id="node3" href="$class_tile_template_set.html#a2a602d9fa979d1b5435cb482e77c5469" title="TileTemplateSet::data" alt="" coords="229,68,379,93"/>
+<area shape="rect" id="node4" href="$class_tile_template_set.html#a8e5a6385c3b41116ad04ef5086792630" title="TileTemplateSet::setData" alt="" coords="446,93,616,119"/>
+<area shape="rect" id="node5" href="$class_tile_template_set.html#afc3a8f8592679fc270609a3c6c3b2b8e" title="TileTemplateSet::flags" alt="" coords="228,169,380,195"/>
+</map>

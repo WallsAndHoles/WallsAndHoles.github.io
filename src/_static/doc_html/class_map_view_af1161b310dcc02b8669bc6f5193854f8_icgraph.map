@@ -1,0 +1,4 @@
+<map id="MapView::cellClicked" name="MapView::cellClicked">
+<area shape="rect" id="node2" href="$class_editor.html#a4a43cf95fee9190e70d1f3433e72a323" title="Editor::Editor" alt="" coords="247,5,345,31"/>
+<area shape="rect" id="node3" href="$class_map_view.html#accba42446f4e70fe4c6f1754b9d45ba9" title="MapView::mousePressEvent" alt="" coords="200,55,392,80"/>
+</map>

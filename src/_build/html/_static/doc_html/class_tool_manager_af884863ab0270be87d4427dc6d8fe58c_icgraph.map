@@ -1,0 +1,9 @@
+<map id="ToolManager::toolWasActivated" name="ToolManager::toolWasActivated">
+<area shape="rect" id="node2" href="$class_mesh_view.html#ac0bdcb3fddfca7320f5301a51975c7b6" title="MeshView::MeshView" alt="" coords="274,5,425,31"/>
+<area shape="rect" id="node3" href="$class_tool_manager.html#ac9f1d7f5eb52a1e18872dda47a0561c1" title="Activates the desired tool. " alt="" coords="262,55,438,80"/>
+<area shape="rect" id="node4" href="$class_tool_manager.html#aab66f70d3188b3be8e453ec7b1408b3d" title="Registers the tool with the given identifier. " alt="" coords="486,55,661,80"/>
+<area shape="rect" id="node5" href="$class_mesh_view_container.html#ab4e62eb81e6384a57d6297bbbf50f73b" title="MeshViewContainer::\laddCamera" alt="" coords="709,79,856,117"/>
+<area shape="rect" id="node8" href="$class_tile_map_tool_manager.html#a67984aca84c7c5a73c05158b3bdf274b" title="TileMapToolManager\l::registerMapTool" alt="" coords="710,16,855,55"/>
+<area shape="rect" id="node6" href="$class_editor.html#a4a43cf95fee9190e70d1f3433e72a323" title="Editor::Editor" alt="" coords="929,27,1028,52"/>
+<area shape="rect" id="node7" href="$class_mesh_view_container.html#a5eb50c539404379cb8d46f5d3ca883fb" title="MeshViewContainer::\lMeshViewContainer" alt="" coords="904,79,1052,117"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TileMap::tileChanged" name="TileMap::tileChanged">
+<area shape="rect" id="node2" href="$class_map2_mesh.html#a5eda437c1572291858e9c32896aab48e" title="Creates the conversion object. " alt="" coords="200,5,361,31"/>
+<area shape="rect" id="node3" href="$class_tile_map.html#a5f96a089512efd49f96b4ebd87eaafe4" title="TileMap::TileMap" alt="" coords="219,55,342,80"/>
+<area shape="rect" id="node4" href="$class_tile_map.html#adffc3be74f7f06a3f935d72cc89beb46" title="resizeMap " alt="" coords="212,104,349,129"/>
+<area shape="rect" id="node5" href="$class_map_property_manager.html#a08aacb9bdc021fef2460ea27d8cb0547" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="409,97,559,136"/>
+</map>

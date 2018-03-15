@@ -1,0 +1,6 @@
+<map id="TileTemplateSet::size" name="TileTemplateSet::size">
+<area shape="rect" id="node2" href="$class_tile_template_set.html#a19b5b0b70fe13928387938177d1a6723" title="TileTemplateSet::addTile\lTemplate" alt="" coords="209,5,376,44"/>
+<area shape="rect" id="node4" href="$class_tile_template_set.html#a35fb805a86fffbe09d7fd70d92fdee7e" title="TileTemplateSet::rowCount" alt="" coords="202,68,383,93"/>
+<area shape="rect" id="node5" href="$class_tile_template_sets_view.html#a904a45f2db4ebb532cc72e0fced04d0c" title="TileTemplateSetsView\l::setDefaultTileTemplateSet" alt="" coords="201,117,385,156"/>
+<area shape="rect" id="node3" href="$class_tile_map.html#a5f96a089512efd49f96b4ebd87eaafe4" title="TileMap::TileMap" alt="" coords="433,12,555,37"/>
+</map>

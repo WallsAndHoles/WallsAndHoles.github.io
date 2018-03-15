@@ -1,0 +1,7 @@
+<map id="ToolManager::deactivateTool" name="ToolManager::deactivateTool">
+<area shape="rect" id="node2" href="$class_tool_manager.html#aab66f70d3188b3be8e453ec7b1408b3d" title="Registers the tool with the given identifier. " alt="" coords="244,44,419,69"/>
+<area shape="rect" id="node3" href="$class_mesh_view_container.html#ab4e62eb81e6384a57d6297bbbf50f73b" title="MeshViewContainer::\laddCamera" alt="" coords="467,68,615,107"/>
+<area shape="rect" id="node6" href="$class_tile_map_tool_manager.html#a67984aca84c7c5a73c05158b3bdf274b" title="TileMapToolManager\l::registerMapTool" alt="" coords="468,5,614,44"/>
+<area shape="rect" id="node4" href="$class_editor.html#a4a43cf95fee9190e70d1f3433e72a323" title="Editor::Editor" alt="" coords="688,16,786,41"/>
+<area shape="rect" id="node5" href="$class_mesh_view_container.html#a5eb50c539404379cb8d46f5d3ca883fb" title="MeshViewContainer::\lMeshViewContainer" alt="" coords="663,68,811,107"/>
+</map>

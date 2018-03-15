@@ -1,0 +1,8 @@
+<map id="TileMapHelper::getFillRegion" name="TileMapHelper::getFillRegion">
+<area shape="rect" id="node2" href="$class_tile_map.html#af421ab425f2d0c81174fed01496d1291" title="TileMap::contains" alt="" coords="246,55,371,80"/>
+<area shape="rect" id="node5" href="$class_tile_map.html#a9b376db9b1b84540976c1e567987a610" title="TileMap::tileAt" alt="" coords="256,104,361,129"/>
+<area shape="rect" id="node7" href="$class_tile.html#a5238364a6fd66f916e183f94fab93d94" title="Tile::tileTemplate" alt="" coords="248,153,369,179"/>
+<area shape="rect" id="node3" href="$class_array2_d.html#a942d010f7fbf73788774e264e6f6ee50" title="Array2D::width" alt="" coords="422,5,531,31"/>
+<area shape="rect" id="node4" href="$class_array2_d.html#a6fb70572dcd98a2510ba8b7ad6054ba2" title="Array2D::height" alt="" coords="419,55,533,80"/>
+<area shape="rect" id="node6" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="426,104,527,129"/>
+</map>

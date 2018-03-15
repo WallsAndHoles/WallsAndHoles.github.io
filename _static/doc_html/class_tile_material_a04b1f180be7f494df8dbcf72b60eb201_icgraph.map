@@ -1,0 +1,15 @@
+<map id="TileMaterial::getDefaultMaterial" name="TileMaterial::getDefaultMaterial">
+<area shape="rect" id="node2" href="$class_tile_material_set.html#a8170baf6517254723b378878b31930c7" title="TileMaterialSet::materialAt" alt="" coords="221,13,398,39"/>
+<area shape="rect" id="node4" href="$class_tile_material_set.html#a10b0b7667e495de64be33de6e94d8454" title="TileMaterialSet::data" alt="" coords="238,65,381,91"/>
+<area shape="rect" id="node6" href="$class_tile_template.html#a07e99d047042f33eaf0cc0555c5aa78f" title="Updates the top material for the tile template. " alt="" coords="214,115,404,140"/>
+<area shape="rect" id="node8" href="$class_tile_template.html#ab4f9182d034778013024f14670cc1a7a" title="Updates the side material for the tile template. " alt="" coords="211,164,407,189"/>
+<area shape="rect" id="node9" href="$namespace_x_m_l_tool.html#a8fd71629a85800ff28125916949c4b37" title="XMLTool::openTileTemplateSet" alt="" coords="455,195,659,220"/>
+<area shape="rect" id="node11" href="$xmltool_8cpp.html#a45b869a49299560bb235376ed73c6d2d" title="tileTemplateSetElement" alt="" coords="228,265,390,291"/>
+<area shape="rect" id="node3" href="$class_tile_material_selection_bar.html#a963f5638877284171c91287db0223ae6" title="TileMaterialSelectionBar\l::dropEvent" alt="" coords="475,5,640,44"/>
+<area shape="rect" id="node5" href="$class_tile_material_set.html#a00c7808e84bd5a838345d9acd6ee36ac" title="TileMaterialSet::setData" alt="" coords="476,68,639,93"/>
+<area shape="rect" id="node7" href="$class_tile_template.html#a059a36298cd063a578230ff67901f92b" title="TileTemplate::TileTemplate" alt="" coords="468,135,647,160"/>
+<area shape="rect" id="node10" href="$class_tile_template_sets_manager.html#a0e3b9e55b8adf7cbf7c96ae92e41098c" title="loadTileTemplateSet Loads a tileTemplateSet at the given path. If the file can&#39;t be loaded for any re..." alt="" coords="707,188,883,227"/>
+<area shape="rect" id="node12" href="$namespace_x_m_l_tool.html#ac7d4c5c6796bf6931a0b0f1a434cdf54" title="XMLTool::saveTileTemplateSet" alt="" coords="456,265,659,291"/>
+<area shape="rect" id="node13" href="$class_savable_tile_template_set.html#a1fd3d60affe7da95aa7026f80a030a4c" title="SavableTileTemplateSet\l::save" alt="" coords="713,259,878,297"/>
+<area shape="rect" id="node14" href="$class_tile_template_sets_manager.html#a1b3efef949cff7b782b1d6e0b2012a04" title="removeTileTemplateSet Attempt to remove a templateSet at the given index. " alt="" coords="931,259,1107,297"/>
+</map>

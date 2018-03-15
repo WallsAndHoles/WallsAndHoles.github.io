@@ -1,0 +1,7 @@
+<map id="TileMapHelper::getFillRegion" name="TileMapHelper::getFillRegion">
+<area shape="rect" id="node2" href="$class_fill_tool.html#aea6cf55b437a150c6515b723679d93f8" title="FillTool::updateSelection" alt="" coords="246,29,412,55"/>
+<area shape="rect" id="node6" href="$class_tile_map_selection_tool.html#a8137521586ad7d19e305bdb5461b148d" title="Called when the left mouse button is released over a cell. " alt="" coords="255,79,403,117"/>
+<area shape="rect" id="node3" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="466,5,599,31"/>
+<area shape="rect" id="node4" href="$class_fill_tool.html#a7bb9f5c02abc190093d1261b2d9f597a" title="Draws an overlay previewing the area that will be filled. " alt="" coords="460,55,605,80"/>
+<area shape="rect" id="node5" href="$class_fill_tool.html#ae58b84c4864666aa219534f1141a37e5" title="This will show a preview for the selected area. " alt="" coords="653,55,794,80"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AbstractTool::contextActions" name="AbstractTool::contextActions">
+<area shape="rect" id="node2" href="$class_tool_manager.html#ac9f1d7f5eb52a1e18872dda47a0561c1" title="Activates the desired tool. " alt="" coords="242,44,418,69"/>
+<area shape="rect" id="node3" href="$class_tool_manager.html#aab66f70d3188b3be8e453ec7b1408b3d" title="Registers the tool with the given identifier. " alt="" coords="466,44,641,69"/>
+<area shape="rect" id="node4" href="$class_mesh_view_container.html#ab4e62eb81e6384a57d6297bbbf50f73b" title="MeshViewContainer::\laddCamera" alt="" coords="689,68,837,107"/>
+<area shape="rect" id="node7" href="$class_tile_map_tool_manager.html#a67984aca84c7c5a73c05158b3bdf274b" title="TileMapToolManager\l::registerMapTool" alt="" coords="690,5,836,44"/>
+<area shape="rect" id="node5" href="$class_editor.html#a4a43cf95fee9190e70d1f3433e72a323" title="Editor::Editor" alt="" coords="910,16,1008,41"/>
+<area shape="rect" id="node6" href="$class_mesh_view_container.html#a5eb50c539404379cb8d46f5d3ca883fb" title="MeshViewContainer::\lMeshViewContainer" alt="" coords="885,68,1033,107"/>
+</map>

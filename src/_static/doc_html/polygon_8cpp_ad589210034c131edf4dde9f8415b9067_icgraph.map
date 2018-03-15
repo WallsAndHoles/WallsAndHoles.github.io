@@ -1,0 +1,8 @@
+<map id="parseQPolygonF" name="parseQPolygonF">
+<area shape="rect" id="node2" href="$class_better_polygon.html#aa475cac4f6d794a4dbcde0046c88490a" title="BetterPolygon::subtract" alt="" coords="175,40,335,65"/>
+<area shape="rect" id="node7" href="$class_better_polygon.html#a7d56c689a3f53048859643d80dc08d91" title="BetterPolygon::united" alt="" coords="180,89,329,115"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_abstract_polygon_tile_mesher.html#a00e3478843ca18b0b71498cd918f25b3" title="makeMesh Creates the mesh for this tile. " alt="" coords="383,5,559,44"/>
+<area shape="rect" id="node4" href="$class_better_polygon.html#a977ba646ef2eab729f95f722caec6dd5" title="BetterPolygon::intersect" alt="" coords="389,68,552,93"/>
+<area shape="rect" id="node5" href="$groundblockypolygontilemesher_8cpp.html#ab3db47b60f6dec33896e20babdc36bec" title="makeDiagonal" alt="" coords="607,68,714,93"/>
+<area shape="rect" id="node6" href="$class_m2_m_1_1_ground_blocky_polygon_tile_mesher.html#a5371cf7b3f5e986cf1a4700d8cf667b1" title="M2M::GroundBlockyPolygon\lTileMesher::topPolygons" alt="" coords="762,61,952,100"/>
+</map>

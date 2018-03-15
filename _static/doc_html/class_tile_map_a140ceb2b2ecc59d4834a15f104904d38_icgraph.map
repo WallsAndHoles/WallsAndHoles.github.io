@@ -1,0 +1,12 @@
+<map id="TileMap::mapSize" name="TileMap::mapSize">
+<area shape="rect" id="node2" href="$class_map2_mesh.html#af34db41ed092f10965a36b92e00a0161" title="Modifies the mesh near the tile that changed. " alt="" coords="203,5,369,31"/>
+<area shape="rect" id="node4" href="$class_map2_mesh.html#a7052bd5d9e8840f2c224cf2a70f0bc4c" title="Completely remakes all tile meshes. " alt="" coords="209,55,363,80"/>
+<area shape="rect" id="node5" href="$class_map_property_manager.html#a08aacb9bdc021fef2460ea27d8cb0547" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="211,104,361,143"/>
+<area shape="rect" id="node6" href="$class_map_property_manager.html#aa4baf6b99f0082883738191b51c31bb1" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="211,167,361,205"/>
+<area shape="rect" id="node7" href="$class_tile_map_brush_tool.html#a0e9ddc543f6aebe2abb045d36929e930" title="Called when the left mouse button is down over a new cell. " alt="" coords="181,229,391,255"/>
+<area shape="rect" id="node8" href="$xmltool_8cpp.html#a3a1d7b2d351f2df2c938778ab71dd6c9" title="tileMapElement" alt="" coords="229,279,342,304"/>
+<area shape="rect" id="node3" href="$class_map2_mesh.html#a5eda437c1572291858e9c32896aab48e" title="Creates the conversion object. " alt="" coords="439,31,599,56"/>
+<area shape="rect" id="node9" href="$namespace_x_m_l_tool.html#a743bf21e37f9cad731aef40cd08c38c0" title="XMLTool::saveTileMap" alt="" coords="442,279,596,304"/>
+<area shape="rect" id="node10" href="$class_editor.html#add1f4b900d9c8ae6065ccd769929b617" title="Editor::saveMap" alt="" coords="655,253,773,279"/>
+<area shape="rect" id="node11" href="$class_editor.html#a38d9676c4e9b822da55e107a6e13c997" title="Editor::saveMapAs" alt="" coords="647,303,781,328"/>
+</map>

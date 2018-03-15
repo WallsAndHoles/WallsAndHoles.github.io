@@ -1,0 +1,11 @@
+<map id="TileMaterial::texture" name="TileMaterial::texture">
+<area shape="rect" id="node2" href="$class_material_property_manager.html#a2fc8423d9646a76e730332df464cf3df" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="191,5,363,44"/>
+<area shape="rect" id="node3" href="$class_tile_material.html#ad3621022e165a6a6c72800ab9750ab15" title="TileMaterial::setTexture" alt="" coords="198,68,356,93"/>
+<area shape="rect" id="node4" href="$class_tile_material_set.html#a10b0b7667e495de64be33de6e94d8454" title="TileMaterialSet::data" alt="" coords="206,117,349,143"/>
+<area shape="rect" id="node6" href="$xmltool_8cpp.html#a6e64507754c495987604cc98649c00a6" title="tileMaterialElement" alt="" coords="210,167,344,192"/>
+<area shape="rect" id="node5" href="$class_tile_material_set.html#a00c7808e84bd5a838345d9acd6ee36ac" title="TileMaterialSet::setData" alt="" coords="411,117,574,143"/>
+<area shape="rect" id="node7" href="$xmltool_8cpp.html#a45b869a49299560bb235376ed73c6d2d" title="tileTemplateSetElement" alt="" coords="412,167,573,192"/>
+<area shape="rect" id="node8" href="$namespace_x_m_l_tool.html#ac7d4c5c6796bf6931a0b0f1a434cdf54" title="XMLTool::saveTileTemplateSet" alt="" coords="622,167,825,192"/>
+<area shape="rect" id="node9" href="$class_savable_tile_template_set.html#a1fd3d60affe7da95aa7026f80a030a4c" title="SavableTileTemplateSet\l::save" alt="" coords="873,160,1038,199"/>
+<area shape="rect" id="node10" href="$class_tile_template_sets_manager.html#a1b3efef949cff7b782b1d6e0b2012a04" title="removeTileTemplateSet Attempt to remove a templateSet at the given index. " alt="" coords="1086,160,1261,199"/>
+</map>

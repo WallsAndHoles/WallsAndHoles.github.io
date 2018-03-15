@@ -1,0 +1,5 @@
+<map id="PropertyBrowser::setPropertyManager" name="PropertyBrowser::setPropertyManager">
+<area shape="rect" id="node2" href="$class_abstract_tile_selection_tool.html#a2017c7e4ab0d80d5782b8de6957febdf" title="activateSelection " alt="" coords="253,5,423,44"/>
+<area shape="rect" id="node4" href="$class_editor.html#af3853603f9aa9300594941dfdce483bf" title="Editor::viewMapProperties" alt="" coords="250,68,426,93"/>
+<area shape="rect" id="node3" href="$class_tile_map_selection_tool.html#a8137521586ad7d19e305bdb5461b148d" title="Called when the left mouse button is released over a cell. " alt="" coords="474,5,622,44"/>
+</map>

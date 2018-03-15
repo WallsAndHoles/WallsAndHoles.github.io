@@ -1,0 +1,4 @@
+<map id="FillTool::toolTileMapChanged" name="FillTool::toolTileMapChanged">
+<area shape="rect" id="node2" href="$class_fill_tool.html#a283a6bd0cf2aa9ca7adcc895117a730a" title="FillTool::invalidateSelection" alt="" coords="246,5,428,31"/>
+<area shape="rect" id="node3" href="$class_abstract_tile_map_tool.html#a8da89838db1265fe788d47bff5ccda0b" title="AbstractTileMapTool\l::getTileMap" alt="" coords="266,55,408,93"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TileTemplate::topMaterial" name="TileTemplate::topMaterial">
+<area shape="rect" id="node2" href="$class_template_material_selector.html#aecb9e0c96c1a0457422d63dc79258830" title="TemplateMaterialSelector\l::TemplateMaterialSelector" alt="" coords="223,5,402,44"/>
+<area shape="rect" id="node3" href="$class_tile.html#ab324ab1806a368b5101d8a4fe1e10b08" title="Tile::topMaterial" alt="" coords="255,68,371,93"/>
+<area shape="rect" id="node5" href="$class_tile.html#ac3dc14338a578ef7ebc09a3233423a5a" title="Tile::sideMaterial" alt="" coords="252,117,374,143"/>
+<area shape="rect" id="node4" href="$class_m2_m_1_1_abstract_polygon_tile_mesher.html#a00e3478843ca18b0b71498cd918f25b3" title="makeMesh Creates the mesh for this tile. " alt="" coords="450,87,627,125"/>
+</map>

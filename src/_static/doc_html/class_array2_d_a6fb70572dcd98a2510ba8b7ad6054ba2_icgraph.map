@@ -1,0 +1,18 @@
+<map id="Array2D::height" name="Array2D::height">
+<area shape="rect" id="node2" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D\&lt; QSharedPointer\l\&lt; Tile \&gt; \&gt;::size" alt="" coords="167,5,345,44"/>
+<area shape="rect" id="node3" href="$class_array2_d.html#aab39a7b2b6e09c87d85873573f90c347" title="Returns true if (p.x(), p.y()) is a valid region. " alt="" coords="167,68,345,107"/>
+<area shape="rect" id="node4" href="$class_tile_map.html#af421ab425f2d0c81174fed01496d1291" title="TileMap::contains" alt="" coords="193,131,319,156"/>
+<area shape="rect" id="node5" href="$namespace_tile_map_helper.html#a83dcc6c4e1235d90c099faf1d2f460b0" title="getFillRegion " alt="" coords="404,75,597,100"/>
+<area shape="rect" id="node11" href="$namespace_tile_map_helper.html#a5bdc2d7652e16633acb7116c8da7b9f0" title="TileMapHelper::getAllOfTemplate\lAtTile" alt="" coords="393,124,609,163"/>
+<area shape="rect" id="node12" href="$class_tile_template_change_command.html#a1f5235b8a8cda251d49b1ce591b6b671" title="make Creates the TileTemplateChangeCommand. This will automatically crop the given region so that it ..." alt="" coords="399,253,603,292"/>
+<area shape="rect" id="node6" href="$class_fill_tool.html#aea6cf55b437a150c6515b723679d93f8" title="FillTool::updateSelection" alt="" coords="680,47,846,72"/>
+<area shape="rect" id="node10" href="$class_tile_map_selection_tool.html#a8137521586ad7d19e305bdb5461b148d" title="Called when the left mouse button is released over a cell. " alt="" coords="689,96,837,135"/>
+<area shape="rect" id="node7" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="922,128,1056,153"/>
+<area shape="rect" id="node8" href="$class_fill_tool.html#a7bb9f5c02abc190093d1261b2d9f597a" title="Draws an overlay previewing the area that will be filled. " alt="" coords="916,47,1062,72"/>
+<area shape="rect" id="node9" href="$class_fill_tool.html#ae58b84c4864666aa219534f1141a37e5" title="This will show a preview for the selected area. " alt="" coords="1110,47,1250,72"/>
+<area shape="rect" id="node13" href="$class_tile_map_brush_tool.html#a0e9ddc543f6aebe2abb045d36929e930" title="Called when the left mouse button is down over a new cell. " alt="" coords="658,211,868,236"/>
+<area shape="rect" id="node14" href="$class_tile_map_brush_tool.html#a509d04900ff0b58f4e98dda1b914420b" title="Called when the left mouse button is released over a cell. " alt="" coords="657,260,868,285"/>
+<area shape="rect" id="node15" href="$class_tile_template_change_command.html#a3065f20365afbdc53b3be00ae44bd224" title="make Creates the TileTemplateChangeCommand. This will automatically crop the given region so that it ..." alt="" coords="660,309,865,348"/>
+<area shape="rect" id="node16" href="$class_tile_template_sets_manager.html#a1b3efef949cff7b782b1d6e0b2012a04" title="removeTileTemplateSet Attempt to remove a templateSet at the given index. " alt="" coords="675,372,851,411"/>
+<area shape="rect" id="node17" href="$class_tile_template_sets_manager.html#a4b6c27a67f2d535278988113cc45434b" title="removeTileTemplate Attempts to remove the template specified at this index. If mTileMap uses that tem..." alt="" coords="675,435,851,473"/>
+</map>

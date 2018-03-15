@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_map_cell_graphics_item.html" title="The MapCellGraphicsItem class Inherits from QGraphicsItem this class is used for painting and generat..." alt="" coords="187,5,337,31"/>
+<area shape="rect" id="node3" href="$class_tile_map_preview_graphics_item.html" title="TileMapPreviewGraphicsItem" alt="" coords="164,55,359,80"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SimpleTexturedObject::getImage" name="SimpleTexturedObject::getImage">
+<area shape="rect" id="node2" href="$class_simple_textured_renderer.html#ae29ecabc3a3a15649df7bead29cf2135" title="This slot should be called whenever an object is removed from the underlying scene. Locks the mGLDataMutex. " alt="" coords="205,5,374,44"/>
+<area shape="rect" id="node3" href="$class_simple_textured_scene.html#a126c909de9bb5528bbc9003ce21ba251" title="Creates and returns a SimpleTexturedRenderer. " alt="" coords="422,5,573,44"/>
+</map>

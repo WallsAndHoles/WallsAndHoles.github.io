@@ -1,0 +1,9 @@
+<map id="TileMap::width" name="TileMap::width">
+<area shape="rect" id="node2" href="$class_map2_mesh.html#ae7d524082fccf02a848bba31a1363be2" title="Updates the scene for all tiles that need updates. " alt="" coords="182,55,355,80"/>
+<area shape="rect" id="node6" href="$namespace_tile_map_helper.html#aae51503acec3506537b6ce3dc5b4852d" title="TileMapHelper::getAllOfTemplate" alt="" coords="160,107,377,132"/>
+<area shape="rect" id="node3" href="$class_map2_mesh.html#af34db41ed092f10965a36b92e00a0161" title="Modifies the mesh near the tile that changed. " alt="" coords="450,5,616,31"/>
+<area shape="rect" id="node5" href="$class_map2_mesh.html#a7052bd5d9e8840f2c224cf2a70f0bc4c" title="Completely remakes all tile meshes. " alt="" coords="456,55,610,80"/>
+<area shape="rect" id="node4" href="$class_map2_mesh.html#a5eda437c1572291858e9c32896aab48e" title="Creates the conversion object. " alt="" coords="689,31,850,56"/>
+<area shape="rect" id="node7" href="$namespace_tile_map_helper.html#a5bdc2d7652e16633acb7116c8da7b9f0" title="TileMapHelper::getAllOfTemplate\lAtTile" alt="" coords="425,104,641,143"/>
+<area shape="rect" id="node8" href="$class_tile_map_selection_tool.html#a8137521586ad7d19e305bdb5461b148d" title="Called when the left mouse button is released over a cell. " alt="" coords="696,104,843,143"/>
+</map>

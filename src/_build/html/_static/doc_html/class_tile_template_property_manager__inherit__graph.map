@@ -1,0 +1,3 @@
+<map id="TileTemplatePropertyManager" name="TileTemplatePropertyManager">
+<area shape="rect" id="node2" href="$class_abstract_property_manager.html" title="The AbstractPropertyManager class Should take some source data in the constructor, and implement the ability to see and modify any properties of the core object. " alt="" coords="18,79,192,104"/>
+</map>

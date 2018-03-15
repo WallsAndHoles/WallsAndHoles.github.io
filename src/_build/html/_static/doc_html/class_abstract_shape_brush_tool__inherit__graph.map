@@ -1,0 +1,7 @@
+<map id="AbstractShapeBrushTool" name="AbstractShapeBrushTool">
+<area shape="rect" id="node5" href="$class_ellipse_brush_tool.html" title="EllipseBrushTool" alt="" coords="5,299,125,324"/>
+<area shape="rect" id="node6" href="$class_line_brush_tool.html" title="LineBrushTool" alt="" coords="150,299,256,324"/>
+<area shape="rect" id="node7" href="$class_rect_brush_tool.html" title="RectBrushTool" alt="" coords="279,299,387,324"/>
+<area shape="rect" id="node2" href="$class_abstract_tile_map_tool.html" title="AbstractTileMapTool" alt="" coords="132,152,273,177"/>
+<area shape="rect" id="node3" href="$class_abstract_tool.html" title="The AbstractTool class represents a UI tool. A UI tool can be activated or deactivated. " alt="" coords="155,79,250,104"/>
+</map>

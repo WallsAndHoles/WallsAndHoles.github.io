@@ -1,0 +1,4 @@
+<map id="Tile::resetTile" name="Tile::resetTile">
+<area shape="rect" id="node2" href="$namespace_x_m_l_tool.html#af3fe20dbb924a11abb3df1af53eb8ecc" title="XMLTool::openTileMap" alt="" coords="154,5,310,31"/>
+<area shape="rect" id="node3" href="$class_editor.html#a392c4c8e63399e824bbac9b669287602" title="Editor::loadMap" alt="" coords="358,5,473,31"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TileMapToolManager::tileTemplateChanged" name="TileMapToolManager::tileTemplateChanged">
+<area shape="rect" id="node2" href="$tilemaptoolmanager_8cpp.html#ae655edb558933435aa80e10dbd9e07c6" title="tool2TileMapTool" alt="" coords="217,5,339,31"/>
+<area shape="rect" id="node3" href="$class_abstract_tile_map_tool.html#a15e7410ca46160fd41d107a00d206327" title="AbstractTileMapTool\l::setTileTemplate" alt="" coords="207,55,349,93"/>
+</map>

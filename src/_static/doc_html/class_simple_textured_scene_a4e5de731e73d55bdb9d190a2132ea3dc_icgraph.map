@@ -1,0 +1,6 @@
+<map id="SimpleTexturedScene::sceneCleared" name="SimpleTexturedScene::sceneCleared">
+<area shape="rect" id="node2" href="$class_simple_textured_scene.html#aef6f2e4e8008e8cf3d7c99bec3665d5e" title="Creates an empty scene. " alt="" coords="204,5,363,44"/>
+<area shape="rect" id="node4" href="$class_simple_textured_scene.html#a81c68433fcd77e5e119de76be0206a2c" title="Removes all objects from the scene. " alt="" coords="208,68,359,107"/>
+<area shape="rect" id="node5" href="$class_simple_textured_scene.html#a126c909de9bb5528bbc9003ce21ba251" title="Creates and returns a SimpleTexturedRenderer. " alt="" coords="208,131,359,169"/>
+<area shape="rect" id="node3" href="$class_simple_textured_scene.html#ac480755148e093e49894a6ce695d8900" title="Creates an empty scene. " alt="" coords="411,5,562,44"/>
+</map>

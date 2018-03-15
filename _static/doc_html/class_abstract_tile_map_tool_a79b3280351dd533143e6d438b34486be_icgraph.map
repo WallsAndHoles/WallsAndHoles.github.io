@@ -1,0 +1,8 @@
+<map id="AbstractTileMapTool::getTileTemplate" name="AbstractTileMapTool::getTileTemplate">
+<area shape="rect" id="node2" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="234,5,368,31"/>
+<area shape="rect" id="node3" href="$class_fill_tool.html#a7bb9f5c02abc190093d1261b2d9f597a" title="Draws an overlay previewing the area that will be filled. " alt="" coords="228,55,373,80"/>
+<area shape="rect" id="node5" href="$class_tile_map_brush_tool.html#a0e9ddc543f6aebe2abb045d36929e930" title="Called when the left mouse button is down over a new cell. " alt="" coords="196,104,406,129"/>
+<area shape="rect" id="node6" href="$class_tile_map_brush_tool.html#a99e73a38962b5334ca57ef14f7de9196" title="Called when the mouse hovers over a new cell. " alt="" coords="198,153,403,179"/>
+<area shape="rect" id="node7" href="$class_tile_map_brush_tool.html#a509d04900ff0b58f4e98dda1b914420b" title="Called when the left mouse button is released over a cell. " alt="" coords="195,203,406,228"/>
+<area shape="rect" id="node4" href="$class_fill_tool.html#ae58b84c4864666aa219534f1141a37e5" title="This will show a preview for the selected area. " alt="" coords="454,55,595,80"/>
+</map>

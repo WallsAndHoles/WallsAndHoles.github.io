@@ -1,0 +1,7 @@
+<map id="TileTemplate::pingTiles" name="TileTemplate::pingTiles">
+<area shape="rect" id="node2" href="$class_tile_template.html#a16ec5c565d3f4f32d176bb6957c9c50c" title="emitTilePing Sends a signal to all tiles using this template, which will be forwarded to the containi..." alt="" coords="210,55,387,80"/>
+<area shape="rect" id="node3" href="$class_tile_map.html#aaa2bc055a9556f7827992719817b2715" title="tileTemplateUsed Returns true if some tile in the map uses this tileTemplate " alt="" coords="442,5,633,31"/>
+<area shape="rect" id="node5" href="$class_tile_map.html#a97062e64c71f886e8de817d6a8aecf5e" title="removeTileTemplate Called when a tileTemplate is going to be removed. Any tiles using template will b..." alt="" coords="435,55,640,80"/>
+<area shape="rect" id="node6" href="$class_tile_map.html#a9fc6bd9ee54f5496d8175fc605ac03fa" title="tilePositionsUsingTemplate Finds the positions of all the tiles using a given TileTemplate. " alt="" coords="447,104,628,143"/>
+<area shape="rect" id="node4" href="$class_tile_template_sets_manager.html#a4b6c27a67f2d535278988113cc45434b" title="removeTileTemplate Attempts to remove the template specified at this index. If mTileMap uses that tem..." alt="" coords="688,52,864,91"/>
+</map>

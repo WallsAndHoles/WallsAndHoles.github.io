@@ -1,0 +1,4 @@
+<map id="TileMaterialSelectionBar::setMaterial" name="TileMaterialSelectionBar::setMaterial">
+<area shape="rect" id="node2" href="$class_template_material_selector.html#aecb9e0c96c1a0457422d63dc79258830" title="TemplateMaterialSelector\l::TemplateMaterialSelector" alt="" coords="219,5,398,44"/>
+<area shape="rect" id="node3" href="$class_tile_material_selection_bar.html#a963f5638877284171c91287db0223ae6" title="TileMaterialSelectionBar\l::dropEvent" alt="" coords="226,68,391,107"/>
+</map>

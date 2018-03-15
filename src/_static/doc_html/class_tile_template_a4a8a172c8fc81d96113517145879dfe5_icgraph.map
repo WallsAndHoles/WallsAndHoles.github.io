@@ -1,0 +1,18 @@
+<map id="TileTemplate::changed" name="TileTemplate::changed">
+<area shape="rect" id="node2" href="$class_tile_template.html#a0f37d78fe9ad79f8589cb210a3c29bc1" title="TileTemplate::setHeight" alt="" coords="226,5,386,31"/>
+<area shape="rect" id="node4" href="$class_tile_template.html#aa653b0c759b8000e7e1b7222d4320394" title="setThickness " alt="" coords="215,55,397,80"/>
+<area shape="rect" id="node5" href="$class_tile_template.html#a488d04a50155d1b992424a54038f0a0e" title="setPosition " alt="" coords="222,104,391,129"/>
+<area shape="rect" id="node6" href="$class_tile_template.html#ab6e90b3b1cd8d56ea79380d5cdf04e42" title="TileTemplate::setColor" alt="" coords="229,153,383,179"/>
+<area shape="rect" id="node7" href="$class_tile_template.html#a14369ca2e761ac80d632feb9582a1cc1" title="TileTemplate::setHasSide\lMaterial" alt="" coords="220,364,392,403"/>
+<area shape="rect" id="node10" href="$class_tile_template.html#a07e99d047042f33eaf0cc0555c5aa78f" title="Updates the top material for the tile template. " alt="" coords="211,476,401,501"/>
+<area shape="rect" id="node12" href="$class_tile_template.html#ab4f9182d034778013024f14670cc1a7a" title="Updates the side material for the tile template. " alt="" coords="208,427,404,452"/>
+<area shape="rect" id="node13" href="$class_tile_template.html#a13896e42d18df03f446f5d43fb2ac6f0" title="TileTemplate::setBridgeTiles" alt="" coords="212,203,400,228"/>
+<area shape="rect" id="node14" href="$class_tile_template.html#a5196c5076d664a8205372ea03064732c" title="TileTemplate::setConnect\lDiagonals" alt="" coords="221,252,392,291"/>
+<area shape="rect" id="node15" href="$class_tile_template.html#a4cbe1fe82fa79ed89c25f265786ece87" title="TileTemplate::setName" alt="" coords="228,315,385,340"/>
+<area shape="rect" id="node16" href="$class_tile_template_set.html#a19b5b0b70fe13928387938177d1a6723" title="TileTemplateSet::addTile\lTemplate" alt="" coords="223,525,390,564"/>
+<area shape="rect" id="node3" href="$class_tile_template_property_manager.html#a1592dd30bd7efef3fd02297e17ee47f4" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="455,147,654,185"/>
+<area shape="rect" id="node8" href="$namespace_x_m_l_tool.html#a8fd71629a85800ff28125916949c4b37" title="XMLTool::openTileTemplateSet" alt="" coords="452,385,656,411"/>
+<area shape="rect" id="node9" href="$class_tile_template_sets_manager.html#a0e3b9e55b8adf7cbf7c96ae92e41098c" title="loadTileTemplateSet Loads a tileTemplateSet at the given path. If the file can&#39;t be loaded for any re..." alt="" coords="704,379,880,417"/>
+<area shape="rect" id="node11" href="$class_tile_template.html#a059a36298cd063a578230ff67901f92b" title="TileTemplate::TileTemplate" alt="" coords="465,451,644,476"/>
+<area shape="rect" id="node17" href="$class_tile_map.html#a5f96a089512efd49f96b4ebd87eaafe4" title="TileMap::TileMap" alt="" coords="493,532,616,557"/>
+</map>

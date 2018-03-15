@@ -1,0 +1,17 @@
+<map id="WallsAndHoles/abstractshapebrushtool.h" name="WallsAndHoles/abstractshapebrushtool.h">
+<area shape="rect" id="node5" href="$array2d_8h.html" title="array2d.h" alt="" coords="426,225,504,251"/>
+<area shape="rect" id="node10" href="$abstracttilemaptool_8h.html" title="abstracttilemaptool.h" alt="" coords="578,79,723,104"/>
+<area shape="rect" id="node16" href="$tilemap_8h.html" title="tilemap.h" alt="" coords="774,152,850,177"/>
+<area shape="rect" id="node18" href="$tiletemplate_8h.html" title="tiletemplate.h" alt="" coords="964,372,1065,397"/>
+<area shape="rect" id="node33" href="$mapview_8h.html" title="mapview.h" alt="" coords="1246,79,1330,104"/>
+<area shape="rect" id="node43" href="$tiletemplatechangecommand_8h.html" title="tiletemplatechangecommand.h" alt="" coords="2000,79,2203,104"/>
+<area shape="rect" id="node8" href="$array2d__private_8h.html" title="array2d_private.h" alt="" coords="331,299,456,324"/>
+<area shape="rect" id="node11" href="$abstracttool_8h.html" title="abstracttool.h" alt="" coords="120,152,221,177"/>
+<area shape="rect" id="node30" href="$tilemappreviewgraphicsitem_8h.html" title="tilemappreviewgraphicsitem.h" alt="" coords="1013,152,1210,177"/>
+<area shape="rect" id="node17" href="$tile_8h.html" title="tile.h" alt="" coords="1174,299,1223,324"/>
+<area shape="rect" id="node26" href="$tiletemplateset_8h.html" title="tiletemplateset.h" alt="" coords="679,225,798,251"/>
+<area shape="rect" id="node22" href="$tilematerial_8h.html" title="tilematerial.h" alt="" coords="1316,445,1412,471"/>
+<area shape="rect" id="node23" href="$imageandsource_8h.html" title="imageandsource.h" alt="" coords="1317,519,1448,544"/>
+<area shape="rect" id="node34" href="$mapcell_8h.html" title="mapcell.h" alt="" coords="1365,152,1443,177"/>
+<area shape="rect" id="node35" href="$mapcellgraphicsitem_8h.html" title="mapcellgraphicsitem.h" alt="" coords="1232,225,1386,251"/>
+</map>

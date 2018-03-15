@@ -1,0 +1,16 @@
+<map id="ShapeRegion::line" name="ShapeRegion::line">
+<area shape="rect" id="node2" href="$blockypolygontilemesher_8cpp.html#ac8f9b4ddc95c73a8621b7ecc086999e9" title="lineHitsEdgeAt" alt="" coords="223,12,332,37"/>
+<area shape="rect" id="node5" href="$class_line_brush_tool.html#ae646a2baa6e1750789dee8fb7bf6fda8" title="Makes a 1&#45;pixel line by intersecting a line with a grid. " alt="" coords="193,61,363,87"/>
+<area shape="rect" id="node6" href="$class_better_polygon.html#ab6e407d7277d36c4f07fd52fe25e86b2" title="chordIsClear " alt="" coords="184,111,372,136"/>
+<area shape="rect" id="node9" href="$class_better_polygon.html#a4736bc0bfabb67604fd703b41378b792" title="BetterPolygon::connection\lIsClear" alt="" coords="189,160,366,199"/>
+<area shape="rect" id="node15" href="$class_better_polygon.html#af35ef44cd49b846ffa78393dba314265" title="BetterPolygon::overlaps" alt="" coords="196,223,359,248"/>
+<area shape="rect" id="node3" href="$blockypolygontilemesher_8cpp.html#a6550a83177a6ab10341f3868c21cfb61" title="makeDiagonal" alt="" coords="459,12,565,37"/>
+<area shape="rect" id="node4" href="$class_m2_m_1_1_blocky_polygon_tile_mesher.html#afd9466fc3234d6b86655380bc5192f5d" title="M2M::BlockyPolygonTileMesher\l::topPolygons" alt="" coords="652,5,863,44"/>
+<area shape="rect" id="node7" href="$class_better_polygon.html#a23a205323866cc89343150225a8fa457" title="splitPolygon " alt="" coords="420,111,604,136"/>
+<area shape="rect" id="node8" href="$class_better_polygon.html#aed6946c760953df84dc45bee1611c522" title="triangulate " alt="" coords="670,111,845,136"/>
+<area shape="rect" id="node10" href="$class_better_polygon.html#aa475cac4f6d794a4dbcde0046c88490a" title="BetterPolygon::subtract" alt="" coords="432,195,592,220"/>
+<area shape="rect" id="node11" href="$class_m2_m_1_1_abstract_polygon_tile_mesher.html#a00e3478843ca18b0b71498cd918f25b3" title="makeMesh Creates the mesh for this tile. " alt="" coords="670,173,846,212"/>
+<area shape="rect" id="node12" href="$class_better_polygon.html#a977ba646ef2eab729f95f722caec6dd5" title="BetterPolygon::intersect" alt="" coords="676,236,839,261"/>
+<area shape="rect" id="node13" href="$groundblockypolygontilemesher_8cpp.html#ab3db47b60f6dec33896e20babdc36bec" title="makeDiagonal" alt="" coords="911,236,1018,261"/>
+<area shape="rect" id="node14" href="$class_m2_m_1_1_ground_blocky_polygon_tile_mesher.html#a5371cf7b3f5e986cf1a4700d8cf667b1" title="M2M::GroundBlockyPolygon\lTileMesher::topPolygons" alt="" coords="1066,229,1256,268"/>
+</map>

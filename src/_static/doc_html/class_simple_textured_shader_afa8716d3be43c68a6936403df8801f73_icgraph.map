@@ -1,0 +1,3 @@
+<map id="SimpleTexturedShader::destroy" name="SimpleTexturedShader::destroy">
+<area shape="rect" id="node2" href="$class_simple_textured_renderer.html#a46583b4d17d02eb462cc1c4aceea345b" title="Cleans up all OpenGL data. This assumes that the correct context is current, and all data is cleaned ..." alt="" coords="210,5,378,44"/>
+</map>

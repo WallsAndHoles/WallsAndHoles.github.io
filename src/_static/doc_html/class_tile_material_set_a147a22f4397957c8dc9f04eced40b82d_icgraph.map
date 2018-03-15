@@ -1,0 +1,11 @@
+<map id="TileMaterialSet::parent" name="TileMaterialSet::parent">
+<area shape="rect" id="node2" href="$class_tile_material_set.html#a2dff14eeee88c762be3899bf758cd513" title="TileMaterialSet::index" alt="" coords="232,104,381,129"/>
+<area shape="rect" id="node9" href="$class_tile_material_set.html#ae52cc82df40723c8a084fd3d4e875c11" title="TileMaterialSet::rowCount" alt="" coords="219,153,393,179"/>
+<area shape="rect" id="node10" href="$class_tile_material_set.html#a59c59457ea7b424c889d3bf8e3b00e10" title="TileMaterialSet::columnCount" alt="" coords="208,203,404,228"/>
+<area shape="rect" id="node3" href="$class_tile_material_set.html#ac0cbf5592ce53276f3617638f9dc00e4" title="TileMaterialSet::removeMaterial" alt="" coords="452,5,661,31"/>
+<area shape="rect" id="node4" href="$class_tile_material_set.html#a8170baf6517254723b378878b31930c7" title="TileMaterialSet::materialAt" alt="" coords="468,55,645,80"/>
+<area shape="rect" id="node6" href="$class_tile_material_set.html#a10b0b7667e495de64be33de6e94d8454" title="TileMaterialSet::data" alt="" coords="485,104,628,129"/>
+<area shape="rect" id="node7" href="$class_tile_material_set.html#a00c7808e84bd5a838345d9acd6ee36ac" title="TileMaterialSet::setData" alt="" coords="710,132,873,157"/>
+<area shape="rect" id="node8" href="$class_tile_material_set.html#a798bb0d46ca0ed2fb4a36e7d1b88759a" title="TileMaterialSet::flags" alt="" coords="484,205,629,231"/>
+<area shape="rect" id="node5" href="$class_tile_material_selection_bar.html#a963f5638877284171c91287db0223ae6" title="TileMaterialSelectionBar\l::dropEvent" alt="" coords="709,48,874,87"/>
+</map>

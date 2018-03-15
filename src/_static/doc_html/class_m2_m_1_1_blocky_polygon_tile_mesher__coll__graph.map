@@ -1,0 +1,5 @@
+<map id="M2M::BlockyPolygonTileMesher" name="M2M::BlockyPolygonTileMesher">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_abstract_polygon_tile_mesher.html" title="M2M::AbstractPolygonTile\lMesher" alt="" coords="23,167,199,205"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_abstract_tile_mesher.html" title="A collection of methods for generating tile mesh data. " alt="" coords="25,92,197,117"/>
+<area shape="rect" id="node4" href="$class_m2_m_1_1_tile_neighborhood_info.html" title="M2M::TileNeighborhoodInfo" alt="" coords="18,5,204,31"/>
+</map>

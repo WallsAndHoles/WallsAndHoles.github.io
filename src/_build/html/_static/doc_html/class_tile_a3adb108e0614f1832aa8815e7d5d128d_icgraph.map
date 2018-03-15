@@ -1,0 +1,11 @@
+<map id="Tile::relativeThickness" name="Tile::relativeThickness">
+<area shape="rect" id="node2" href="$class_tile.html#a43679c09f8d895eaa27b385ec078fe7a" title="setRelativeThickness " alt="" coords="206,23,382,48"/>
+<area shape="rect" id="node6" href="$class_tile_property_manager.html#a7476021db4766894d4530507c60ea15d" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="221,72,367,111"/>
+<area shape="rect" id="node7" href="$xmltool_8cpp.html#a3a1d7b2d351f2df2c938778ab71dd6c9" title="tileMapElement" alt="" coords="237,135,351,160"/>
+<area shape="rect" id="node3" href="$class_tile.html#a35125972bffcccef4647a966a1ea66a0" title="Tile::templateThicknessChanged" alt="" coords="430,5,645,31"/>
+<area shape="rect" id="node4" href="$namespace_x_m_l_tool.html#af3fe20dbb924a11abb3df1af53eb8ecc" title="XMLTool::openTileMap" alt="" coords="459,55,615,80"/>
+<area shape="rect" id="node5" href="$class_editor.html#a392c4c8e63399e824bbac9b669287602" title="Editor::loadMap" alt="" coords="702,55,817,80"/>
+<area shape="rect" id="node8" href="$namespace_x_m_l_tool.html#a743bf21e37f9cad731aef40cd08c38c0" title="XMLTool::saveTileMap" alt="" coords="460,135,615,160"/>
+<area shape="rect" id="node9" href="$class_editor.html#add1f4b900d9c8ae6065ccd769929b617" title="Editor::saveMap" alt="" coords="701,119,818,144"/>
+<area shape="rect" id="node10" href="$class_editor.html#a38d9676c4e9b822da55e107a6e13c997" title="Editor::saveMapAs" alt="" coords="693,168,826,193"/>
+</map>

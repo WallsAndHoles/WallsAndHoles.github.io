@@ -1,0 +1,3 @@
+<map id="SimpleTexturedRenderer::cleanUp" name="SimpleTexturedRenderer::cleanUp">
+<area shape="rect" id="node2" href="$class_simple_textured_shader.html#afa8716d3be43c68a6936403df8801f73" title="Destroys the program. Assumes an OpenGL context is bound. " alt="" coords="222,5,378,44"/>
+</map>

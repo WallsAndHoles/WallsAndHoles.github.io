@@ -1,0 +1,9 @@
+<map id="TileTemplateChangeCommand::make" name="TileTemplateChangeCommand::make">
+<area shape="rect" id="node2" href="$namespace_shape_region.html#a423e93dd9b277bc91d654bce8cc5d9b3" title="ShapeRegion::rect" alt="" coords="258,12,390,37"/>
+<area shape="rect" id="node4" href="$class_tile_map.html#af421ab425f2d0c81174fed01496d1291" title="TileMap::contains" alt="" coords="261,68,387,93"/>
+<area shape="rect" id="node7" href="$class_tile_map.html#a9b376db9b1b84540976c1e567987a610" title="TileMap::tileAt" alt="" coords="271,129,377,155"/>
+<area shape="rect" id="node3" href="$namespace_shape_region.html#ad16a6148f91b1539e56528961f86a126" title="ShapeRegion::findBounds" alt="" coords="438,5,614,31"/>
+<area shape="rect" id="node5" href="$class_array2_d.html#a942d010f7fbf73788774e264e6f6ee50" title="Array2D::width" alt="" coords="472,55,580,80"/>
+<area shape="rect" id="node6" href="$class_array2_d.html#a6fb70572dcd98a2510ba8b7ad6054ba2" title="Array2D::height" alt="" coords="469,104,583,129"/>
+<area shape="rect" id="node8" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="475,153,577,179"/>
+</map>

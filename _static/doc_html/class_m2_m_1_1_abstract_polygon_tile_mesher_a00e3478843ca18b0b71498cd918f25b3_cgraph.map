@@ -1,0 +1,22 @@
+<map id="M2M::AbstractPolygonTileMesher::makeMesh" name="M2M::AbstractPolygonTileMesher::makeMesh">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_abstract_polygon_tile_mesher.html#afd0a9149cf41c7bd63e99a75735f13b0" title="M2M::AbstractPolygonTile\lMesher::topPolygons" alt="" coords="234,5,411,44"/>
+<area shape="rect" id="node3" href="$class_better_polygon.html#aa475cac4f6d794a4dbcde0046c88490a" title="BetterPolygon::subtract" alt="" coords="243,68,402,93"/>
+<area shape="rect" id="node8" href="$class_m2_m_1_1_tile_neighborhood_info.html#a7edc4a2da21f30275c6fdd2145f5e0f6" title="M2M::TileNeighborhoodInfo\l::centerTile" alt="" coords="230,117,415,156"/>
+<area shape="rect" id="node9" href="$class_tile_material.html#aa80fc3d26b4455efc63d526df9414f56" title="TileMaterial::getDefault\lGroundMaterial" alt="" coords="484,173,642,212"/>
+<area shape="rect" id="node11" href="$class_triplet.html#a24de2960bc562c8e7670a7b39ba849db" title="Triplet::getFirst" alt="" coords="268,331,377,356"/>
+<area shape="rect" id="node12" href="$class_tile.html#a93878ba24748c81017215d97efd1a2f0" title="Tile::height" alt="" coords="279,380,366,405"/>
+<area shape="rect" id="node14" href="$class_tile.html#ab324ab1806a368b5101d8a4fe1e10b08" title="Tile::topMaterial" alt="" coords="265,232,380,257"/>
+<area shape="rect" id="node16" href="$class_triplet.html#ae7917f0097f20958ad7dcca743e4e116" title="Triplet::getSecond" alt="" coords="258,429,387,455"/>
+<area shape="rect" id="node17" href="$class_triplet.html#aae758639fd121de1df1ac1a888e81da1" title="Triplet::getThird" alt="" coords="265,479,380,504"/>
+<area shape="rect" id="node18" href="$class_tile.html#ac3dc14338a578ef7ebc09a3233423a5a" title="Tile::sideMaterial" alt="" coords="262,281,383,307"/>
+<area shape="rect" id="node21" href="$class_m2_m_1_1_partial_mesh_data.html#a28c7703f9e18e61c0f39352dfdb2fd7e" title="Constructs a list of meshes out of the data stored in this class. " alt="" coords="244,528,401,567"/>
+<area shape="rect" id="node4" href="$class_better_polygon.html#af35ef44cd49b846ffa78393dba314265" title="BetterPolygon::overlaps" alt="" coords="481,12,644,37"/>
+<area shape="rect" id="node6" href="$class_better_polygon.html#a4736bc0bfabb67604fd703b41378b792" title="BetterPolygon::connection\lIsClear" alt="" coords="474,61,651,100"/>
+<area shape="rect" id="node7" href="$polygon_8cpp.html#ad589210034c131edf4dde9f8415b9067" title="parseQPolygonF" alt="" coords="502,124,624,149"/>
+<area shape="rect" id="node5" href="$namespace_shape_region.html#a72a3a8ab319948d9e63c57b749641bd9" title="ShapeRegion::line" alt="" coords="728,40,859,65"/>
+<area shape="rect" id="node10" href="$class_tile_material.html#a3829a3fffb63a553ff273119c78ae5f5" title="Creates a TileMaterial with a default material. " alt="" coords="711,180,876,205"/>
+<area shape="rect" id="node13" href="$class_tile_template.html#a760a430469ab08e5492fea2823570cf2" title="TileTemplate::height" alt="" coords="493,384,633,409"/>
+<area shape="rect" id="node15" href="$class_tile_template.html#a937f4627237e03c3d95b3715c901e9f1" title="TileTemplate::topMaterial" alt="" coords="478,236,648,261"/>
+<area shape="rect" id="node19" href="$class_tile_template.html#a16e1ebee3a30a1671685a466a9364152" title="TileTemplate::hasSideMaterial" alt="" coords="463,285,663,311"/>
+<area shape="rect" id="node20" href="$class_tile_template.html#a00f2bd7d243476f50df55fe082146f88" title="TileTemplate::sideMaterial" alt="" coords="475,335,651,360"/>
+</map>

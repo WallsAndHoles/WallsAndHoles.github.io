@@ -1,0 +1,9 @@
+<map id="M2M::PartialMeshData::addQuad" name="M2M::PartialMeshData::addQuad">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_quad.html#abadd33b3463b9b5a46a6168b583c77be" title="M2M::Quad::imageInfo" alt="" coords="222,5,379,31"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_image_info.html#a0751c88adcc238939ea46f98810307b4" title="M2M::ImageInfo::image" alt="" coords="220,55,381,80"/>
+<area shape="rect" id="node4" href="$class_m2_m_1_1_pre_object.html#a7a83003a24139a2db6c912244929d4b2" title="Adds the quad to this object, but does not change this object&#39;s texture image. " alt="" coords="210,104,390,129"/>
+<area shape="rect" id="node5" href="$class_m2_m_1_1_quad.html#ae97c62749cf8d0c095b93df7bbc0ab78" title="M2M::Quad::vertex" alt="" coords="450,29,584,55"/>
+<area shape="rect" id="node6" href="$class_m2_m_1_1_quad.html#af5c58b0b3e18b3a60ce4769fdee9dcf5" title="M2M::Quad::phongInfo" alt="" coords="438,79,596,104"/>
+<area shape="rect" id="node7" href="$class_m2_m_1_1_quad.html#a9a3b0b7a99f80419bfe08dbff7105ae4" title="M2M::Quad::normal" alt="" coords="447,128,587,153"/>
+<area shape="rect" id="node8" href="$class_m2_m_1_1_quad.html#afdc9e8724c63de53028b74c433bc18d1" title="M2M::Quad::texCoord" alt="" coords="441,177,593,203"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="TileTemplatePropertyManager::properties" name="TileTemplatePropertyManager::properties">
+<area shape="rect" id="node2" href="$class_tile_template.html#a462d1321d583478749946c3eb3c0701e" title="TileTemplate::name" alt="" coords="289,5,426,31"/>
+<area shape="rect" id="node3" href="$class_tile_template.html#a192f60a61b7deb1f08c46713ef9ad481" title="TileTemplate::color" alt="" coords="291,55,424,80"/>
+<area shape="rect" id="node4" href="$class_tile_template.html#a760a430469ab08e5492fea2823570cf2" title="TileTemplate::height" alt="" coords="288,104,428,129"/>
+<area shape="rect" id="node5" href="$class_tile_template.html#a26bc0b4414ffb9b70ed0a7beb5804df4" title="TileTemplate::thickness" alt="" coords="278,153,437,179"/>
+<area shape="rect" id="node6" href="$class_tile_template.html#a12061a6d4007cd22ab1c264b7cafc0a8" title="TileTemplate::bridgeTiles" alt="" coords="273,203,442,228"/>
+<area shape="rect" id="node7" href="$class_tile_template.html#adb4605033493fb2bb215e5222d0e72c2" title="TileTemplate::connectDiagonals" alt="" coords="253,252,463,277"/>
+</map>

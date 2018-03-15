@@ -1,0 +1,5 @@
+<map id="RectBrushTool::getShape" name="RectBrushTool::getShape">
+<area shape="rect" id="node2" href="$namespace_shape_region.html#aea19dfb1f6471cb0a9e7231b6c164c61" title="ShapeRegion::rectOutline" alt="" coords="226,5,400,31"/>
+<area shape="rect" id="node3" href="$namespace_shape_region.html#ad16a6148f91b1539e56528961f86a126" title="ShapeRegion::findBounds" alt="" coords="628,5,804,31"/>
+<area shape="rect" id="node4" href="$namespace_shape_region.html#a423e93dd9b277bc91d654bce8cc5d9b3" title="ShapeRegion::rect" alt="" coords="448,31,580,56"/>
+</map>

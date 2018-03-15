@@ -1,0 +1,4 @@
+<map id="TileMapToolManager::mouseExitedMap" name="TileMapToolManager::mouseExitedMap">
+<area shape="rect" id="node2" href="$tilemaptoolmanager_8cpp.html#ae655edb558933435aa80e10dbd9e07c6" title="tool2TileMapTool" alt="" coords="209,5,330,31"/>
+<area shape="rect" id="node3" href="$class_abstract_tile_map_tool.html#a2ff1600149ad20fbbc8bd1397c3e0918" title="Called when the mouse is no longer hovering over a cell. " alt="" coords="199,55,340,93"/>
+</map>

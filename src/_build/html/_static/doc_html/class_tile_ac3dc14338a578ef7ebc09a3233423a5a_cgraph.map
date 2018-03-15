@@ -1,0 +1,7 @@
+<map id="Tile::sideMaterial" name="Tile::sideMaterial">
+<area shape="rect" id="node2" href="$class_tile_template.html#a16e1ebee3a30a1671685a466a9364152" title="TileTemplate::hasSideMaterial" alt="" coords="175,5,374,31"/>
+<area shape="rect" id="node3" href="$class_tile_template.html#a00f2bd7d243476f50df55fe082146f88" title="TileTemplate::sideMaterial" alt="" coords="187,55,363,80"/>
+<area shape="rect" id="node4" href="$class_tile_template.html#a937f4627237e03c3d95b3715c901e9f1" title="TileTemplate::topMaterial" alt="" coords="190,104,360,129"/>
+<area shape="rect" id="node5" href="$class_tile_material.html#aa80fc3d26b4455efc63d526df9414f56" title="TileMaterial::getDefault\lGroundMaterial" alt="" coords="196,153,354,192"/>
+<area shape="rect" id="node6" href="$class_tile_material.html#a3829a3fffb63a553ff273119c78ae5f5" title="Creates a TileMaterial with a default material. " alt="" coords="422,160,588,185"/>
+</map>

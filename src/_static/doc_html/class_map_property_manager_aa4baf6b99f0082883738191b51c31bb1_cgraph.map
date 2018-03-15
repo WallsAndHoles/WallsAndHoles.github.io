@@ -1,0 +1,6 @@
+<map id="MapPropertyManager::properties" name="MapPropertyManager::properties">
+<area shape="rect" id="node2" href="$class_tile_map.html#a140ceb2b2ecc59d4834a15f104904d38" title="TileMap::mapSize" alt="" coords="209,5,336,31"/>
+<area shape="rect" id="node4" href="$class_tile_map.html#a2310cb541f306dc349941565f0e8c48e" title="TileMap::isIndoor" alt="" coords="211,55,334,80"/>
+<area shape="rect" id="node5" href="$class_tile_map.html#acf3c516c79658d646503a292083218a3" title="TileMap::hasCeiling" alt="" coords="204,104,342,129"/>
+<area shape="rect" id="node3" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="390,5,491,31"/>
+</map>

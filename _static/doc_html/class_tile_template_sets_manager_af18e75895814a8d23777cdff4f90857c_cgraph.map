@@ -1,0 +1,7 @@
+<map id="TileTemplateSetsManager::addTileTemplate" name="TileTemplateSetsManager::addTileTemplate">
+<area shape="rect" id="node2" href="$class_tile_template_sets_manager.html#a600745056f4e2baf72c04d9fc25b5297" title="TileTemplateSetsManager\l::tileTemplateSetAt" alt="" coords="243,5,419,44"/>
+<area shape="rect" id="node3" href="$class_dependent_undo_command.html#a5210e208f60b6f27aedeb1ee28d00b3a" title="DependentUndoCommand\l::make" alt="" coords="241,68,421,107"/>
+<area shape="rect" id="node4" href="$class_undo_command_from_functions.html#adcb099ab5c8f73e781ed2de4b800da0d" title="performCommand Creates the command and performs it immediately. " alt="" coords="229,131,433,169"/>
+<area shape="rect" id="node5" href="$class_undo_command_from_functions.html#ad0bdb5d0519664baf0e6281d3d8fb69b" title="UndoCommandFromFunctions\l::redo" alt="" coords="481,99,684,137"/>
+<area shape="rect" id="node6" href="$class_undo_command_from_functions.html#a1e0cf7e018d6b15b7ef571daa22e43e7" title="UndoCommandFromFunctions\l::undo" alt="" coords="481,161,684,200"/>
+</map>

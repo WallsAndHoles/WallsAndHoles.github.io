@@ -1,0 +1,6 @@
+<map id="Tile::templatePositionChanged" name="Tile::templatePositionChanged">
+<area shape="rect" id="node2" href="$class_tile.html#a996f367db70d920ee7b64d7b7ab6be42" title="Tile::setRelativePosition" alt="" coords="256,56,419,81"/>
+<area shape="rect" id="node3" href="$class_tile.html#a221b87abe77b21e8e3150740c3941b78" title="Tile::thickness" alt="" coords="489,5,594,31"/>
+<area shape="rect" id="node4" href="$class_tile_template.html#a26bc0b4414ffb9b70ed0a7beb5804df4" title="TileTemplate::thickness" alt="" coords="665,31,824,56"/>
+<area shape="rect" id="node5" href="$class_tile_template.html#ad9317289f7783954091b9d8104281789" title="TileTemplate::position" alt="" coords="467,107,617,132"/>
+</map>

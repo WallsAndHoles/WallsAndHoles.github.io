@@ -1,0 +1,7 @@
+<map id="BetterPolygon::triangulate" name="BetterPolygon::triangulate">
+<area shape="rect" id="node2" href="$namespace_geometry.html#a7ee6b9465fe8c6ac80866a855052df63" title="Geometry::orientation" alt="" coords="246,5,395,31"/>
+<area shape="rect" id="node3" href="$class_better_polygon.html#a23a205323866cc89343150225a8fa457" title="splitPolygon " alt="" coords="228,55,412,80"/>
+<area shape="rect" id="node4" href="$class_better_polygon.html#ab6e407d7277d36c4f07fd52fe25e86b2" title="chordIsClear " alt="" coords="465,29,653,55"/>
+<area shape="rect" id="node6" href="$class_better_polygon.html#ad417c1cb4a009342cfa9e5585cca755a" title="BetterPolygon::BetterPolygon" alt="" coords="460,79,657,104"/>
+<area shape="rect" id="node5" href="$namespace_shape_region.html#a72a3a8ab319948d9e63c57b749641bd9" title="ShapeRegion::line" alt="" coords="705,29,835,55"/>
+</map>

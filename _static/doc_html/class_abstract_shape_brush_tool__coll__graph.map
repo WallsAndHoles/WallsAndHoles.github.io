@@ -1,0 +1,5 @@
+<map id="AbstractShapeBrushTool" name="AbstractShapeBrushTool">
+<area shape="rect" id="node2" href="$class_abstract_tile_map_tool.html" title="AbstractTileMapTool" alt="" coords="66,167,207,192"/>
+<area shape="rect" id="node3" href="$class_abstract_tool.html" title="The AbstractTool class represents a UI tool. A UI tool can be activated or deactivated. " alt="" coords="5,80,100,105"/>
+<area shape="rect" id="node5" href="$class_tile_map_preview_graphics_item.html" title="TileMapPreviewGraphicsItem" alt="" coords="125,80,320,105"/>
+</map>

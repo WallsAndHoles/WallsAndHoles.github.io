@@ -1,0 +1,4 @@
+<map id="MapViewMatcherCamera" name="MapViewMatcherCamera">
+<area shape="rect" id="node2" href="$class_abstract_mesh_view_camera.html" title="The AbstractMeshViewCamera class Abstract class that will determine how the camera moves based on the..." alt="" coords="5,152,184,177"/>
+<area shape="rect" id="node3" href="$class_abstract_tool.html" title="The AbstractTool class represents a UI tool. A UI tool can be activated or deactivated. " alt="" coords="47,79,142,104"/>
+</map>

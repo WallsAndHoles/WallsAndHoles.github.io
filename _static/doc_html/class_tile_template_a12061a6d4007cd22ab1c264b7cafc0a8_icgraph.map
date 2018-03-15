@@ -1,0 +1,4 @@
+<map id="TileTemplate::bridgeTiles" name="TileTemplate::bridgeTiles">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_blocky_polygon_tile_mesher.html#afd9466fc3234d6b86655380bc5192f5d" title="M2M::BlockyPolygonTileMesher\l::topPolygons" alt="" coords="222,5,433,44"/>
+<area shape="rect" id="node3" href="$class_tile_template_property_manager.html#ac1abed183a1cf25a9436db5ad6a55e4f" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="228,68,427,107"/>
+</map>

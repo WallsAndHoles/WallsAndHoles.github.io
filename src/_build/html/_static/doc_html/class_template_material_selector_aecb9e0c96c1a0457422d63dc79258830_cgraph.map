@@ -1,0 +1,8 @@
+<map id="TemplateMaterialSelector::TemplateMaterialSelector" name="TemplateMaterialSelector::TemplateMaterialSelector">
+<area shape="rect" id="node2" href="$class_tile_template.html#a937f4627237e03c3d95b3715c901e9f1" title="TileTemplate::topMaterial" alt="" coords="247,5,417,31"/>
+<area shape="rect" id="node3" href="$class_tile_template.html#a00f2bd7d243476f50df55fe082146f88" title="TileTemplate::sideMaterial" alt="" coords="244,55,420,80"/>
+<area shape="rect" id="node4" href="$class_tile_template.html#a16e1ebee3a30a1671685a466a9364152" title="TileTemplate::hasSideMaterial" alt="" coords="233,104,432,129"/>
+<area shape="rect" id="node5" href="$class_tile_material_selection_bar.html#a8b3976c3d2bfcc494b4fae5a9b1d59a2" title="TileMaterialSelectionBar\l::material" alt="" coords="480,149,645,188"/>
+<area shape="rect" id="node6" href="$class_tile_material_selection_bar.html#ae57fa74006ca69cfe6157ceaf71d5830" title="TileMaterialSelectionBar\l::setMaterial" alt="" coords="250,205,415,244"/>
+<area shape="rect" id="node7" href="$class_tile_material.html#a02495ceae9d0ab97c15ad440306adc7d" title="TileMaterial::name" alt="" coords="497,212,628,237"/>
+</map>

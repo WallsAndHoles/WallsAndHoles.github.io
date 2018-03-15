@@ -1,0 +1,6 @@
+<map id="MapView::mapViewChanged" name="MapView::mapViewChanged">
+<area shape="rect" id="node2" href="$class_map_view.html#a77956ebc6949453ed2e4e4fef777a1f1" title="MapView::wheelEvent" alt="" coords="264,5,417,31"/>
+<area shape="rect" id="node3" href="$class_map_view.html#a60ff29a0be8adcf787b30921d73c2cf8" title="MapView::mouseMoveEvent" alt="" coords="245,55,435,80"/>
+<area shape="rect" id="node4" href="$class_map_view.html#a8848c483673fd8648981255355c38ee1" title="MapView::resizeEvent" alt="" coords="264,104,417,129"/>
+<area shape="rect" id="node5" href="$class_map_view_matcher_camera.html#abf5df32b52c8a2e4a5444fdde6d7e4bb" title="MapViewMatcherCamera\l::MapViewMatcherCamera" alt="" coords="251,153,430,192"/>
+</map>

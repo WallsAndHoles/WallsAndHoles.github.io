@@ -1,0 +1,9 @@
+<map id="TileMaterial::nameChanged" name="TileMaterial::nameChanged">
+<area shape="rect" id="node2" href="$class_material_property_manager.html#aa1f69c5ca73648fba6eb25b5db522706" title="MaterialPropertyManager\l::MaterialPropertyManager" alt="" coords="238,5,417,44"/>
+<area shape="rect" id="node3" href="$class_tile_material.html#a6ef80fc04c9665cd0cda939bb01d411f" title="TileMaterial::setName" alt="" coords="252,68,403,93"/>
+<area shape="rect" id="node5" href="$class_tile_material_selection_bar.html#aae8f2d0caa4906ec3837a8e2e1831242" title="TileMaterialSelectionBar\l::TileMaterialSelectionBar" alt="" coords="241,117,414,156"/>
+<area shape="rect" id="node6" href="$class_tile_material_selection_bar.html#ae57fa74006ca69cfe6157ceaf71d5830" title="TileMaterialSelectionBar\l::setMaterial" alt="" coords="245,180,410,219"/>
+<area shape="rect" id="node4" href="$class_material_property_manager.html#acfc76e45f039705262fa3b66ebf1e321" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="469,61,641,100"/>
+<area shape="rect" id="node7" href="$class_template_material_selector.html#aecb9e0c96c1a0457422d63dc79258830" title="TemplateMaterialSelector\l::TemplateMaterialSelector" alt="" coords="465,152,644,191"/>
+<area shape="rect" id="node8" href="$class_tile_material_selection_bar.html#a963f5638877284171c91287db0223ae6" title="TileMaterialSelectionBar\l::dropEvent" alt="" coords="472,215,637,253"/>
+</map>

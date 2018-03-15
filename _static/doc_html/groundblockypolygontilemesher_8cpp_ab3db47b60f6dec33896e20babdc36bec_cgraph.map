@@ -1,0 +1,9 @@
+<map id="makeDiagonal" name="makeDiagonal">
+<area shape="rect" id="node2" href="$class_better_polygon.html#a977ba646ef2eab729f95f722caec6dd5" title="BetterPolygon::intersect" alt="" coords="160,61,323,87"/>
+<area shape="rect" id="node8" href="$class_better_polygon.html#a151ae1062e95ba70bd1ae62d629ec639" title="BetterPolygon::points" alt="" coords="167,111,315,136"/>
+<area shape="rect" id="node3" href="$class_better_polygon.html#aa475cac4f6d794a4dbcde0046c88490a" title="BetterPolygon::subtract" alt="" coords="371,61,531,87"/>
+<area shape="rect" id="node4" href="$class_better_polygon.html#af35ef44cd49b846ffa78393dba314265" title="BetterPolygon::overlaps" alt="" coords="586,5,749,31"/>
+<area shape="rect" id="node6" href="$class_better_polygon.html#a4736bc0bfabb67604fd703b41378b792" title="BetterPolygon::connection\lIsClear" alt="" coords="579,55,756,93"/>
+<area shape="rect" id="node7" href="$polygon_8cpp.html#ad589210034c131edf4dde9f8415b9067" title="parseQPolygonF" alt="" coords="607,117,728,143"/>
+<area shape="rect" id="node5" href="$namespace_shape_region.html#a72a3a8ab319948d9e63c57b749641bd9" title="ShapeRegion::line" alt="" coords="804,33,934,59"/>
+</map>

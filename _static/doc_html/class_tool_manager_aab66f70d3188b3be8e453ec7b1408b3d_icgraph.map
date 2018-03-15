@@ -1,0 +1,6 @@
+<map id="ToolManager::registerTool" name="ToolManager::registerTool">
+<area shape="rect" id="node2" href="$class_mesh_view_container.html#ab4e62eb81e6384a57d6297bbbf50f73b" title="MeshViewContainer::\laddCamera" alt="" coords="228,68,376,107"/>
+<area shape="rect" id="node5" href="$class_tile_map_tool_manager.html#a67984aca84c7c5a73c05158b3bdf274b" title="TileMapToolManager\l::registerMapTool" alt="" coords="229,5,375,44"/>
+<area shape="rect" id="node3" href="$class_editor.html#a4a43cf95fee9190e70d1f3433e72a323" title="Editor::Editor" alt="" coords="449,16,547,41"/>
+<area shape="rect" id="node4" href="$class_mesh_view_container.html#a5eb50c539404379cb8d46f5d3ca883fb" title="MeshViewContainer::\lMeshViewContainer" alt="" coords="424,68,572,107"/>
+</map>

@@ -11,7 +11,7 @@ Getting Started
 Installing the program
 ----------------------
 **Windows/Mac Installation:**
-	* :download:`Windows installer v1.0 <downloads/WAH_1_0_Win64_installer.exe>`
+	* :download:`Windows installer v1.0 <downloads/WAH_1_0_win64_installer.exe>`
 
 	* :download:`Mac installer v1.0 <downloads/WallsAndHoles_1_0.dmg>`
 

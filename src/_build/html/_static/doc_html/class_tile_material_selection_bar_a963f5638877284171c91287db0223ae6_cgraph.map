@@ -1,0 +1,12 @@
+<map id="TileMaterialSelectionBar::dropEvent" name="TileMaterialSelectionBar::dropEvent">
+<area shape="rect" id="node2" href="$class_tile_material_selection_bar.html#a8b3976c3d2bfcc494b4fae5a9b1d59a2" title="TileMaterialSelectionBar\l::material" alt="" coords="453,5,618,44"/>
+<area shape="rect" id="node3" href="$class_tile_material_set.html#a28228a4dce6e4f5cba890a0854354610" title="TileMaterialSet::getInstance" alt="" coords="219,37,405,63"/>
+<area shape="rect" id="node4" href="$class_tile_material_set.html#a8170baf6517254723b378878b31930c7" title="TileMaterialSet::materialAt" alt="" coords="223,149,400,175"/>
+<area shape="rect" id="node10" href="$class_tile_material_selection_bar.html#ae57fa74006ca69cfe6157ceaf71d5830" title="TileMaterialSelectionBar\l::setMaterial" alt="" coords="229,87,394,125"/>
+<area shape="rect" id="node5" href="$class_tile_material_set.html#a2dff14eeee88c762be3899bf758cd513" title="TileMaterialSet::index" alt="" coords="461,145,610,171"/>
+<area shape="rect" id="node8" href="$class_tile_material.html#a04b1f180be7f494df8dbcf72b60eb201" title="TileMaterial::getDefault\lMaterial" alt="" coords="457,195,614,233"/>
+<area shape="rect" id="node6" href="$class_tile_material_set.html#a147a22f4397957c8dc9f04eced40b82d" title="TileMaterialSet::parent" alt="" coords="671,149,826,175"/>
+<area shape="rect" id="node7" href="$class_tile_material_set.html#a1ca77706a4320b30f97c4fefd1fab1eb" title="TileMaterialSet::size" alt="" coords="678,100,819,125"/>
+<area shape="rect" id="node9" href="$class_tile_material.html#a3829a3fffb63a553ff273119c78ae5f5" title="Creates a TileMaterial with a default material. " alt="" coords="666,201,832,227"/>
+<area shape="rect" id="node11" href="$class_tile_material.html#a02495ceae9d0ab97c15ad440306adc7d" title="TileMaterial::name" alt="" coords="470,93,601,119"/>
+</map>

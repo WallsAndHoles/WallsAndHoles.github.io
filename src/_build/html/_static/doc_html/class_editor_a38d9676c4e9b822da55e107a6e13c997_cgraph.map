@@ -1,0 +1,21 @@
+<map id="Editor::saveMapAs" name="Editor::saveMapAs">
+<area shape="rect" id="node2" href="$class_tile_template_sets_manager.html#a23d58a2e3d0b01a09f2de60822d38c51" title="saveAllTileTemplateSets Saves all unsaved tileTemplateSets " alt="" coords="187,115,362,153"/>
+<area shape="rect" id="node3" href="$class_tile_map.html#a1da6b738465aef5b26df49d83b1e49df" title="TileMap::savePath" alt="" coords="410,204,542,229"/>
+<area shape="rect" id="node4" href="$class_tile_map.html#a793d8a28c2f3b1005493aa12c93c55ea" title="TileMap::setSavePath" alt="" coords="199,229,350,255"/>
+<area shape="rect" id="node5" href="$namespace_x_m_l_tool.html#a743bf21e37f9cad731aef40cd08c38c0" title="XMLTool::saveTileMap" alt="" coords="197,279,352,304"/>
+<area shape="rect" id="node20" href="$class_tile_template_sets_manager.html#a21d0c342563fc9baa6ea9577335a96b9" title="TileTemplateSetsManager\l::tileTemplateSets" alt="" coords="187,328,362,367"/>
+<area shape="rect" id="node6" href="$xmltool_8cpp.html#a3a1d7b2d351f2df2c938778ab71dd6c9" title="tileMapElement" alt="" coords="419,279,533,304"/>
+<area shape="rect" id="node7" href="$class_tile_map.html#a140ceb2b2ecc59d4834a15f104904d38" title="TileMap::mapSize" alt="" coords="632,5,759,31"/>
+<area shape="rect" id="node9" href="$class_tile_map.html#a2310cb541f306dc349941565f0e8c48e" title="TileMap::isIndoor" alt="" coords="634,55,757,80"/>
+<area shape="rect" id="node10" href="$class_tile_map.html#acf3c516c79658d646503a292083218a3" title="TileMap::hasCeiling" alt="" coords="626,104,764,129"/>
+<area shape="rect" id="node11" href="$class_tile_map.html#aacd5db889d9616c7a0d0d2d76168b0e2" title="tileTemplateSetUsed Returns true if some tile in the map uses any of the tileTemplates of the given s..." alt="" coords="590,203,801,228"/>
+<area shape="rect" id="node12" href="$class_tile_template_set.html#a6e652add8ccfdee56af239681fc41c8d" title="TileTemplateSet::cTileTemplates" alt="" coords="849,216,1061,241"/>
+<area shape="rect" id="node13" href="$class_tile_map.html#aabcddbbfdf446dfa845d1522ab216f5c" title="TileMap::cTileAt" alt="" coords="637,153,753,179"/>
+<area shape="rect" id="node14" href="$class_tile.html#a10d9ca2c7f82875d6e7ca167acfa2768" title="Tile::hasTileTemplate" alt="" coords="622,304,769,329"/>
+<area shape="rect" id="node15" href="$class_tile.html#a3adb108e0614f1832aa8815e7d5d128d" title="Tile::relativeThickness" alt="" coords="619,353,772,379"/>
+<area shape="rect" id="node16" href="$class_tile.html#a1be300e5f92e1daed07bc7c5a3d5738b" title="Tile::relativeHeight" alt="" coords="630,403,761,428"/>
+<area shape="rect" id="node17" href="$class_tile.html#a4ccf3a73e03f2cf9f24eefa27e01ea32" title="Tile::relativePosition" alt="" coords="625,452,765,477"/>
+<area shape="rect" id="node18" href="$class_tile_map.html#a155af181b28a1ff723c93e16360d4e83" title="TileMap::defaultTileTemplateSet" alt="" coords="590,501,801,527"/>
+<area shape="rect" id="node19" href="$class_tile.html#a5238364a6fd66f916e183f94fab93d94" title="Tile::tileTemplate" alt="" coords="635,551,756,576"/>
+<area shape="rect" id="node8" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="905,141,1006,167"/>
+</map>

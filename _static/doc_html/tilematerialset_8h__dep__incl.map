@@ -1,0 +1,15 @@
+<map id="WallsAndHoles/tilematerialset.h" name="WallsAndHoles/tilematerialset.h">
+<area shape="rect" id="node2" href="$tilematerialview_8h.html" title="WallsAndHoles/tilematerialview.h" alt="" coords="299,79,516,104"/>
+<area shape="rect" id="node7" href="$tilematerialselectionbar_8h.html" title="WallsAndHoles/tilematerialselectionbar.h" alt="" coords="552,79,813,104"/>
+<area shape="rect" id="node12" href="$tilematerialselectiondialog_8cpp.html" title="WallsAndHoles/tilematerialselectiondialog.cpp" alt="" coords="837,79,1130,104"/>
+<area shape="rect" id="node13" href="$tilematerialset_8cpp.html" title="WallsAndHoles/tilematerialset.cpp" alt="" coords="1154,79,1376,104"/>
+<area shape="rect" id="node14" href="$xmltool_8cpp.html" title="WallsAndHoles/xmltool.cpp" alt="" coords="1401,79,1583,104"/>
+<area shape="rect" id="node3" href="$editor_8h.html" title="WallsAndHoles/editor.h" alt="" coords="110,152,268,177"/>
+<area shape="rect" id="node6" href="$tilematerialview_8cpp.html" title="WallsAndHoles/tilematerialview.cpp" alt="" coords="292,152,523,177"/>
+<area shape="rect" id="node4" href="$editor_8cpp.html" title="WallsAndHoles/editor.cpp" alt="" coords="5,225,178,251"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="WallsAndHoles/main.cpp" alt="" coords="202,225,371,251"/>
+<area shape="rect" id="node8" href="$templatematerialselector_8h.html" title="WallsAndHoles/templatematerialselector.h" alt="" coords="547,152,818,177"/>
+<area shape="rect" id="node11" href="$tilematerialselectionbar_8cpp.html" title="WallsAndHoles/tilematerialselectionbar.cpp" alt="" coords="842,152,1118,177"/>
+<area shape="rect" id="node9" href="$templatematerialselector_8cpp.html" title="WallsAndHoles/templatematerialselector.cpp" alt="" coords="467,225,751,251"/>
+<area shape="rect" id="node10" href="$tiletemplatepropertymanager_8cpp.html" title="WallsAndHoles/tiletemplatepropertymanager.cpp" alt="" coords="776,225,1085,251"/>
+</map>

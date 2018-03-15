@@ -1,0 +1,6 @@
+<map id="M2M::PreObject::addQuad" name="M2M::PreObject::addQuad">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_quad.html#ae97c62749cf8d0c095b93df7bbc0ab78" title="M2M::Quad::vertex" alt="" coords="245,5,379,31"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_quad.html#af5c58b0b3e18b3a60ce4769fdee9dcf5" title="M2M::Quad::phongInfo" alt="" coords="233,55,391,80"/>
+<area shape="rect" id="node4" href="$class_m2_m_1_1_quad.html#a9a3b0b7a99f80419bfe08dbff7105ae4" title="M2M::Quad::normal" alt="" coords="243,104,382,129"/>
+<area shape="rect" id="node5" href="$class_m2_m_1_1_quad.html#afdc9e8724c63de53028b74c433bc18d1" title="M2M::Quad::texCoord" alt="" coords="236,153,388,179"/>
+</map>

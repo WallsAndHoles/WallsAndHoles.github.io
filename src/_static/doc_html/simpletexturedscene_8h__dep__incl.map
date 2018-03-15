@@ -1,0 +1,12 @@
+<map id="WallsAndHoles/simpletexturedscene.h" name="WallsAndHoles/simpletexturedscene.h">
+<area shape="rect" id="node2" href="$map2mesh_8h.html" title="WallsAndHoles/map2mesh.h" alt="" coords="554,79,746,104"/>
+<area shape="rect" id="node9" href="$simpletexturedrenderer_8h.html" title="WallsAndHoles/simpletexturedrenderer.h" alt="" coords="1104,79,1367,104"/>
+<area shape="rect" id="node11" href="$simpletexturedscene_8cpp.html" title="WallsAndHoles/simpletexturedscene.cpp" alt="" coords="1367,152,1630,177"/>
+<area shape="rect" id="node3" href="$editor_8h.html" title="WallsAndHoles/editor.h" alt="" coords="110,152,268,177"/>
+<area shape="rect" id="node6" href="$m2mtilemesher_8cpp.html" title="WallsAndHoles/m2mtilemesher.cpp" alt="" coords="292,152,523,177"/>
+<area shape="rect" id="node7" href="$map2mesh_8cpp.html" title="WallsAndHoles/map2mesh.cpp" alt="" coords="547,152,753,177"/>
+<area shape="rect" id="node8" href="$map2meshproperties_8cpp.html" title="WallsAndHoles/map2meshproperties.cpp" alt="" coords="778,152,1043,177"/>
+<area shape="rect" id="node4" href="$editor_8cpp.html" title="WallsAndHoles/editor.cpp" alt="" coords="5,225,178,251"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="WallsAndHoles/main.cpp" alt="" coords="202,225,371,251"/>
+<area shape="rect" id="node10" href="$simpletexturedrenderer_8cpp.html" title="WallsAndHoles/simpletexturedrenderer.cpp" alt="" coords="1067,152,1343,177"/>
+</map>

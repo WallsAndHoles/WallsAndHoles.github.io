@@ -1,0 +1,8 @@
+<map id="TileMaterialSet::index" name="TileMaterialSet::index">
+<area shape="rect" id="node2" href="$class_tile_material_set.html#ac0cbf5592ce53276f3617638f9dc00e4" title="TileMaterialSet::removeMaterial" alt="" coords="202,5,411,31"/>
+<area shape="rect" id="node3" href="$class_tile_material_set.html#a8170baf6517254723b378878b31930c7" title="TileMaterialSet::materialAt" alt="" coords="218,55,396,80"/>
+<area shape="rect" id="node5" href="$class_tile_material_set.html#a10b0b7667e495de64be33de6e94d8454" title="TileMaterialSet::data" alt="" coords="235,104,378,129"/>
+<area shape="rect" id="node6" href="$class_tile_material_set.html#a00c7808e84bd5a838345d9acd6ee36ac" title="TileMaterialSet::setData" alt="" coords="461,132,624,157"/>
+<area shape="rect" id="node7" href="$class_tile_material_set.html#a798bb0d46ca0ed2fb4a36e7d1b88759a" title="TileMaterialSet::flags" alt="" coords="234,205,380,231"/>
+<area shape="rect" id="node4" href="$class_tile_material_selection_bar.html#a963f5638877284171c91287db0223ae6" title="TileMaterialSelectionBar\l::dropEvent" alt="" coords="459,48,625,87"/>
+</map>

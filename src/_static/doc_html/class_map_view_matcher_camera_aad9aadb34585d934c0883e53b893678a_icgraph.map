@@ -1,0 +1,6 @@
+<map id="MapViewMatcherCamera::receivedInteraction" name="MapViewMatcherCamera::receivedInteraction">
+<area shape="rect" id="node2" href="$class_map_view_matcher_camera.html#a42836281c8bbcb9263e82f0cc101c828" title="MapViewMatcherCamera\l::mousePressEvent" alt="" coords="225,5,396,44"/>
+<area shape="rect" id="node3" href="$class_map_view_matcher_camera.html#ae88b2ede6d573728d96e4603cdb85629" title="MapViewMatcherCamera\l::mouseReleaseEvent" alt="" coords="225,68,396,107"/>
+<area shape="rect" id="node4" href="$class_map_view_matcher_camera.html#aa028bc569aea20b4ef0ecce7a57a8af1" title="MapViewMatcherCamera\l::mouseMoveEvent" alt="" coords="225,131,396,169"/>
+<area shape="rect" id="node5" href="$class_map_view_matcher_camera.html#aeacf4a6744de96bc483c1eec679fb95e" title="MapViewMatcherCamera\l::wheelEvent" alt="" coords="225,193,396,232"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_tile_material_set.html" title="TileMaterialSet" alt="" coords="200,5,309,31"/>
+<area shape="rect" id="node3" href="$class_tile_template_set.html" title="The TileTemplateSet class Stores a list of tile templates. Also implements the item model for them..." alt="" coords="196,55,313,80"/>
+<area shape="rect" id="node4" href="$class_savable_tile_template_set.html" title="The SavableTileTemplateSet class A TileTemplateSet which is tightly bound to a file. Needs to be used with any custom TileTemplateSet (anything other that default map tileTemplates). " alt="" coords="361,55,525,80"/>
+</map>

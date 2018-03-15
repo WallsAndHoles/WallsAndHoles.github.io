@@ -1,0 +1,4 @@
+<map id="TileTemplate::thicknessChanged" name="TileTemplate::thicknessChanged">
+<area shape="rect" id="node2" href="$class_tile_template.html#aa653b0c759b8000e7e1b7222d4320394" title="setThickness " alt="" coords="267,12,449,37"/>
+<area shape="rect" id="node3" href="$class_tile_template_property_manager.html#a1592dd30bd7efef3fd02297e17ee47f4" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="497,5,696,44"/>
+</map>

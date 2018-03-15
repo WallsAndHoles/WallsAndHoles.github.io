@@ -1,0 +1,9 @@
+<map id="UndoCommandFromFunctions::undo" name="UndoCommandFromFunctions::undo">
+<area shape="rect" id="node2" href="$class_undo_command_from_functions.html#adcb099ab5c8f73e781ed2de4b800da0d" title="performCommand Creates the command and performs it immediately. " alt="" coords="257,131,461,169"/>
+<area shape="rect" id="node3" href="$class_tile_template_sets_manager.html#a842a420429bf60bb937bf6cc31570e05" title="addTileTemplateSet Adds the given tileTemplateSet to the application " alt="" coords="509,36,684,75"/>
+<area shape="rect" id="node6" href="$class_tile_template_sets_manager.html#a1b3efef949cff7b782b1d6e0b2012a04" title="removeTileTemplateSet Attempt to remove a templateSet at the given index. " alt="" coords="509,99,684,137"/>
+<area shape="rect" id="node7" href="$class_tile_template_sets_manager.html#a4b6c27a67f2d535278988113cc45434b" title="removeTileTemplate Attempts to remove the template specified at this index. If mTileMap uses that tem..." alt="" coords="509,161,684,200"/>
+<area shape="rect" id="node8" href="$class_tile_template_sets_manager.html#af18e75895814a8d23777cdff4f90857c" title="addTileTemplate Adds a new tile template to the given template set. " alt="" coords="509,224,684,263"/>
+<area shape="rect" id="node4" href="$class_tile_template_sets_manager.html#aa80a1962cc85c50b2f2f3f07782bbd93" title="newTileTemplateSet Opens dialogs to create a new tileTemplateSet " alt="" coords="732,5,908,44"/>
+<area shape="rect" id="node5" href="$class_tile_template_sets_manager.html#a0e3b9e55b8adf7cbf7c96ae92e41098c" title="loadTileTemplateSet Loads a tileTemplateSet at the given path. If the file can&#39;t be loaded for any re..." alt="" coords="732,68,908,107"/>
+</map>

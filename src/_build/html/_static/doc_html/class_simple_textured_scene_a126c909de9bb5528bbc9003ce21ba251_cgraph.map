@@ -1,0 +1,8 @@
+<map id="SimpleTexturedScene::makeRenderer" name="SimpleTexturedScene::makeRenderer">
+<area shape="rect" id="node2" href="$class_simple_textured_renderer.html#a32df29bf1fec6f6e2fe34963ec87c6b5" title="This slot should be called whenever the underlying scene has a new object. " alt="" coords="209,5,378,44"/>
+<area shape="rect" id="node3" href="$class_simple_textured_renderer.html#ae29ecabc3a3a15649df7bead29cf2135" title="This slot should be called whenever an object is removed from the underlying scene. Locks the mGLDataMutex. " alt="" coords="209,68,378,107"/>
+<area shape="rect" id="node6" href="$class_simple_textured_renderer.html#a86a34333e5f1c8992c3ed95e491b17a6" title="Clears all OpenGL data, not assuming that a context is current. Some data may not be cleared immediat..." alt="" coords="209,131,378,169"/>
+<area shape="rect" id="node7" href="$class_abstract_renderer.html#a7c301b1514d04a7eb90617e9c28a7923" title="Calling this slot makes the renderer update itself when possible. " alt="" coords="204,193,382,232"/>
+<area shape="rect" id="node4" href="$class_simple_textured_object.html#a3e899db80b53b89b3da4fa16d74f02aa" title="SimpleTexturedObject\l::getImage" alt="" coords="430,68,582,107"/>
+<area shape="rect" id="node5" href="$class_simple_textured_object.html#aaebd307bbc264d2d2bbfeef003e61b33" title="SimpleTexturedObject\l::isCommitted" alt="" coords="630,68,782,107"/>
+</map>

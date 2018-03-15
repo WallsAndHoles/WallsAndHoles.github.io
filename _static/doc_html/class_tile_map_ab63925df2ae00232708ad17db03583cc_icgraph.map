@@ -1,0 +1,5 @@
+<map id="TileMap::mapChanged" name="TileMap::mapChanged">
+<area shape="rect" id="node2" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="238,5,372,31"/>
+<area shape="rect" id="node3" href="$class_fill_tool.html#a53f4bc64a33285fbe21cf13ebcb21791" title="Called whenever mTileMap changes. Called in constructor. " alt="" coords="209,55,402,80"/>
+<area shape="rect" id="node4" href="$class_tile_map.html#a5f96a089512efd49f96b4ebd87eaafe4" title="TileMap::TileMap" alt="" coords="244,104,367,129"/>
+</map>

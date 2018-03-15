@@ -1,0 +1,10 @@
+<map id="TileMaterialSet::setData" name="TileMaterialSet::setData">
+<area shape="rect" id="node2" href="$class_tile_material_set.html#a10b0b7667e495de64be33de6e94d8454" title="TileMaterialSet::data" alt="" coords="216,107,360,132"/>
+<area shape="rect" id="node3" href="$class_tile_material_set.html#a2dff14eeee88c762be3899bf758cd513" title="TileMaterialSet::index" alt="" coords="412,51,561,76"/>
+<area shape="rect" id="node6" href="$class_tile_material.html#a04b1f180be7f494df8dbcf72b60eb201" title="TileMaterial::getDefault\lMaterial" alt="" coords="408,100,566,139"/>
+<area shape="rect" id="node8" href="$class_tile_material.html#a02495ceae9d0ab97c15ad440306adc7d" title="TileMaterial::name" alt="" coords="421,163,552,188"/>
+<area shape="rect" id="node9" href="$class_tile_material.html#ad8f8e5f95b18aef270a51b79622858a0" title="TileMaterial::texture" alt="" coords="418,212,556,237"/>
+<area shape="rect" id="node4" href="$class_tile_material_set.html#a147a22f4397957c8dc9f04eced40b82d" title="TileMaterialSet::parent" alt="" coords="619,5,774,31"/>
+<area shape="rect" id="node5" href="$class_tile_material_set.html#a1ca77706a4320b30f97c4fefd1fab1eb" title="TileMaterialSet::size" alt="" coords="626,55,767,80"/>
+<area shape="rect" id="node7" href="$class_tile_material.html#a3829a3fffb63a553ff273119c78ae5f5" title="Creates a TileMaterial with a default material. " alt="" coords="614,107,779,132"/>
+</map>

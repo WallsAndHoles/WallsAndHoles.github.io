@@ -1,0 +1,5 @@
+<map id="FillTool::updateSelection" name="FillTool::updateSelection">
+<area shape="rect" id="node2" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="225,5,359,31"/>
+<area shape="rect" id="node3" href="$class_fill_tool.html#a7bb9f5c02abc190093d1261b2d9f597a" title="Draws an overlay previewing the area that will be filled. " alt="" coords="219,55,364,80"/>
+<area shape="rect" id="node4" href="$class_fill_tool.html#ae58b84c4864666aa219534f1141a37e5" title="This will show a preview for the selected area. " alt="" coords="412,55,553,80"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TileMapToolManager::setTileMap" name="TileMapToolManager::setTileMap">
+<area shape="rect" id="node2" href="$tilemaptoolmanager_8cpp.html#ae655edb558933435aa80e10dbd9e07c6" title="tool2TileMapTool" alt="" coords="209,5,330,31"/>
+<area shape="rect" id="node3" href="$class_abstract_tile_map_tool.html#ad47273d3acbae77fc80b40797d1c1e36" title="AbstractTileMapTool\l::setTileMap" alt="" coords="199,55,340,93"/>
+<area shape="rect" id="node4" href="$class_abstract_tile_map_tool.html#a399f759741224a4190b4d1f2f6c46089" title="Called whenever mTileMap changes. Called in constructor. " alt="" coords="388,55,540,93"/>
+</map>

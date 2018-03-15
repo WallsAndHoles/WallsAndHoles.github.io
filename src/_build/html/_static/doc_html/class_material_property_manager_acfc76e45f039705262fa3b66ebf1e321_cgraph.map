@@ -1,0 +1,12 @@
+<map id="MaterialPropertyManager::propertyEdited" name="MaterialPropertyManager::propertyEdited">
+<area shape="rect" id="node2" href="$class_tile_material.html#a6ef80fc04c9665cd0cda939bb01d411f" title="TileMaterial::setName" alt="" coords="236,5,387,31"/>
+<area shape="rect" id="node4" href="$class_tile_material.html#a6a8fb2ee8a4433044b5adc49a0f8c3e0" title="TileMaterial::setAmbient" alt="" coords="230,55,393,80"/>
+<area shape="rect" id="node6" href="$class_tile_material.html#a7cad1bb678c33d78a74908b0780e6202" title="TileMaterial::setDiffuse" alt="" coords="233,104,390,129"/>
+<area shape="rect" id="node8" href="$class_tile_material.html#a88c089322750df3c5ea2a41c7c198db7" title="TileMaterial::setSpecular" alt="" coords="228,153,395,179"/>
+<area shape="rect" id="node10" href="$class_tile_material.html#af55db0bf592e2e81105ee66d963a4f4b" title="TileMaterial::setShininess" alt="" coords="225,203,398,228"/>
+<area shape="rect" id="node3" href="$class_tile_material.html#a02495ceae9d0ab97c15ad440306adc7d" title="TileMaterial::name" alt="" coords="457,5,587,31"/>
+<area shape="rect" id="node5" href="$class_tile_material.html#a2b262aceec446508b63b009d226c4673" title="TileMaterial::ambient" alt="" coords="450,55,595,80"/>
+<area shape="rect" id="node7" href="$class_tile_material.html#a4ee686fff495189ed164b23f802a342f" title="TileMaterial::diffuse" alt="" coords="454,104,590,129"/>
+<area shape="rect" id="node9" href="$class_tile_material.html#ad420b91ac80d4b0a59c1d637605814fa" title="TileMaterial::specular" alt="" coords="448,153,596,179"/>
+<area shape="rect" id="node11" href="$class_tile_material.html#af3ae7e908e0b9a66db5a801ae5560fb7" title="TileMaterial::shininess" alt="" coords="446,203,599,228"/>
+</map>

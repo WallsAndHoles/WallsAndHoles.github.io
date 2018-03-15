@@ -1,0 +1,10 @@
+<map id="Tile::thickness" name="Tile::thickness">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_blocky_polygon_tile_mesher.html#afd9466fc3234d6b86655380bc5192f5d" title="M2M::BlockyPolygonTileMesher\l::topPolygons" alt="" coords="159,5,370,44"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_ground_blocky_polygon_tile_mesher.html#a5371cf7b3f5e986cf1a4700d8cf667b1" title="M2M::GroundBlockyPolygon\lTileMesher::topPolygons" alt="" coords="169,68,359,107"/>
+<area shape="rect" id="node4" href="$class_tile.html#a43679c09f8d895eaa27b385ec078fe7a" title="setRelativeThickness " alt="" coords="176,131,352,156"/>
+<area shape="rect" id="node8" href="$class_tile.html#a996f367db70d920ee7b64d7b7ab6be42" title="Tile::setRelativePosition" alt="" coords="183,180,346,205"/>
+<area shape="rect" id="node5" href="$class_tile.html#a35125972bffcccef4647a966a1ea66a0" title="Tile::templateThicknessChanged" alt="" coords="418,105,633,131"/>
+<area shape="rect" id="node6" href="$namespace_x_m_l_tool.html#af3fe20dbb924a11abb3df1af53eb8ecc" title="XMLTool::openTileMap" alt="" coords="447,155,604,180"/>
+<area shape="rect" id="node7" href="$class_editor.html#a392c4c8e63399e824bbac9b669287602" title="Editor::loadMap" alt="" coords="681,155,796,180"/>
+<area shape="rect" id="node9" href="$class_tile.html#a028562c52c5901e07b282f8790877f50" title="Tile::templatePositionChanged" alt="" coords="424,204,627,229"/>
+</map>

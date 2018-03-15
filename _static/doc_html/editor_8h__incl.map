@@ -1,0 +1,27 @@
+<map id="WallsAndHoles/editor.h" name="WallsAndHoles/editor.h">
+<area shape="rect" id="node2" href="$tilemap_8h.html" title="tilemap.h" alt="" coords="1005,225,1080,251"/>
+<area shape="rect" id="node9" href="$tiletemplateset_8h.html" title="tiletemplateset.h" alt="" coords="2162,299,2281,324"/>
+<area shape="rect" id="node13" href="$tilemaptoolmanager_8h.html" title="tilemaptoolmanager.h" alt="" coords="907,79,1056,104"/>
+<area shape="rect" id="node19" href="$mapviewcontainer_8h.html" title="mapviewcontainer.h" alt="" coords="1334,79,1474,104"/>
+<area shape="rect" id="node23" href="$xmltool_8h.html" title="xmltool.h" alt="" coords="2668,152,2743,177"/>
+<area shape="rect" id="node29" href="$map2mesh_8h.html" title="map2mesh.h" alt="" coords="505,79,604,104"/>
+<area shape="rect" id="node35" href="$meshviewcontainer_8h.html" title="meshviewcontainer.h" alt="" coords="1498,79,1644,104"/>
+<area shape="rect" id="node37" href="$tiletemplatesetsview_8h.html" title="tiletemplatesetsview.h" alt="" coords="1943,79,2094,104"/>
+<area shape="rect" id="node38" href="$tiletemplatesetsmanager_8h.html" title="tiletemplatesetsmanager.h" alt="" coords="2293,152,2470,177"/>
+<area shape="rect" id="node40" href="$propertybrowser_8h.html" title="propertybrowser.h" alt="" coords="2091,152,2219,177"/>
+<area shape="rect" id="node46" href="$tilematerialview_8h.html" title="tilematerialview.h" alt="" coords="1795,79,1917,104"/>
+<area shape="rect" id="node3" href="$array2d_8h.html" title="array2d.h" alt="" coords="680,299,757,324"/>
+<area shape="rect" id="node5" href="$tile_8h.html" title="tile.h" alt="" coords="1129,299,1178,324"/>
+<area shape="rect" id="node6" href="$tiletemplate_8h.html" title="tiletemplate.h" alt="" coords="952,372,1053,397"/>
+<area shape="rect" id="node14" href="$abstracttilemaptool_8h.html" title="abstracttilemaptool.h" alt="" coords="861,152,1006,177"/>
+<area shape="rect" id="node15" href="$toolmanager_8h.html" title="toolmanager.h" alt="" coords="1239,152,1345,177"/>
+<area shape="rect" id="node20" href="$mapview_8h.html" title="mapview.h" alt="" coords="1131,152,1216,177"/>
+<area shape="rect" id="node21" href="$mapcellgraphicsitem_8h.html" title="mapcellgraphicsitem.h" alt="" coords="1402,225,1556,251"/>
+<area shape="rect" id="node24" href="$savabletiletemplateset_8h.html" title="savabletiletemplateset.h" alt="" coords="2184,225,2349,251"/>
+<area shape="rect" id="node31" href="$simpletexturedscene_8h.html" title="simpletexturedscene.h" alt="" coords="43,152,197,177"/>
+<area shape="rect" id="node32" href="$simpletexturedobject_8h.html" title="simpletexturedobject.h" alt="" coords="189,225,344,251"/>
+<area shape="rect" id="node33" href="$m2mpropertyclass_8h.html" title="m2mpropertyclass.h" alt="" coords="544,152,685,177"/>
+<area shape="rect" id="node34" href="$m2mtilemesher_8h.html" title="m2mtilemesher.h" alt="" coords="272,152,395,177"/>
+<area shape="rect" id="node36" href="$abstractrenderer_8h.html" title="abstractrenderer.h" alt="" coords="1579,225,1709,251"/>
+<area shape="rect" id="node41" href="$abstractpropertymanager_8h.html" title="abstractpropertymanager.h" alt="" coords="1743,299,1924,324"/>
+</map>

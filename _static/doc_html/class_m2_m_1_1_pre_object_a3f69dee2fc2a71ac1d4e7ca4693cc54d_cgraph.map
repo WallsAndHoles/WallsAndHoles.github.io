@@ -1,0 +1,6 @@
+<map id="M2M::PreObject::addTrig" name="M2M::PreObject::addTrig">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_trig.html#aeaad77678a3b5f3d50c10f49e5eca208" title="M2M::Trig::verts" alt="" coords="251,5,368,31"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_trig.html#aa8983eb210bcea2fb58f58b8abd32d0c" title="M2M::Trig::phongInfo" alt="" coords="235,55,383,80"/>
+<area shape="rect" id="node4" href="$class_m2_m_1_1_trig.html#a1bf36001463d53e0a57451d427a0dcde" title="M2M::Trig::normal" alt="" coords="245,104,374,129"/>
+<area shape="rect" id="node5" href="$class_m2_m_1_1_trig.html#a382114f151ce9a3efe49e6b41543b004" title="M2M::Trig::textureCoords" alt="" coords="223,153,395,179"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="TileMapPreviewGraphicsItem::setColor" name="TileMapPreviewGraphicsItem::setColor">
+<area shape="rect" id="node2" href="$class_abstract_tile_selection_tool.html#a410d7a7ac1b41784395759e16d2788ba" title="AbstractTileSelectionTool\l::drawPreview" alt="" coords="266,5,436,44"/>
+<area shape="rect" id="node5" href="$class_fill_tool.html#a7bb9f5c02abc190093d1261b2d9f597a" title="Draws an overlay previewing the area that will be filled. " alt="" coords="278,68,424,93"/>
+<area shape="rect" id="node7" href="$class_tile_map_brush_tool.html#a99e73a38962b5334ca57ef14f7de9196" title="Called when the mouse hovers over a new cell. " alt="" coords="248,117,454,143"/>
+<area shape="rect" id="node3" href="$class_abstract_tile_selection_tool.html#a2017c7e4ab0d80d5782b8de6957febdf" title="activateSelection " alt="" coords="502,5,672,44"/>
+<area shape="rect" id="node4" href="$class_tile_map_selection_tool.html#a8137521586ad7d19e305bdb5461b148d" title="Called when the left mouse button is released over a cell. " alt="" coords="720,5,868,44"/>
+<area shape="rect" id="node6" href="$class_fill_tool.html#ae58b84c4864666aa219534f1141a37e5" title="This will show a preview for the selected area. " alt="" coords="517,68,657,93"/>
+</map>

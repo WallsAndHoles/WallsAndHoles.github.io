@@ -1,0 +1,4 @@
+<map id="TileMapPreviewGraphicsItem::setClipRect" name="TileMapPreviewGraphicsItem::setClipRect">
+<area shape="rect" id="node2" href="$namespace_shape_region.html#a423e93dd9b277bc91d654bce8cc5d9b3" title="ShapeRegion::rect" alt="" coords="248,12,380,37"/>
+<area shape="rect" id="node3" href="$namespace_shape_region.html#ad16a6148f91b1539e56528961f86a126" title="ShapeRegion::findBounds" alt="" coords="428,12,604,37"/>
+</map>

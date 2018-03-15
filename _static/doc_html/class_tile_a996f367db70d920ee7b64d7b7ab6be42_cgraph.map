@@ -1,0 +1,5 @@
+<map id="Tile::setRelativePosition" name="Tile::setRelativePosition">
+<area shape="rect" id="node2" href="$class_tile.html#a221b87abe77b21e8e3150740c3941b78" title="Tile::thickness" alt="" coords="239,5,344,31"/>
+<area shape="rect" id="node3" href="$class_tile_template.html#a26bc0b4414ffb9b70ed0a7beb5804df4" title="TileTemplate::thickness" alt="" coords="414,31,574,56"/>
+<area shape="rect" id="node4" href="$class_tile_template.html#ad9317289f7783954091b9d8104281789" title="TileTemplate::position" alt="" coords="216,107,366,132"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TileMapSelectionTool" name="TileMapSelectionTool">
+<area shape="rect" id="node2" href="$class_abstract_tile_selection_tool.html" title="AbstractTileSelectionTool" alt="" coords="5,225,176,251"/>
+<area shape="rect" id="node3" href="$class_abstract_tile_map_tool.html" title="AbstractTileMapTool" alt="" coords="20,152,161,177"/>
+<area shape="rect" id="node4" href="$class_abstract_tool.html" title="The AbstractTool class represents a UI tool. A UI tool can be activated or deactivated. " alt="" coords="43,79,138,104"/>
+</map>

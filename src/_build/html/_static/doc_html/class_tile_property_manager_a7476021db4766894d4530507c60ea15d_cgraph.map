@@ -1,0 +1,8 @@
+<map id="TilePropertyManager::properties" name="TilePropertyManager::properties">
+<area shape="rect" id="node2" href="$class_tile.html#a1be300e5f92e1daed07bc7c5a3d5738b" title="Tile::relativeHeight" alt="" coords="209,5,341,31"/>
+<area shape="rect" id="node3" href="$class_tile.html#a3adb108e0614f1832aa8815e7d5d128d" title="Tile::relativeThickness" alt="" coords="199,55,351,80"/>
+<area shape="rect" id="node4" href="$class_tile.html#a4ccf3a73e03f2cf9f24eefa27e01ea32" title="Tile::relativePosition" alt="" coords="205,104,345,129"/>
+<area shape="rect" id="node5" href="$class_tile.html#a10d9ca2c7f82875d6e7ca167acfa2768" title="Tile::hasTileTemplate" alt="" coords="202,153,348,179"/>
+<area shape="rect" id="node6" href="$class_tile.html#a5238364a6fd66f916e183f94fab93d94" title="Tile::tileTemplate" alt="" coords="215,203,335,228"/>
+<area shape="rect" id="node7" href="$class_tile_template.html#a462d1321d583478749946c3eb3c0701e" title="TileTemplate::name" alt="" coords="206,252,344,277"/>
+</map>

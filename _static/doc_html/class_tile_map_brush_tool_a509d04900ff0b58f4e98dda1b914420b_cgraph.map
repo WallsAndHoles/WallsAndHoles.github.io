@@ -1,0 +1,12 @@
+<map id="TileMapBrushTool::cellReleased" name="TileMapBrushTool::cellReleased">
+<area shape="rect" id="node2" href="$class_tile_template_change_command.html#a1f5235b8a8cda251d49b1ce591b6b671" title="make Creates the TileTemplateChangeCommand. This will automatically crop the given region so that it ..." alt="" coords="265,61,469,100"/>
+<area shape="rect" id="node10" href="$class_abstract_tile_map_tool.html#a8da89838db1265fe788d47bff5ccda0b" title="AbstractTileMapTool\l::getTileMap" alt="" coords="296,124,438,163"/>
+<area shape="rect" id="node11" href="$class_abstract_tile_map_tool.html#a79b3280351dd533143e6d438b34486be" title="AbstractTileMapTool\l::getTileTemplate" alt="" coords="296,187,438,225"/>
+<area shape="rect" id="node3" href="$namespace_shape_region.html#a423e93dd9b277bc91d654bce8cc5d9b3" title="ShapeRegion::rect" alt="" coords="517,12,649,37"/>
+<area shape="rect" id="node5" href="$class_tile_map.html#af421ab425f2d0c81174fed01496d1291" title="TileMap::contains" alt="" coords="521,68,646,93"/>
+<area shape="rect" id="node8" href="$class_tile_map.html#a9b376db9b1b84540976c1e567987a610" title="TileMap::tileAt" alt="" coords="531,129,636,155"/>
+<area shape="rect" id="node4" href="$namespace_shape_region.html#ad16a6148f91b1539e56528961f86a126" title="ShapeRegion::findBounds" alt="" coords="697,5,873,31"/>
+<area shape="rect" id="node6" href="$class_array2_d.html#a942d010f7fbf73788774e264e6f6ee50" title="Array2D::width" alt="" coords="731,55,840,80"/>
+<area shape="rect" id="node7" href="$class_array2_d.html#a6fb70572dcd98a2510ba8b7ad6054ba2" title="Array2D::height" alt="" coords="728,104,842,129"/>
+<area shape="rect" id="node9" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="735,153,836,179"/>
+</map>

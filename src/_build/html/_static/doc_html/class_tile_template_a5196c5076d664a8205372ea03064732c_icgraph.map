@@ -1,0 +1,3 @@
+<map id="TileTemplate::setConnectDiagonals" name="TileTemplate::setConnectDiagonals">
+<area shape="rect" id="node2" href="$class_tile_template_property_manager.html#a1592dd30bd7efef3fd02297e17ee47f4" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="225,5,424,44"/>
+</map>

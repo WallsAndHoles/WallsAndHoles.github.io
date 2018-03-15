@@ -1,0 +1,12 @@
+<map id="TileMaterial::phongParamsChanged" name="TileMaterial::phongParamsChanged">
+<area shape="rect" id="node2" href="$class_tile_material.html#a6a8fb2ee8a4433044b5adc49a0f8c3e0" title="TileMaterial::setAmbient" alt="" coords="249,5,413,31"/>
+<area shape="rect" id="node4" href="$class_tile_material.html#a7cad1bb678c33d78a74908b0780e6202" title="TileMaterial::setDiffuse" alt="" coords="253,55,409,80"/>
+<area shape="rect" id="node5" href="$class_tile_material.html#a88c089322750df3c5ea2a41c7c198db7" title="TileMaterial::setSpecular" alt="" coords="248,104,415,129"/>
+<area shape="rect" id="node6" href="$class_tile_material.html#af55db0bf592e2e81105ee66d963a4f4b" title="TileMaterial::setShininess" alt="" coords="245,153,418,179"/>
+<area shape="rect" id="node7" href="$class_tile_template.html#a07e99d047042f33eaf0cc0555c5aa78f" title="Updates the top material for the tile template. " alt="" coords="236,203,427,228"/>
+<area shape="rect" id="node9" href="$class_tile_template.html#ab4f9182d034778013024f14670cc1a7a" title="Updates the side material for the tile template. " alt="" coords="234,252,429,277"/>
+<area shape="rect" id="node3" href="$class_material_property_manager.html#acfc76e45f039705262fa3b66ebf1e321" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="494,73,665,112"/>
+<area shape="rect" id="node8" href="$class_tile_template.html#a059a36298cd063a578230ff67901f92b" title="TileTemplate::TileTemplate" alt="" coords="490,203,669,228"/>
+<area shape="rect" id="node10" href="$namespace_x_m_l_tool.html#a8fd71629a85800ff28125916949c4b37" title="XMLTool::openTileTemplateSet" alt="" coords="477,252,682,277"/>
+<area shape="rect" id="node11" href="$class_tile_template_sets_manager.html#a0e3b9e55b8adf7cbf7c96ae92e41098c" title="loadTileTemplateSet Loads a tileTemplateSet at the given path. If the file can&#39;t be loaded for any re..." alt="" coords="730,245,905,284"/>
+</map>

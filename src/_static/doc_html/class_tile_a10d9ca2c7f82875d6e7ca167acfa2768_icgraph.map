@@ -1,0 +1,14 @@
+<map id="Tile::hasTileTemplate" name="Tile::hasTileTemplate">
+<area shape="rect" id="node2" href="$class_abstract_tile_selection_tool.html#a2017c7e4ab0d80d5782b8de6957febdf" title="activateSelection " alt="" coords="227,5,398,44"/>
+<area shape="rect" id="node4" href="$class_m2_m_1_1_blocky_polygon_tile_mesher.html#ae2ffa450b904b949c309ddb945984904" title="M2M::BlockyPolygonTileMesher\l::BlockyPolygonTileMesher" alt="" coords="207,68,418,107"/>
+<area shape="rect" id="node5" href="$blockypolygontilemesher_8cpp.html#ad0ecdfd6b80c66ebd7734280aeae7081" title="shouldDiagonal" alt="" coords="256,131,369,156"/>
+<area shape="rect" id="node7" href="$class_m2_m_1_1_ground_blocky_polygon_tile_mesher.html#a16a0c98ead92d76bd3fcd8375fd9723c" title="M2M::GroundBlockyPolygon\lTileMesher::GroundBlockyPolygon\lTileMesher" alt="" coords="200,180,426,232"/>
+<area shape="rect" id="node8" href="$class_map_cell_graphics_item.html#a79fa6360b7563bd630f0faab14ba17f6" title="MapCellGraphicsItem\l::paint" alt="" coords="238,256,387,295"/>
+<area shape="rect" id="node9" href="$class_tile_property_manager.html#a7476021db4766894d4530507c60ea15d" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="240,319,385,357"/>
+<area shape="rect" id="node10" href="$xmltool_8cpp.html#a3a1d7b2d351f2df2c938778ab71dd6c9" title="tileMapElement" alt="" coords="256,381,369,407"/>
+<area shape="rect" id="node3" href="$class_tile_map_selection_tool.html#a8137521586ad7d19e305bdb5461b148d" title="Called when the left mouse button is released over a cell. " alt="" coords="506,5,653,44"/>
+<area shape="rect" id="node6" href="$class_m2_m_1_1_blocky_polygon_tile_mesher.html#afd9466fc3234d6b86655380bc5192f5d" title="M2M::BlockyPolygonTileMesher\l::topPolygons" alt="" coords="474,124,685,163"/>
+<area shape="rect" id="node11" href="$namespace_x_m_l_tool.html#a743bf21e37f9cad731aef40cd08c38c0" title="XMLTool::saveTileMap" alt="" coords="502,381,657,407"/>
+<area shape="rect" id="node12" href="$class_editor.html#add1f4b900d9c8ae6065ccd769929b617" title="Editor::saveMap" alt="" coords="741,356,859,381"/>
+<area shape="rect" id="node13" href="$class_editor.html#a38d9676c4e9b822da55e107a6e13c997" title="Editor::saveMapAs" alt="" coords="733,405,866,431"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TileMapBrushTool::cellHovered" name="TileMapBrushTool::cellHovered">
+<area shape="rect" id="node2" href="$class_abstract_tile_map_tool.html#a8da89838db1265fe788d47bff5ccda0b" title="AbstractTileMapTool\l::getTileMap" alt="" coords="285,5,427,44"/>
+<area shape="rect" id="node3" href="$class_abstract_tile_map_tool.html#a79b3280351dd533143e6d438b34486be" title="AbstractTileMapTool\l::getTileTemplate" alt="" coords="285,68,427,107"/>
+<area shape="rect" id="node4" href="$class_tile_map_preview_graphics_item.html#a5b67d86080656b8eec6d732e18d1b94f" title="TileMapPreviewGraphicsItem\l::setRegion" alt="" coords="259,131,454,169"/>
+<area shape="rect" id="node5" href="$class_tile_map_preview_graphics_item.html#a5c6df3e43593636775cf43aa487d79dd" title="TileMapPreviewGraphicsItem\l::setColor" alt="" coords="259,193,454,232"/>
+</map>

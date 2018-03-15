@@ -1,0 +1,4 @@
+<map id="Tile::height" name="Tile::height">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_abstract_polygon_tile_mesher.html#a00e3478843ca18b0b71498cd918f25b3" title="makeMesh Creates the mesh for this tile. " alt="" coords="139,5,316,44"/>
+<area shape="rect" id="node3" href="$class_map_cell_graphics_item.html#a79fa6360b7563bd630f0faab14ba17f6" title="MapCellGraphicsItem\l::paint" alt="" coords="153,68,302,107"/>
+</map>

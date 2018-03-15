@@ -1,0 +1,4 @@
+<map id="TileMapToolManager" name="TileMapToolManager">
+<area shape="rect" id="node2" href="$class_tool_manager.html" title="The ToolManager class represents a group of mutually exclusive tools out of which only one can be act..." alt="" coords="29,167,127,192"/>
+<area shape="rect" id="node4" href="$class_abstract_tool.html" title="The AbstractTool class represents a UI tool. A UI tool can be activated or deactivated. " alt="" coords="95,80,189,105"/>
+</map>

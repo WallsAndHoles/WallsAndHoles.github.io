@@ -1,0 +1,4 @@
+<map id="SimpleTexturedScene::changesCommitted" name="SimpleTexturedScene::changesCommitted">
+<area shape="rect" id="node2" href="$class_simple_textured_scene.html#ab862a38cb674259335bbc7fc92a3216c" title="Commits the changes to the scene, possibly causing it to be rerendered. " alt="" coords="204,5,355,44"/>
+<area shape="rect" id="node3" href="$class_simple_textured_scene.html#a126c909de9bb5528bbc9003ce21ba251" title="Creates and returns a SimpleTexturedRenderer. " alt="" coords="204,68,355,107"/>
+</map>

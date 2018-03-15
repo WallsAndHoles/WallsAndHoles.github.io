@@ -1,0 +1,5 @@
+<map id="TileTemplate::hasSideMaterial" name="TileTemplate::hasSideMaterial">
+<area shape="rect" id="node2" href="$class_template_material_selector.html#aecb9e0c96c1a0457422d63dc79258830" title="TemplateMaterialSelector\l::TemplateMaterialSelector" alt="" coords="253,5,432,44"/>
+<area shape="rect" id="node3" href="$class_tile.html#ac3dc14338a578ef7ebc09a3233423a5a" title="Tile::sideMaterial" alt="" coords="282,68,403,93"/>
+<area shape="rect" id="node4" href="$class_m2_m_1_1_abstract_polygon_tile_mesher.html#a00e3478843ca18b0b71498cd918f25b3" title="makeMesh Creates the mesh for this tile. " alt="" coords="480,61,656,100"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MapCellGraphicsItem::paint" name="MapCellGraphicsItem::paint">
+<area shape="rect" id="node2" href="$class_tile.html#a10d9ca2c7f82875d6e7ca167acfa2768" title="Tile::hasTileTemplate" alt="" coords="203,5,349,31"/>
+<area shape="rect" id="node3" href="$class_tile.html#a5238364a6fd66f916e183f94fab93d94" title="Tile::tileTemplate" alt="" coords="216,55,336,80"/>
+<area shape="rect" id="node4" href="$class_tile_template.html#a192f60a61b7deb1f08c46713ef9ad481" title="TileTemplate::color" alt="" coords="210,104,342,129"/>
+<area shape="rect" id="node5" href="$class_tile.html#a93878ba24748c81017215d97efd1a2f0" title="Tile::height" alt="" coords="233,153,319,179"/>
+<area shape="rect" id="node6" href="$class_tile_template.html#a760a430469ab08e5492fea2823570cf2" title="TileTemplate::height" alt="" coords="397,153,537,179"/>
+</map>

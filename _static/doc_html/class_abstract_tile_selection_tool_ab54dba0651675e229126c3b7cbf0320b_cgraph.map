@@ -1,0 +1,4 @@
+<map id="AbstractTileSelectionTool::deactivate" name="AbstractTileSelectionTool::deactivate">
+<area shape="rect" id="node2" href="$class_tile_map_preview_graphics_item.html#a5b67d86080656b8eec6d732e18d1b94f" title="TileMapPreviewGraphicsItem\l::setRegion" alt="" coords="224,5,419,44"/>
+<area shape="rect" id="node3" href="$class_property_browser.html#a181f3995a0d1a0c4b190ca68fab31b37" title="clear Deletes the current propertyManager if there is one. The PropertyBrowser will show nothing..." alt="" coords="243,68,400,93"/>
+</map>

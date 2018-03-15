@@ -1,0 +1,7 @@
+<map id="TileTemplate::exclusivePropertyChanged" name="TileTemplate::exclusivePropertyChanged">
+<area shape="rect" id="node2" href="$class_tile_template.html#a0f37d78fe9ad79f8589cb210a3c29bc1" title="TileTemplate::setHeight" alt="" coords="276,5,436,31"/>
+<area shape="rect" id="node4" href="$class_tile_template.html#ab6e90b3b1cd8d56ea79380d5cdf04e42" title="TileTemplate::setColor" alt="" coords="280,55,433,80"/>
+<area shape="rect" id="node5" href="$class_tile_template.html#a13896e42d18df03f446f5d43fb2ac6f0" title="TileTemplate::setBridgeTiles" alt="" coords="262,104,450,129"/>
+<area shape="rect" id="node6" href="$class_tile_template.html#a5196c5076d664a8205372ea03064732c" title="TileTemplate::setConnect\lDiagonals" alt="" coords="271,153,442,192"/>
+<area shape="rect" id="node3" href="$class_tile_template_property_manager.html#a1592dd30bd7efef3fd02297e17ee47f4" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="498,73,698,112"/>
+</map>

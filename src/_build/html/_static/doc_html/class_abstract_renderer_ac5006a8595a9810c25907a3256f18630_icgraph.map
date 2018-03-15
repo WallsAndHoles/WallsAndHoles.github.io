@@ -1,0 +1,8 @@
+<map id="AbstractRenderer::doneContextCurrent" name="AbstractRenderer::doneContextCurrent">
+<area shape="rect" id="node2" href="$class_mesh_view.html#a6627a6387b61c80f2cc021878d69d888" title="Makes the MeshView use a new Renderer. " alt="" coords="265,12,428,37"/>
+<area shape="rect" id="node4" href="$class_simple_textured_renderer.html#a32df29bf1fec6f6e2fe34963ec87c6b5" title="This slot should be called whenever the underlying scene has a new object. " alt="" coords="262,61,431,100"/>
+<area shape="rect" id="node6" href="$class_simple_textured_renderer.html#ae29ecabc3a3a15649df7bead29cf2135" title="This slot should be called whenever an object is removed from the underlying scene. Locks the mGLDataMutex. " alt="" coords="262,124,431,163"/>
+<area shape="rect" id="node7" href="$class_simple_textured_renderer.html#a86a34333e5f1c8992c3ed95e491b17a6" title="Clears all OpenGL data, not assuming that a context is current. Some data may not be cleared immediat..." alt="" coords="262,187,431,225"/>
+<area shape="rect" id="node3" href="$class_mesh_view_container.html#a5becc607fc09eac0396e22d0055e229b" title="Calls setRenderer(renderer) on the mesh view. " alt="" coords="481,5,628,44"/>
+<area shape="rect" id="node5" href="$class_simple_textured_scene.html#a126c909de9bb5528bbc9003ce21ba251" title="Creates and returns a SimpleTexturedRenderer. " alt="" coords="479,124,630,163"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Tile::templateThicknessChanged" name="Tile::templateThicknessChanged">
+<area shape="rect" id="node2" href="$class_tile.html#a43679c09f8d895eaa27b385ec078fe7a" title="setRelativeThickness " alt="" coords="268,81,444,107"/>
+<area shape="rect" id="node3" href="$class_tile.html#a3adb108e0614f1832aa8815e7d5d128d" title="Tile::relativeThickness" alt="" coords="492,5,645,31"/>
+<area shape="rect" id="node4" href="$class_tile_template.html#a26bc0b4414ffb9b70ed0a7beb5804df4" title="TileTemplate::thickness" alt="" coords="693,107,852,132"/>
+<area shape="rect" id="node5" href="$class_tile_template.html#ad9317289f7783954091b9d8104281789" title="TileTemplate::position" alt="" coords="494,107,643,132"/>
+<area shape="rect" id="node6" href="$class_tile.html#a221b87abe77b21e8e3150740c3941b78" title="Tile::thickness" alt="" coords="516,156,621,181"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="FillTool::clearOverlay" name="FillTool::clearOverlay">
+<area shape="rect" id="node2" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="218,5,352,31"/>
+<area shape="rect" id="node3" href="$class_fill_tool.html#a7bb9f5c02abc190093d1261b2d9f597a" title="Draws an overlay previewing the area that will be filled. " alt="" coords="212,55,358,80"/>
+<area shape="rect" id="node5" href="$class_fill_tool.html#a5b0bf41f383a4e44d3d149dacf914398" title="Called when the mouse is no longer hovering over a cell. " alt="" coords="198,104,372,129"/>
+<area shape="rect" id="node6" href="$class_fill_tool.html#a4128315ab2998945c2637a6515a3111f" title="Deactivates the tool. This is called before the tool stops being used. " alt="" coords="220,153,351,179"/>
+<area shape="rect" id="node4" href="$class_fill_tool.html#ae58b84c4864666aa219534f1141a37e5" title="This will show a preview for the selected area. " alt="" coords="420,55,560,80"/>
+</map>

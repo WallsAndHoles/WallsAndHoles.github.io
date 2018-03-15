@@ -1,0 +1,4 @@
+<map id="MapView::cellReleased" name="MapView::cellReleased">
+<area shape="rect" id="node2" href="$class_editor.html#a4a43cf95fee9190e70d1f3433e72a323" title="Editor::Editor" alt="" coords="267,5,365,31"/>
+<area shape="rect" id="node3" href="$class_map_view.html#acac5ee10b0da5652ee720a4ff6ea99e1" title="MapView::mouseReleaseEvent" alt="" coords="213,55,419,80"/>
+</map>

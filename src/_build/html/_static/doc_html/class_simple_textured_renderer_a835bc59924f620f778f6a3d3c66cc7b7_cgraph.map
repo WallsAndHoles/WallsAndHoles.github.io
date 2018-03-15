@@ -1,0 +1,15 @@
+<map id="SimpleTexturedRenderer::paint" name="SimpleTexturedRenderer::paint">
+<area shape="rect" id="node2" href="$class_simple_textured_shader.html#adac07a5d274d4ccadab522e2af2b1167" title="Binds the OpenGL program. " alt="" coords="255,5,411,44"/>
+<area shape="rect" id="node3" href="$class_simple_textured_shader.html#a6ee89e8666dc3568f49eb778e21387de" title="SimpleTexturedShader\l::setUniformMVP" alt="" coords="255,68,411,107"/>
+<area shape="rect" id="node4" href="$class_simple_textured_shader.html#a0da159def0427561d4389129341f8933" title="SimpleTexturedShader\l::setUniformPointToLight" alt="" coords="250,131,417,169"/>
+<area shape="rect" id="node5" href="$class_simple_textured_shader.html#a56364df098668d0aca70bdaa1be599e8" title="SimpleTexturedShader\l::setUniformCameraPosition" alt="" coords="239,193,427,232"/>
+<area shape="rect" id="node6" href="$class_simple_textured_shader.html#aed14690c4b141605bd9f6f375caa990b" title="SimpleTexturedShader\l::setUniformAmbientColor" alt="" coords="246,256,420,295"/>
+<area shape="rect" id="node7" href="$class_simple_textured_shader.html#aadf9ab8563d9b80c164e94c1bd7a3dcc" title="SimpleTexturedShader\l::setUniformSourceDiffuseColor" alt="" coords="229,319,438,357"/>
+<area shape="rect" id="node8" href="$class_simple_textured_shader.html#a18a60871e571a26442e7ff08c283e124" title="SimpleTexturedShader\l::setUniformSourceSpecularColor" alt="" coords="223,381,443,420"/>
+<area shape="rect" id="node9" href="$class_simple_textured_shader.html#ac43aa972c03965adc3b9905c1ed23afc" title="SimpleTexturedShader\l::bindUniformTexture" alt="" coords="255,444,411,483"/>
+<area shape="rect" id="node10" href="$class_simple_textured_shader.html#a890ede663990d4c4165706e24638753f" title="Enables all relevant arrays. " alt="" coords="255,507,411,545"/>
+<area shape="rect" id="node11" href="$class_simple_textured_shader.html#ac79bfdd1437fb2f0445a5bcc18d5be98" title="Disables all relevant arrays. " alt="" coords="255,569,411,608"/>
+<area shape="rect" id="node12" href="$class_simple_textured_shader.html#a8edef66da978d37b1c7ed8bdc86fe057" title="SimpleTexturedShader\l::releaseUniformTexture" alt="" coords="252,632,415,671"/>
+<area shape="rect" id="node13" href="$class_simple_textured_shader.html#a020ed7a423d0282c40a5cbb434618011" title="Unbinds the OpenGL program. " alt="" coords="255,695,411,733"/>
+<area shape="rect" id="node14" href="$class_abstract_renderer.html#aa1bf9a8d136f2d7fe33056aaf6c777b8" title="Helper method to loop glGetError() and print out all current errors. " alt="" coords="222,757,444,783"/>
+</map>

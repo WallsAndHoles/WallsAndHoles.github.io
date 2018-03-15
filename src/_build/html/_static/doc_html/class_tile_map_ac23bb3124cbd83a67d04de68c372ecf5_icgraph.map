@@ -1,0 +1,6 @@
+<map id="TileMap::setTile" name="TileMap::setTile">
+<area shape="rect" id="node2" href="$class_tile_map.html#a562813ae538e770a067ffe5d2bd03945" title="TileMap::clearTile" alt="" coords="207,5,333,31"/>
+<area shape="rect" id="node4" href="$class_tile_template_change_command.html#a300f552db2ac4b43527806add59a72c4" title="TileTemplateChangeCommand\l::undo" alt="" coords="168,55,372,93"/>
+<area shape="rect" id="node5" href="$class_tile_template_change_command.html#af0b562d598ed037da35843061302c5d5" title="TileTemplateChangeCommand\l::redo" alt="" coords="168,117,372,156"/>
+<area shape="rect" id="node3" href="$class_tile_map.html#ab7ff0b2815620e9029bbc811fa156707" title="TileMap::clear" alt="" coords="420,5,525,31"/>
+</map>

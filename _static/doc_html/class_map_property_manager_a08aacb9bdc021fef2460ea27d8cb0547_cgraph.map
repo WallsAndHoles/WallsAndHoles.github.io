@@ -1,0 +1,6 @@
+<map id="MapPropertyManager::propertyEdited" name="MapPropertyManager::propertyEdited">
+<area shape="rect" id="node2" href="$class_tile_map.html#a140ceb2b2ecc59d4834a15f104904d38" title="TileMap::mapSize" alt="" coords="208,5,336,31"/>
+<area shape="rect" id="node4" href="$class_tile_map.html#adffc3be74f7f06a3f935d72cc89beb46" title="resizeMap " alt="" coords="204,55,341,80"/>
+<area shape="rect" id="node3" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="395,5,496,31"/>
+<area shape="rect" id="node5" href="$class_array2_d.html#ac2d365d4cdfe82f99189a68855e04cd8" title="Array2D::resize" alt="" coords="389,55,502,80"/>
+</map>

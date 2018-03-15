@@ -1,0 +1,4 @@
+<map id="SimpleTexturedShader::create" name="SimpleTexturedShader::create">
+<area shape="rect" id="node2" href="$class_simple_textured_renderer.html#a655ea88375c09748a28c296cbec4dafe" title="This is (should be) called on an OpenGL thread before this object is used. Allows the renderer to ini..." alt="" coords="210,5,378,44"/>
+<area shape="rect" id="node3" href="$class_simple_textured_renderer.html#acf398acf54f08375930bbd618539ae53" title="Used to initialize renderer parameters that require an OpenGL context to be bound. " alt="" coords="210,68,378,107"/>
+</map>

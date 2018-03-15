@@ -1,0 +1,9 @@
+<map id="AbstractPropertyManager::propertyChanged" name="AbstractPropertyManager::propertyChanged">
+<area shape="rect" id="node2" href="$class_material_property_manager.html#aa1f69c5ca73648fba6eb25b5db522706" title="MaterialPropertyManager\l::MaterialPropertyManager" alt="" coords="237,5,416,44"/>
+<area shape="rect" id="node3" href="$class_property_browser.html#ab0220e24f61e700a381b90adb4e2055c" title="setPropertyManager Takes ownership of the property manager. The old property manager will be deleted..." alt="" coords="228,68,424,107"/>
+<area shape="rect" id="node7" href="$class_tile_property_manager.html#ae44df02639c79743b3f35a7ad029c730" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="254,131,399,169"/>
+<area shape="rect" id="node8" href="$class_tile_template_property_manager.html#a1592dd30bd7efef3fd02297e17ee47f4" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="227,193,426,232"/>
+<area shape="rect" id="node4" href="$class_abstract_tile_selection_tool.html#a2017c7e4ab0d80d5782b8de6957febdf" title="activateSelection " alt="" coords="477,40,648,79"/>
+<area shape="rect" id="node6" href="$class_editor.html#af3853603f9aa9300594941dfdce483bf" title="Editor::viewMapProperties" alt="" coords="474,103,651,128"/>
+<area shape="rect" id="node5" href="$class_tile_map_selection_tool.html#a8137521586ad7d19e305bdb5461b148d" title="Called when the left mouse button is released over a cell. " alt="" coords="699,40,847,79"/>
+</map>

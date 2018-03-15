@@ -1,0 +1,18 @@
+<map id="Tile::tileTemplate" name="Tile::tileTemplate">
+<area shape="rect" id="node2" href="$blockypolygontilemesher_8cpp.html#ad0ecdfd6b80c66ebd7734280aeae7081" title="shouldDiagonal" alt="" coords="226,5,339,31"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_blocky_polygon_tile_mesher.html#afd9466fc3234d6b86655380bc5192f5d" title="M2M::BlockyPolygonTileMesher\l::topPolygons" alt="" coords="441,24,653,63"/>
+<area shape="rect" id="node4" href="$class_map_cell_graphics_item.html#a79fa6360b7563bd630f0faab14ba17f6" title="MapCellGraphicsItem\l::paint" alt="" coords="208,107,357,145"/>
+<area shape="rect" id="node5" href="$namespace_tile_map_helper.html#a83dcc6c4e1235d90c099faf1d2f460b0" title="getFillRegion " alt="" coords="186,169,379,195"/>
+<area shape="rect" id="node11" href="$namespace_tile_map_helper.html#aae51503acec3506537b6ce3dc5b4852d" title="TileMapHelper::getAllOfTemplate" alt="" coords="174,219,391,244"/>
+<area shape="rect" id="node12" href="$namespace_tile_map_helper.html#a5bdc2d7652e16633acb7116c8da7b9f0" title="TileMapHelper::getAllOfTemplate\lAtTile" alt="" coords="439,241,655,280"/>
+<area shape="rect" id="node13" href="$class_tile_property_manager.html#a7476021db4766894d4530507c60ea15d" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="210,320,355,359"/>
+<area shape="rect" id="node14" href="$xmltool_8cpp.html#a3a1d7b2d351f2df2c938778ab71dd6c9" title="tileMapElement" alt="" coords="226,383,339,408"/>
+<area shape="rect" id="node6" href="$class_fill_tool.html#aea6cf55b437a150c6515b723679d93f8" title="FillTool::updateSelection" alt="" coords="464,140,630,165"/>
+<area shape="rect" id="node10" href="$class_tile_map_selection_tool.html#a8137521586ad7d19e305bdb5461b148d" title="Called when the left mouse button is released over a cell. " alt="" coords="703,228,851,267"/>
+<area shape="rect" id="node7" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="710,116,844,141"/>
+<area shape="rect" id="node8" href="$class_fill_tool.html#a7bb9f5c02abc190093d1261b2d9f597a" title="Draws an overlay previewing the area that will be filled. " alt="" coords="704,165,850,191"/>
+<area shape="rect" id="node9" href="$class_fill_tool.html#ae58b84c4864666aa219534f1141a37e5" title="This will show a preview for the selected area. " alt="" coords="899,165,1039,191"/>
+<area shape="rect" id="node15" href="$namespace_x_m_l_tool.html#a743bf21e37f9cad731aef40cd08c38c0" title="XMLTool::saveTileMap" alt="" coords="470,383,624,408"/>
+<area shape="rect" id="node16" href="$class_editor.html#add1f4b900d9c8ae6065ccd769929b617" title="Editor::saveMap" alt="" coords="718,357,836,383"/>
+<area shape="rect" id="node17" href="$class_editor.html#a38d9676c4e9b822da55e107a6e13c997" title="Editor::saveMapAs" alt="" coords="710,407,844,432"/>
+</map>

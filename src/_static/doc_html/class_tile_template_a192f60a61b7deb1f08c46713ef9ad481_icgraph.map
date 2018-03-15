@@ -1,0 +1,6 @@
+<map id="TileTemplate::color" name="TileTemplate::color">
+<area shape="rect" id="node2" href="$class_map_cell_graphics_item.html#a79fa6360b7563bd630f0faab14ba17f6" title="MapCellGraphicsItem\l::paint" alt="" coords="211,5,361,44"/>
+<area shape="rect" id="node3" href="$class_tile_template.html#ab6e90b3b1cd8d56ea79380d5cdf04e42" title="TileTemplate::setColor" alt="" coords="209,68,363,93"/>
+<area shape="rect" id="node5" href="$class_tile_template_property_manager.html#ac1abed183a1cf25a9436db5ad6a55e4f" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="186,117,386,156"/>
+<area shape="rect" id="node4" href="$class_tile_template_property_manager.html#a1592dd30bd7efef3fd02297e17ee47f4" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="434,61,633,100"/>
+</map>

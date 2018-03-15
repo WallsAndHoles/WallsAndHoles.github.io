@@ -1,0 +1,4 @@
+<map id="FillTool::invalidateSelection" name="FillTool::invalidateSelection">
+<area shape="rect" id="node2" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="264,5,398,31"/>
+<area shape="rect" id="node3" href="$class_fill_tool.html#a53f4bc64a33285fbe21cf13ebcb21791" title="Called whenever mTileMap changes. Called in constructor. " alt="" coords="235,55,428,80"/>
+</map>

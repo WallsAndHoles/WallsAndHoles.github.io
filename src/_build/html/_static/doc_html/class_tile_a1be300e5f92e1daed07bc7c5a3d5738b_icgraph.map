@@ -1,0 +1,10 @@
+<map id="Tile::relativeHeight" name="Tile::relativeHeight">
+<area shape="rect" id="node2" href="$class_tile.html#a52c43223fbc386e7197f2999e0e481cd" title="Tile::setRelativeHeight" alt="" coords="185,5,339,31"/>
+<area shape="rect" id="node5" href="$class_tile_property_manager.html#a7476021db4766894d4530507c60ea15d" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="189,55,334,93"/>
+<area shape="rect" id="node6" href="$xmltool_8cpp.html#a3a1d7b2d351f2df2c938778ab71dd6c9" title="tileMapElement" alt="" coords="205,117,318,143"/>
+<area shape="rect" id="node3" href="$namespace_x_m_l_tool.html#af3fe20dbb924a11abb3df1af53eb8ecc" title="XMLTool::openTileMap" alt="" coords="387,5,543,31"/>
+<area shape="rect" id="node4" href="$class_editor.html#a392c4c8e63399e824bbac9b669287602" title="Editor::loadMap" alt="" coords="600,5,715,31"/>
+<area shape="rect" id="node7" href="$namespace_x_m_l_tool.html#a743bf21e37f9cad731aef40cd08c38c0" title="XMLTool::saveTileMap" alt="" coords="388,117,542,143"/>
+<area shape="rect" id="node8" href="$class_editor.html#add1f4b900d9c8ae6065ccd769929b617" title="Editor::saveMap" alt="" coords="599,92,717,117"/>
+<area shape="rect" id="node9" href="$class_editor.html#a38d9676c4e9b822da55e107a6e13c997" title="Editor::saveMapAs" alt="" coords="591,141,724,167"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="TileMaterial::shininess" name="TileMaterial::shininess">
+<area shape="rect" id="node2" href="$class_material_property_manager.html#a2fc8423d9646a76e730332df464cf3df" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="207,5,378,44"/>
+<area shape="rect" id="node3" href="$class_tile_material.html#af55db0bf592e2e81105ee66d963a4f4b" title="TileMaterial::setShininess" alt="" coords="206,68,379,93"/>
+<area shape="rect" id="node5" href="$xmltool_8cpp.html#a6e64507754c495987604cc98649c00a6" title="tileMaterialElement" alt="" coords="225,119,360,144"/>
+<area shape="rect" id="node4" href="$class_material_property_manager.html#acfc76e45f039705262fa3b66ebf1e321" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="427,59,599,97"/>
+<area shape="rect" id="node6" href="$xmltool_8cpp.html#a45b869a49299560bb235376ed73c6d2d" title="tileTemplateSetElement" alt="" coords="432,121,593,147"/>
+<area shape="rect" id="node7" href="$namespace_x_m_l_tool.html#ac7d4c5c6796bf6931a0b0f1a434cdf54" title="XMLTool::saveTileTemplateSet" alt="" coords="647,121,850,147"/>
+<area shape="rect" id="node8" href="$class_savable_tile_template_set.html#a1fd3d60affe7da95aa7026f80a030a4c" title="SavableTileTemplateSet\l::save" alt="" coords="898,115,1062,153"/>
+<area shape="rect" id="node9" href="$class_tile_template_sets_manager.html#a1b3efef949cff7b782b1d6e0b2012a04" title="removeTileTemplateSet Attempt to remove a templateSet at the given index. " alt="" coords="1110,115,1286,153"/>
+</map>

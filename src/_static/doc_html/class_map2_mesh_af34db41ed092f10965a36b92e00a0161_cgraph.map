@@ -1,0 +1,11 @@
+<map id="Map2Mesh::tileChanged" name="Map2Mesh::tileChanged">
+<area shape="rect" id="node2" href="$array2dtools_8h.html#a95d089174ba9a6ea52a400464a53fa75" title="Returns the coordinates of all (up to 8) in&#45;bounds neighbors of the point. " alt="" coords="241,7,370,32"/>
+<area shape="rect" id="node4" href="$class_tile_map.html#a140ceb2b2ecc59d4834a15f104904d38" title="TileMap::mapSize" alt="" coords="242,56,370,81"/>
+<area shape="rect" id="node6" href="$class_map2_mesh.html#ae7d524082fccf02a848bba31a1363be2" title="Updates the scene for all tiles that need updates. " alt="" coords="219,131,392,156"/>
+<area shape="rect" id="node3" href="$array2dtools_8h.html#a7e0d8eeb8b7f798af142306b8281aa62" title="Returns true if the point is in bounds, false otherwise. " alt="" coords="468,5,586,31"/>
+<area shape="rect" id="node5" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="703,107,805,132"/>
+<area shape="rect" id="node7" href="$class_tile_map.html#a19a3ddf99b2d58766a847b5e5723504b" title="TileMap::width" alt="" coords="473,107,580,132"/>
+<area shape="rect" id="node8" href="$class_tile_map.html#a011e14a703c286cf374f60cfa29edebb" title="TileMap::height" alt="" coords="471,156,583,181"/>
+<area shape="rect" id="node9" href="$class_m2_m_1_1_abstract_tile_mesher.html#a77a39f824ff42d7c6e33dd7dcbcd547b" title="Returns a TileMesher instance that will create the mesh for the given tile, or, if the tile has not c..." alt="" coords="440,205,613,244"/>
+<area shape="rect" id="node10" href="$class_m2_m_1_1_tile_neighborhood_info.html#a8ca19a08f55318b225d78b9631280442" title="M2M::TileNeighborhoodInfo\l::makeMesher" alt="" coords="661,205,847,244"/>
+</map>

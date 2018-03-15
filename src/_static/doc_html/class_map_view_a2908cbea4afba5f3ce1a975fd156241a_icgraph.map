@@ -1,0 +1,4 @@
+<map id="MapView::mouseExitedMap" name="MapView::mouseExitedMap">
+<area shape="rect" id="node2" href="$class_editor.html#a4a43cf95fee9190e70d1f3433e72a323" title="Editor::Editor" alt="" coords="286,5,384,31"/>
+<area shape="rect" id="node3" href="$class_map_view.html#a60ff29a0be8adcf787b30921d73c2cf8" title="MapView::mouseMoveEvent" alt="" coords="240,55,430,80"/>
+</map>

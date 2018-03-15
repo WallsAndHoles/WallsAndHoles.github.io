@@ -1,0 +1,25 @@
+<map id="Editor::Editor" name="Editor::Editor">
+<area shape="rect" id="node2" href="$class_tile_map_tool_manager.html#a67984aca84c7c5a73c05158b3bdf274b" title="TileMapToolManager\l::registerMapTool" alt="" coords="177,77,322,116"/>
+<area shape="rect" id="node8" href="$class_map_view_container.html#ad8ad32df4002040a7f2e83de8b096df0" title="MapViewContainer::mapView" alt="" coords="152,140,347,165"/>
+<area shape="rect" id="node9" href="$class_map_view.html#a0f5e7a2bdf5edfe73773e2790a7d92b9" title="MapView::previewItem" alt="" coords="172,189,327,215"/>
+<area shape="rect" id="node10" href="$class_mesh_view_container.html#ab4e62eb81e6384a57d6297bbbf50f73b" title="MeshViewContainer::\laddCamera" alt="" coords="176,15,324,53"/>
+<area shape="rect" id="node11" href="$class_tool_manager.html#ae3b64a75af50545ad5523533547d517a" title="Returns the context toolBar of the current active tool. " alt="" coords="153,239,347,264"/>
+<area shape="rect" id="node12" href="$class_tile_map_tool_manager.html#acddf25b4ff803742105d1a5e755d1a11" title="TileMapToolManager\l::cellActivated" alt="" coords="177,351,322,389"/>
+<area shape="rect" id="node15" href="$class_tile_map_tool_manager.html#a27f98b2dd2e97e3f099cab410dc7bc79" title="TileMapToolManager\l::cellClicked" alt="" coords="177,288,322,327"/>
+<area shape="rect" id="node17" href="$class_tile_map_tool_manager.html#a5f55fd9173c8c23f199b655b88bdbc10" title="TileMapToolManager\l::cellReleased" alt="" coords="177,413,322,452"/>
+<area shape="rect" id="node19" href="$class_tile_map_tool_manager.html#a766fa4cb3736ffdfcd7083fc487868bf" title="TileMapToolManager\l::cellHovered" alt="" coords="177,476,322,515"/>
+<area shape="rect" id="node21" href="$class_tile_map_tool_manager.html#a113f95cb43448f0922a98647c4afe3e7" title="TileMapToolManager\l::mouseExitedMap" alt="" coords="177,539,322,577"/>
+<area shape="rect" id="node23" href="$class_tile_map_tool_manager.html#a9001003f6f23e84ea199e9c5672a8c5d" title="TileMapToolManager\l::tileTemplateChanged" alt="" coords="173,601,327,640"/>
+<area shape="rect" id="node3" href="$class_tool_manager.html#aab66f70d3188b3be8e453ec7b1408b3d" title="Registers the tool with the given identifier. " alt="" coords="395,53,570,79"/>
+<area shape="rect" id="node4" href="$class_tool_manager.html#ac9f1d7f5eb52a1e18872dda47a0561c1" title="Activates the desired tool. " alt="" coords="626,29,802,55"/>
+<area shape="rect" id="node7" href="$class_tool_manager.html#a13842f048249b622ee11f20f24deaad1" title="Deactivates the tool if it is active. NOTE: A ToolManager is exclusive, so activateTool() automatical..." alt="" coords="618,79,809,104"/>
+<area shape="rect" id="node5" href="$class_abstract_tool.html#aea90106532704fa5bb1360c0771c5fde" title="Activates the tool. This is called before the tool is used. " alt="" coords="878,5,1026,31"/>
+<area shape="rect" id="node6" href="$class_abstract_tool.html#ae9043d05a9d0fd9c1a9bf632df023123" title="Returns a vector of qactions which can be used to modify the behaviour of the tool. Will be used by the tool manager to add the actions to a context tool bar. " alt="" coords="857,55,1046,80"/>
+<area shape="rect" id="node13" href="$tilemaptoolmanager_8cpp.html#ae655edb558933435aa80e10dbd9e07c6" title="tool2TileMapTool" alt="" coords="422,451,544,476"/>
+<area shape="rect" id="node14" href="$class_abstract_tile_map_tool.html#aff460acdc94577014670a029dff0c57a" title="Called when the left mouse button is down over a new cell. " alt="" coords="412,325,554,364"/>
+<area shape="rect" id="node16" href="$class_abstract_tile_map_tool.html#ad857eb0ab2b0bce17271915578b64813" title="Called the first time the left mouse button is pressed over a cell. " alt="" coords="412,263,554,301"/>
+<area shape="rect" id="node18" href="$class_abstract_tile_map_tool.html#ab67cc0066b38ca69d488732166f54dc3" title="Called when the left mouse button is released over a cell. " alt="" coords="412,388,554,427"/>
+<area shape="rect" id="node20" href="$class_abstract_tile_map_tool.html#ae51c62e344b75e3352959cf879def985" title="Called when the mouse hovers over a new cell. " alt="" coords="412,500,554,539"/>
+<area shape="rect" id="node22" href="$class_abstract_tile_map_tool.html#a2ff1600149ad20fbbc8bd1397c3e0918" title="Called when the mouse is no longer hovering over a cell. " alt="" coords="412,563,554,601"/>
+<area shape="rect" id="node24" href="$class_abstract_tile_map_tool.html#a15e7410ca46160fd41d107a00d206327" title="AbstractTileMapTool\l::setTileTemplate" alt="" coords="412,625,554,664"/>
+</map>

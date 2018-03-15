@@ -1,0 +1,10 @@
+<map id="WallsAndHoles/tiletemplatechangecommand.h" name="WallsAndHoles/tiletemplatechangecommand.h">
+<area shape="rect" id="node2" href="$tilemap_8h.html" title="tilemap.h" alt="" coords="324,79,399,104"/>
+<area shape="rect" id="node3" href="$array2d_8h.html" title="array2d.h" alt="" coords="792,152,869,177"/>
+<area shape="rect" id="node10" href="$tile_8h.html" title="tile.h" alt="" coords="190,152,239,177"/>
+<area shape="rect" id="node11" href="$tiletemplate_8h.html" title="tiletemplate.h" alt="" coords="252,225,353,251"/>
+<area shape="rect" id="node20" href="$tiletemplateset_8h.html" title="tiletemplateset.h" alt="" coords="419,152,538,177"/>
+<area shape="rect" id="node8" href="$array2d__private_8h.html" title="array2d_private.h" alt="" coords="941,225,1067,251"/>
+<area shape="rect" id="node16" href="$tilematerial_8h.html" title="tilematerial.h" alt="" coords="254,299,351,324"/>
+<area shape="rect" id="node17" href="$imageandsource_8h.html" title="imageandsource.h" alt="" coords="269,372,400,397"/>
+</map>

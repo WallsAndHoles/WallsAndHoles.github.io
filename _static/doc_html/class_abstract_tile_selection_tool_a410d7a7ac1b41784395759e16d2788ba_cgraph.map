@@ -1,0 +1,4 @@
+<map id="AbstractTileSelectionTool::drawPreview" name="AbstractTileSelectionTool::drawPreview">
+<area shape="rect" id="node2" href="$class_tile_map_preview_graphics_item.html#a5b67d86080656b8eec6d732e18d1b94f" title="TileMapPreviewGraphicsItem\l::setRegion" alt="" coords="224,5,419,44"/>
+<area shape="rect" id="node3" href="$class_tile_map_preview_graphics_item.html#a5c6df3e43593636775cf43aa487d79dd" title="TileMapPreviewGraphicsItem\l::setColor" alt="" coords="224,68,419,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Tile::setRelativeThickness" name="Tile::setRelativeThickness">
+<area shape="rect" id="node2" href="$class_tile.html#a35125972bffcccef4647a966a1ea66a0" title="Tile::templateThicknessChanged" alt="" coords="229,5,444,31"/>
+<area shape="rect" id="node3" href="$namespace_x_m_l_tool.html#af3fe20dbb924a11abb3df1af53eb8ecc" title="XMLTool::openTileMap" alt="" coords="258,55,415,80"/>
+<area shape="rect" id="node4" href="$class_editor.html#a392c4c8e63399e824bbac9b669287602" title="Editor::loadMap" alt="" coords="492,55,607,80"/>
+</map>

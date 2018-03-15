@@ -1,0 +1,4 @@
+<map id="SimpleTexturedObject::getNumTriangles" name="SimpleTexturedObject::getNumTriangles">
+<area shape="rect" id="node2" href="$class_simple_textured_object.html#af5bbb36325bc836f4d6e8d61d0c919bb" title="Call this method after setting all of the object&#39;s information. This will commit the information and ..." alt="" coords="205,5,357,44"/>
+<area shape="rect" id="node3" href="$class_simple_textured_object.html#a4165fd128774dbe7848c2d2868f8799a" title="Sets up texture information for the object. " alt="" coords="205,68,357,107"/>
+</map>

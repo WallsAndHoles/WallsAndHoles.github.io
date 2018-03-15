@@ -1,0 +1,4 @@
+<map id="TileTemplateChangeCommand::redo" name="TileTemplateChangeCommand::redo">
+<area shape="rect" id="node2" href="$class_tile_map.html#ac23bb3124cbd83a67d04de68c372ecf5" title="TileMap::setTile" alt="" coords="258,12,372,37"/>
+<area shape="rect" id="node3" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="420,12,522,37"/>
+</map>

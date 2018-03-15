@@ -1,0 +1,4 @@
+<map id="M2M::Quad::phongInfo" name="M2M::Quad::phongInfo">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_pre_object.html#a7a83003a24139a2db6c912244929d4b2" title="Adds the quad to this object, but does not change this object&#39;s texture image. " alt="" coords="211,12,391,37"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_partial_mesh_data.html#ae2c2d71d17a4cdfee1680fa9aca37adc" title="addQuad Adds a quad to the mesh. " alt="" coords="439,5,596,44"/>
+</map>

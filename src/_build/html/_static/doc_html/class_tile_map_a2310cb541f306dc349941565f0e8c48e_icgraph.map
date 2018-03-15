@@ -1,0 +1,7 @@
+<map id="TileMap::isIndoor" name="TileMap::isIndoor">
+<area shape="rect" id="node2" href="$class_map_property_manager.html#aa4baf6b99f0082883738191b51c31bb1" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="176,5,327,44"/>
+<area shape="rect" id="node3" href="$xmltool_8cpp.html#a3a1d7b2d351f2df2c938778ab71dd6c9" title="tileMapElement" alt="" coords="195,68,308,93"/>
+<area shape="rect" id="node4" href="$namespace_x_m_l_tool.html#a743bf21e37f9cad731aef40cd08c38c0" title="XMLTool::saveTileMap" alt="" coords="375,68,529,93"/>
+<area shape="rect" id="node5" href="$class_editor.html#add1f4b900d9c8ae6065ccd769929b617" title="Editor::saveMap" alt="" coords="585,43,703,68"/>
+<area shape="rect" id="node6" href="$class_editor.html#a38d9676c4e9b822da55e107a6e13c997" title="Editor::saveMapAs" alt="" coords="577,92,711,117"/>
+</map>

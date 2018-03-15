@@ -1,0 +1,6 @@
+<map id="TileTemplate::name" name="TileTemplate::name">
+<area shape="rect" id="node2" href="$class_tile_property_manager.html#a7476021db4766894d4530507c60ea15d" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="218,5,363,44"/>
+<area shape="rect" id="node3" href="$class_tile_template.html#a4cbe1fe82fa79ed89c25f265786ece87" title="TileTemplate::setName" alt="" coords="212,68,369,93"/>
+<area shape="rect" id="node5" href="$class_tile_template_property_manager.html#ac1abed183a1cf25a9436db5ad6a55e4f" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="191,117,390,156"/>
+<area shape="rect" id="node4" href="$class_tile_template_property_manager.html#a1592dd30bd7efef3fd02297e17ee47f4" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="438,61,637,100"/>
+</map>

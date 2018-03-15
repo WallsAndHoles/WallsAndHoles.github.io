@@ -1,0 +1,4 @@
+<map id="SimpleTexturedObject::commit" name="SimpleTexturedObject::commit">
+<area shape="rect" id="node2" href="$class_simple_textured_object.html#ad8ffd6c43208fef643f957162f5a5f91" title="Returns the number of vertices in the vertex array. This may not be the same as the number of vertice..." alt="" coords="205,5,357,44"/>
+<area shape="rect" id="node3" href="$class_simple_textured_object.html#a523e9c2b1591f05b4b008c2b0254aa4a" title="SimpleTexturedObject\l::getNumTriangles" alt="" coords="205,68,357,107"/>
+</map>

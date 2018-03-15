@@ -1,0 +1,16 @@
+<map id="SavableTileTemplateSet::save" name="SavableTileTemplateSet::save">
+<area shape="rect" id="node2" href="$namespace_x_m_l_tool.html#ac7d4c5c6796bf6931a0b0f1a434cdf54" title="XMLTool::saveTileTemplateSet" alt="" coords="218,55,421,80"/>
+<area shape="rect" id="node3" href="$class_savable_tile_template_set.html#a60c14acf150e2e73bbfab882fef17ebe" title="SavableTileTemplateSet\l::savePath" alt="" coords="469,20,633,59"/>
+<area shape="rect" id="node4" href="$xmltool_8cpp.html#a45b869a49299560bb235376ed73c6d2d" title="tileTemplateSetElement" alt="" coords="470,83,632,108"/>
+<area shape="rect" id="node5" href="$class_tile_template_set.html#a4aebcb956994a10ce57285fa8d495475" title="TileTemplateSet::name" alt="" coords="709,5,866,31"/>
+<area shape="rect" id="node6" href="$class_tile_template_set.html#a6e652add8ccfdee56af239681fc41c8d" title="TileTemplateSet::cTileTemplates" alt="" coords="681,55,894,80"/>
+<area shape="rect" id="node7" href="$class_tile_material.html#a04b1f180be7f494df8dbcf72b60eb201" title="TileMaterial::getDefault\lMaterial" alt="" coords="709,104,867,143"/>
+<area shape="rect" id="node9" href="$xmltool_8cpp.html#a6e64507754c495987604cc98649c00a6" title="tileMaterialElement" alt="" coords="720,212,855,237"/>
+<area shape="rect" id="node8" href="$class_tile_material.html#a3829a3fffb63a553ff273119c78ae5f5" title="Creates a TileMaterial with a default material. " alt="" coords="942,64,1107,89"/>
+<area shape="rect" id="node10" href="$class_tile_material.html#a02495ceae9d0ab97c15ad440306adc7d" title="TileMaterial::name" alt="" coords="959,113,1090,139"/>
+<area shape="rect" id="node11" href="$class_tile_material.html#ad8f8e5f95b18aef270a51b79622858a0" title="TileMaterial::texture" alt="" coords="956,163,1094,188"/>
+<area shape="rect" id="node12" href="$class_tile_material.html#a2b262aceec446508b63b009d226c4673" title="TileMaterial::ambient" alt="" coords="952,212,1097,237"/>
+<area shape="rect" id="node13" href="$class_tile_material.html#a4ee686fff495189ed164b23f802a342f" title="TileMaterial::diffuse" alt="" coords="956,261,1093,287"/>
+<area shape="rect" id="node14" href="$class_tile_material.html#ad420b91ac80d4b0a59c1d637605814fa" title="TileMaterial::specular" alt="" coords="951,311,1098,336"/>
+<area shape="rect" id="node15" href="$class_tile_material.html#af3ae7e908e0b9a66db5a801ae5560fb7" title="TileMaterial::shininess" alt="" coords="948,360,1101,385"/>
+</map>

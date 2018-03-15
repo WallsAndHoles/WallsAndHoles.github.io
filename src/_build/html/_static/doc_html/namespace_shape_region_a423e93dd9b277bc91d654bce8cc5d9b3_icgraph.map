@@ -1,0 +1,12 @@
+<map id="ShapeRegion::rect" name="ShapeRegion::rect">
+<area shape="rect" id="node2" href="$namespace_shape_region.html#aea19dfb1f6471cb0a9e7231b6c164c61" title="ShapeRegion::rectOutline" alt="" coords="200,13,374,39"/>
+<area shape="rect" id="node4" href="$class_tile_map_preview_graphics_item.html#a25e640f4a9a63ef636868a5757b74546" title="setClipRect " alt="" coords="190,69,385,108"/>
+<area shape="rect" id="node5" href="$class_tile_template_change_command.html#a1f5235b8a8cda251d49b1ce591b6b671" title="make Creates the TileTemplateChangeCommand. This will automatically crop the given region so that it ..." alt="" coords="185,147,390,185"/>
+<area shape="rect" id="node3" href="$class_rect_brush_tool.html#a2b058b06cf16a9445c20935a0180ccb7" title="Draws a rectangle. " alt="" coords="457,5,630,31"/>
+<area shape="rect" id="node6" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="476,55,610,80"/>
+<area shape="rect" id="node7" href="$class_tile_map_brush_tool.html#a0e9ddc543f6aebe2abb045d36929e930" title="Called when the left mouse button is down over a new cell. " alt="" coords="438,104,648,129"/>
+<area shape="rect" id="node8" href="$class_tile_map_brush_tool.html#a509d04900ff0b58f4e98dda1b914420b" title="Called when the left mouse button is released over a cell. " alt="" coords="438,153,649,179"/>
+<area shape="rect" id="node9" href="$class_tile_template_change_command.html#a3065f20365afbdc53b3be00ae44bd224" title="make Creates the TileTemplateChangeCommand. This will automatically crop the given region so that it ..." alt="" coords="441,203,646,241"/>
+<area shape="rect" id="node10" href="$class_tile_template_sets_manager.html#a1b3efef949cff7b782b1d6e0b2012a04" title="removeTileTemplateSet Attempt to remove a templateSet at the given index. " alt="" coords="456,265,631,304"/>
+<area shape="rect" id="node11" href="$class_tile_template_sets_manager.html#a4b6c27a67f2d535278988113cc45434b" title="removeTileTemplate Attempts to remove the template specified at this index. If mTileMap uses that tem..." alt="" coords="456,328,631,367"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Editor::viewMapProperties" name="Editor::viewMapProperties">
+<area shape="rect" id="node2" href="$class_property_browser.html#ab0220e24f61e700a381b90adb4e2055c" title="setPropertyManager Takes ownership of the property manager. The old property manager will be deleted..." alt="" coords="230,27,426,65"/>
+<area shape="rect" id="node3" href="$class_property_browser.html#a181f3995a0d1a0c4b190ca68fab31b37" title="clear Deletes the current propertyManager if there is one. The PropertyBrowser will show nothing..." alt="" coords="483,5,640,31"/>
+<area shape="rect" id="node4" href="$class_abstract_property_manager.html#a06e41d3b1d614afa8a83e98c437bd2aa" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="474,55,648,93"/>
+</map>

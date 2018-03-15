@@ -1,0 +1,17 @@
+<map id="WallsAndHoles/tiletemplatesetsview.cpp" name="WallsAndHoles/tiletemplatesetsview.cpp">
+<area shape="rect" id="node2" href="$tiletemplatesetsview_8h.html" title="tiletemplatesetsview.h" alt="" coords="802,79,953,104"/>
+<area shape="rect" id="node40" href="$newtiletemplatesetdialog_8h.html" title="newtiletemplatesetdialog.h" alt="" coords="1288,79,1467,104"/>
+<area shape="rect" id="node44" href="$tiletemplatepropertymanager_8h.html" title="tiletemplatepropertymanager.h" alt="" coords="1071,225,1273,251"/>
+<area shape="rect" id="node3" href="$savabletiletemplateset_8h.html" title="savabletiletemplateset.h" alt="" coords="352,225,517,251"/>
+<area shape="rect" id="node16" href="$tiletemplatesetsmanager_8h.html" title="tiletemplatesetsmanager.h" alt="" coords="192,152,368,177"/>
+<area shape="rect" id="node28" href="$propertybrowser_8h.html" title="propertybrowser.h" alt="" coords="875,225,1003,251"/>
+<area shape="rect" id="node4" href="$tiletemplateset_8h.html" title="tiletemplateset.h" alt="" coords="361,299,479,324"/>
+<area shape="rect" id="node5" href="$tiletemplate_8h.html" title="tiletemplate.h" alt="" coords="296,372,397,397"/>
+<area shape="rect" id="node10" href="$tilematerial_8h.html" title="tilematerial.h" alt="" coords="354,445,451,471"/>
+<area shape="rect" id="node11" href="$imageandsource_8h.html" title="imageandsource.h" alt="" coords="617,519,748,544"/>
+<area shape="rect" id="node17" href="$tilemap_8h.html" title="tilemap.h" alt="" coords="132,225,207,251"/>
+<area shape="rect" id="node18" href="$array2d_8h.html" title="array2d.h" alt="" coords="1065,299,1143,324"/>
+<area shape="rect" id="node25" href="$tile_8h.html" title="tile.h" alt="" coords="145,299,194,324"/>
+<area shape="rect" id="node23" href="$array2d__private_8h.html" title="array2d_private.h" alt="" coords="937,372,1063,397"/>
+<area shape="rect" id="node29" href="$abstractpropertymanager_8h.html" title="abstractpropertymanager.h" alt="" coords="1167,299,1348,324"/>
+</map>

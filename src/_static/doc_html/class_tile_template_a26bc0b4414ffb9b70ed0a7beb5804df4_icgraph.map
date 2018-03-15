@@ -1,0 +1,14 @@
+<map id="TileTemplate::thickness" name="TileTemplate::thickness">
+<area shape="rect" id="node2" href="$class_tile.html#a221b87abe77b21e8e3150740c3941b78" title="Tile::thickness" alt="" coords="260,79,365,104"/>
+<area shape="rect" id="node5" href="$class_tile.html#a43679c09f8d895eaa27b385ec078fe7a" title="setRelativeThickness " alt="" coords="478,131,654,156"/>
+<area shape="rect" id="node9" href="$class_tile.html#a996f367db70d920ee7b64d7b7ab6be42" title="Tile::setRelativePosition" alt="" coords="484,180,647,205"/>
+<area shape="rect" id="node11" href="$class_tile_template.html#aa653b0c759b8000e7e1b7222d4320394" title="setThickness " alt="" coords="222,281,403,307"/>
+<area shape="rect" id="node12" href="$class_tile_template_property_manager.html#a1592dd30bd7efef3fd02297e17ee47f4" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="466,252,666,291"/>
+<area shape="rect" id="node13" href="$class_tile_template_property_manager.html#ac1abed183a1cf25a9436db5ad6a55e4f" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="213,331,412,369"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_blocky_polygon_tile_mesher.html#afd9466fc3234d6b86655380bc5192f5d" title="M2M::BlockyPolygonTileMesher\l::topPolygons" alt="" coords="460,68,671,107"/>
+<area shape="rect" id="node4" href="$class_m2_m_1_1_ground_blocky_polygon_tile_mesher.html#a5371cf7b3f5e986cf1a4700d8cf667b1" title="M2M::GroundBlockyPolygon\lTileMesher::topPolygons" alt="" coords="471,5,661,44"/>
+<area shape="rect" id="node6" href="$class_tile.html#a35125972bffcccef4647a966a1ea66a0" title="Tile::templateThicknessChanged" alt="" coords="719,105,934,131"/>
+<area shape="rect" id="node7" href="$namespace_x_m_l_tool.html#af3fe20dbb924a11abb3df1af53eb8ecc" title="XMLTool::openTileMap" alt="" coords="749,155,905,180"/>
+<area shape="rect" id="node8" href="$class_editor.html#a392c4c8e63399e824bbac9b669287602" title="Editor::loadMap" alt="" coords="982,155,1097,180"/>
+<area shape="rect" id="node10" href="$class_tile.html#a028562c52c5901e07b282f8790877f50" title="Tile::templatePositionChanged" alt="" coords="726,204,928,229"/>
+</map>

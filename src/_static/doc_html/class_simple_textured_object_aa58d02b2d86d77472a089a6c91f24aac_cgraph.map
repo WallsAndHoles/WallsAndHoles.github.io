@@ -1,0 +1,12 @@
+<map id="SimpleTexturedObject::getMaterialName" name="SimpleTexturedObject::getMaterialName">
+<area shape="rect" id="node2" href="$class_simple_textured_object.html#ae06b26d3ac2b9753d695d1a3684eeb64" title="SimpleTexturedObject\l::getAmbient" alt="" coords="205,5,357,44"/>
+<area shape="rect" id="node5" href="$class_simple_textured_object.html#a3bbf1e752ea0effe8e54417a2e79f24c" title="SimpleTexturedObject\l::getDiffuse" alt="" coords="205,68,357,107"/>
+<area shape="rect" id="node7" href="$class_simple_textured_object.html#ad28a166f0bf7036d532356ef54e724a2" title="SimpleTexturedObject\l::getSpecular" alt="" coords="205,131,357,169"/>
+<area shape="rect" id="node9" href="$class_simple_textured_object.html#a347c80ec4f2914ef4d871d8157b4775e" title="SimpleTexturedObject\l::getShininess" alt="" coords="205,193,357,232"/>
+<area shape="rect" id="node11" href="$class_simple_textured_object.html#aeb4541cd8ce2264d5dd792bdeda88422" title="SimpleTexturedObject\l::getImageAndSource" alt="" coords="205,256,357,295"/>
+<area shape="rect" id="node3" href="$class_simple_textured_object.html#a90f629b22c5089170e57fa4ffb01766a" title="SimpleTexturedObject\l::getVertexAmbient" alt="" coords="405,5,557,44"/>
+<area shape="rect" id="node4" href="$class_simple_textured_object.html#aaebd307bbc264d2d2bbfeef003e61b33" title="SimpleTexturedObject\l::isCommitted" alt="" coords="605,100,756,139"/>
+<area shape="rect" id="node6" href="$class_simple_textured_object.html#adce2d0330c9f9b66ede29240003d96ae" title="SimpleTexturedObject\l::getVertexDiffuse" alt="" coords="405,68,557,107"/>
+<area shape="rect" id="node8" href="$class_simple_textured_object.html#a69d4fcadbb8cae73b2e2271c3297d68e" title="SimpleTexturedObject\l::getVertexSpecular" alt="" coords="405,131,557,169"/>
+<area shape="rect" id="node10" href="$class_simple_textured_object.html#ac4aaf82b0f8c2aebe7c8e8b4b8a45dca" title="SimpleTexturedObject\l::getVertexShininess" alt="" coords="405,193,557,232"/>
+</map>

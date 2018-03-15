@@ -1,0 +1,6 @@
+<map id="AbstractPropertyManager::properties" name="AbstractPropertyManager::properties">
+<area shape="rect" id="node2" href="$class_property_browser.html#ab0220e24f61e700a381b90adb4e2055c" title="setPropertyManager Takes ownership of the property manager. The old property manager will be deleted..." alt="" coords="227,33,423,72"/>
+<area shape="rect" id="node3" href="$class_abstract_tile_selection_tool.html#a2017c7e4ab0d80d5782b8de6957febdf" title="activateSelection " alt="" coords="474,5,645,44"/>
+<area shape="rect" id="node5" href="$class_editor.html#af3853603f9aa9300594941dfdce483bf" title="Editor::viewMapProperties" alt="" coords="471,68,648,93"/>
+<area shape="rect" id="node4" href="$class_tile_map_selection_tool.html#a8137521586ad7d19e305bdb5461b148d" title="Called when the left mouse button is released over a cell. " alt="" coords="696,5,843,44"/>
+</map>

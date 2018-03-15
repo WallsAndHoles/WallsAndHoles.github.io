@@ -1,0 +1,4 @@
+<map id="SimpleTexturedObject::getNumVertices" name="SimpleTexturedObject::getNumVertices">
+<area shape="rect" id="node2" href="$class_simple_textured_object.html#af5bbb36325bc836f4d6e8d61d0c919bb" title="Call this method after setting all of the object&#39;s information. This will commit the information and ..." alt="" coords="205,5,357,44"/>
+<area shape="rect" id="node3" href="$class_simple_textured_object.html#a26e450f68f8f1a093192cdcbeba2b5ba" title="Sets up material information for the object. Uses the same material for each vertex. " alt="" coords="205,68,357,107"/>
+</map>

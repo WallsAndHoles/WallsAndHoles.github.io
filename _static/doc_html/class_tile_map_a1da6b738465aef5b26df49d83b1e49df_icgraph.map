@@ -1,0 +1,5 @@
+<map id="TileMap::savePath" name="TileMap::savePath">
+<area shape="rect" id="node2" href="$class_editor.html#add1f4b900d9c8ae6065ccd769929b617" title="Editor::saveMap" alt="" coords="395,5,513,31"/>
+<area shape="rect" id="node3" href="$class_editor.html#a38d9676c4e9b822da55e107a6e13c997" title="Editor::saveMapAs" alt="" coords="387,55,521,80"/>
+<area shape="rect" id="node4" href="$namespace_x_m_l_tool.html#a743bf21e37f9cad731aef40cd08c38c0" title="XMLTool::saveTileMap" alt="" coords="185,29,339,55"/>
+</map>

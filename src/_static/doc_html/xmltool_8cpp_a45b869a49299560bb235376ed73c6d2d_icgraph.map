@@ -1,0 +1,5 @@
+<map id="tileTemplateSetElement" name="tileTemplateSetElement">
+<area shape="rect" id="node2" href="$namespace_x_m_l_tool.html#ac7d4c5c6796bf6931a0b0f1a434cdf54" title="XMLTool::saveTileTemplateSet" alt="" coords="215,12,418,37"/>
+<area shape="rect" id="node3" href="$class_savable_tile_template_set.html#a1fd3d60affe7da95aa7026f80a030a4c" title="SavableTileTemplateSet\l::save" alt="" coords="466,5,630,44"/>
+<area shape="rect" id="node4" href="$class_tile_template_sets_manager.html#a1b3efef949cff7b782b1d6e0b2012a04" title="removeTileTemplateSet Attempt to remove a templateSet at the given index. " alt="" coords="678,5,854,44"/>
+</map>

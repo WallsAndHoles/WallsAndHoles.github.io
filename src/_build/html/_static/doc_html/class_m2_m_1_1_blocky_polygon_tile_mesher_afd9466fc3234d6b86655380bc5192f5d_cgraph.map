@@ -1,0 +1,15 @@
+<map id="M2M::BlockyPolygonTileMesher::topPolygons" name="M2M::BlockyPolygonTileMesher::topPolygons">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_tile_neighborhood_info.html#a7edc4a2da21f30275c6fdd2145f5e0f6" title="M2M::TileNeighborhoodInfo\l::centerTile" alt="" coords="277,5,462,44"/>
+<area shape="rect" id="node3" href="$class_tile.html#a03cdc623b6cc61690f1fe47d110b59d2" title="Tile::position" alt="" coords="322,68,417,93"/>
+<area shape="rect" id="node5" href="$class_tile.html#a221b87abe77b21e8e3150740c3941b78" title="Tile::thickness" alt="" coords="317,117,422,143"/>
+<area shape="rect" id="node7" href="$class_tile.html#a5238364a6fd66f916e183f94fab93d94" title="Tile::tileTemplate" alt="" coords="542,217,663,243"/>
+<area shape="rect" id="node8" href="$class_tile_template.html#a12061a6d4007cd22ab1c264b7cafc0a8" title="TileTemplate::bridgeTiles" alt="" coords="285,219,454,244"/>
+<area shape="rect" id="node9" href="$class_tile_template.html#adb4605033493fb2bb215e5222d0e72c2" title="TileTemplate::connectDiagonals" alt="" coords="265,268,474,293"/>
+<area shape="rect" id="node10" href="$blockypolygontilemesher_8cpp.html#ad0ecdfd6b80c66ebd7734280aeae7081" title="shouldDiagonal" alt="" coords="313,317,426,343"/>
+<area shape="rect" id="node12" href="$blockypolygontilemesher_8cpp.html#a6550a83177a6ab10341f3868c21cfb61" title="makeDiagonal" alt="" coords="316,367,423,392"/>
+<area shape="rect" id="node4" href="$class_tile_template.html#ad9317289f7783954091b9d8104281789" title="TileTemplate::position" alt="" coords="527,68,677,93"/>
+<area shape="rect" id="node6" href="$class_tile_template.html#a26bc0b4414ffb9b70ed0a7beb5804df4" title="TileTemplate::thickness" alt="" coords="522,117,682,143"/>
+<area shape="rect" id="node11" href="$class_tile.html#a10d9ca2c7f82875d6e7ca167acfa2768" title="Tile::hasTileTemplate" alt="" coords="529,317,675,343"/>
+<area shape="rect" id="node13" href="$blockypolygontilemesher_8cpp.html#ac8f9b4ddc95c73a8621b7ecc086999e9" title="lineHitsEdgeAt" alt="" coords="548,367,657,392"/>
+<area shape="rect" id="node14" href="$namespace_shape_region.html#a72a3a8ab319948d9e63c57b749641bd9" title="ShapeRegion::line" alt="" coords="730,367,860,392"/>
+</map>

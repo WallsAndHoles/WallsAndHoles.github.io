@@ -1,0 +1,8 @@
+<map id="TileTemplate::height" name="TileTemplate::height">
+<area shape="rect" id="node2" href="$class_tile.html#a93878ba24748c81017215d97efd1a2f0" title="Tile::height" alt="" coords="250,75,336,100"/>
+<area shape="rect" id="node5" href="$class_tile_template.html#a0f37d78fe9ad79f8589cb210a3c29bc1" title="TileTemplate::setHeight" alt="" coords="213,131,373,156"/>
+<area shape="rect" id="node7" href="$class_tile_template_property_manager.html#ac1abed183a1cf25a9436db5ad6a55e4f" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="194,180,393,219"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_abstract_polygon_tile_mesher.html#a00e3478843ca18b0b71498cd918f25b3" title="makeMesh Creates the mesh for this tile. " alt="" coords="452,5,629,44"/>
+<area shape="rect" id="node4" href="$class_map_cell_graphics_item.html#a79fa6360b7563bd630f0faab14ba17f6" title="MapCellGraphicsItem\l::paint" alt="" coords="466,68,615,107"/>
+<area shape="rect" id="node6" href="$class_tile_template_property_manager.html#a1592dd30bd7efef3fd02297e17ee47f4" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="441,131,640,169"/>
+</map>

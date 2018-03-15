@@ -1,0 +1,4 @@
+<map id="M2M_Private::SideTools::awayDirection" name="M2M_Private::SideTools::awayDirection">
+<area shape="rect" id="node2" href="$namespace_m2_m___private_1_1_side_tools.html#a9977fbb7dab448a762155d5284ef1baf" title="normalDirection Computes the normal direction for a vertical side of a tile. " alt="" coords="218,5,384,44"/>
+<area shape="rect" id="node3" href="$namespace_m2_m___private_1_1_side_tools.html#abb00e600c8219786dc11a62b9bec82b1" title="makeTopQuadFragment Creates a fragment of a top&#45;facing quad. " alt="" coords="432,35,604,73"/>
+</map>

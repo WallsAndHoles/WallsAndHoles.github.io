@@ -1,0 +1,4 @@
+<map id="TileTemplate::positionChanged" name="TileTemplate::positionChanged">
+<area shape="rect" id="node2" href="$class_tile_template.html#a488d04a50155d1b992424a54038f0a0e" title="setPosition " alt="" coords="257,12,426,37"/>
+<area shape="rect" id="node3" href="$class_tile_template_property_manager.html#a1592dd30bd7efef3fd02297e17ee47f4" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="474,5,674,44"/>
+</map>

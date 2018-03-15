@@ -1,0 +1,13 @@
+<map id="WallsAndHoles/tilemapbrushtool.h" name="WallsAndHoles/tilemapbrushtool.h">
+<area shape="rect" id="node2" href="$abstracttilemaptool_8h.html" title="abstracttilemaptool.h" alt="" coords="1345,79,1489,104"/>
+<area shape="rect" id="node8" href="$tilemap_8h.html" title="tilemap.h" alt="" coords="1069,152,1144,177"/>
+<area shape="rect" id="node17" href="$tiletemplate_8h.html" title="tiletemplate.h" alt="" coords="1047,299,1147,324"/>
+<area shape="rect" id="node3" href="$abstracttool_8h.html" title="abstracttool.h" alt="" coords="248,152,349,177"/>
+<area shape="rect" id="node29" href="$tilemappreviewgraphicsitem_8h.html" title="tilemappreviewgraphicsitem.h" alt="" coords="1454,152,1651,177"/>
+<area shape="rect" id="node9" href="$array2d_8h.html" title="array2d.h" alt="" coords="705,225,782,251"/>
+<area shape="rect" id="node16" href="$tile_8h.html" title="tile.h" alt="" coords="993,225,1043,251"/>
+<area shape="rect" id="node25" href="$tiletemplateset_8h.html" title="tiletemplateset.h" alt="" coords="1168,225,1287,251"/>
+<area shape="rect" id="node14" href="$array2d__private_8h.html" title="array2d_private.h" alt="" coords="781,299,906,324"/>
+<area shape="rect" id="node21" href="$tilematerial_8h.html" title="tilematerial.h" alt="" coords="1224,372,1321,397"/>
+<area shape="rect" id="node22" href="$imageandsource_8h.html" title="imageandsource.h" alt="" coords="1395,445,1526,471"/>
+</map>

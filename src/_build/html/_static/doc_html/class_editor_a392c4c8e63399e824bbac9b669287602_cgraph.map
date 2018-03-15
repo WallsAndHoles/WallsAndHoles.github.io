@@ -1,0 +1,13 @@
+<map id="Editor::loadMap" name="Editor::loadMap">
+<area shape="rect" id="node2" href="$namespace_x_m_l_tool.html#af3fe20dbb924a11abb3df1af53eb8ecc" title="XMLTool::openTileMap" alt="" coords="168,117,324,143"/>
+<area shape="rect" id="node3" href="$class_tile_template_sets_manager.html#a0929a35a16cc3c2bf6fa9ca361c285ee" title="loadTileTemplateSet Opens dialogs to locate the templateSet to load, then loads it ..." alt="" coords="372,5,548,44"/>
+<area shape="rect" id="node4" href="$class_tile.html#a534a8a78e1c6dd0eebe1b72a73dd4865" title="Tile::resetTile" alt="" coords="410,68,510,93"/>
+<area shape="rect" id="node5" href="$class_tile.html#a43679c09f8d895eaa27b385ec078fe7a" title="setRelativeThickness " alt="" coords="372,117,548,143"/>
+<area shape="rect" id="node10" href="$class_tile.html#a52c43223fbc386e7197f2999e0e481cd" title="Tile::setRelativeHeight" alt="" coords="383,241,537,267"/>
+<area shape="rect" id="node12" href="$class_tile.html#a996f367db70d920ee7b64d7b7ab6be42" title="Tile::setRelativePosition" alt="" coords="379,167,542,192"/>
+<area shape="rect" id="node6" href="$class_tile.html#a3adb108e0614f1832aa8815e7d5d128d" title="Tile::relativeThickness" alt="" coords="596,16,749,41"/>
+<area shape="rect" id="node7" href="$class_tile_template.html#a26bc0b4414ffb9b70ed0a7beb5804df4" title="TileTemplate::thickness" alt="" coords="797,117,956,143"/>
+<area shape="rect" id="node8" href="$class_tile_template.html#ad9317289f7783954091b9d8104281789" title="TileTemplate::position" alt="" coords="597,167,747,192"/>
+<area shape="rect" id="node9" href="$class_tile.html#a221b87abe77b21e8e3150740c3941b78" title="Tile::thickness" alt="" coords="620,117,725,143"/>
+<area shape="rect" id="node11" href="$class_tile.html#a1be300e5f92e1daed07bc7c5a3d5738b" title="Tile::relativeHeight" alt="" coords="607,268,738,293"/>
+</map>

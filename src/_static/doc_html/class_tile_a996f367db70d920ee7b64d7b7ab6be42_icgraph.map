@@ -1,0 +1,5 @@
+<map id="Tile::setRelativePosition" name="Tile::setRelativePosition">
+<area shape="rect" id="node2" href="$class_tile.html#a028562c52c5901e07b282f8790877f50" title="Tile::templatePositionChanged" alt="" coords="216,5,419,31"/>
+<area shape="rect" id="node3" href="$namespace_x_m_l_tool.html#af3fe20dbb924a11abb3df1af53eb8ecc" title="XMLTool::openTileMap" alt="" coords="240,55,396,80"/>
+<area shape="rect" id="node4" href="$class_editor.html#a392c4c8e63399e824bbac9b669287602" title="Editor::loadMap" alt="" coords="467,55,582,80"/>
+</map>

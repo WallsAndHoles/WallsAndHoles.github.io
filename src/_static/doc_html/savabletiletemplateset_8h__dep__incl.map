@@ -1,0 +1,13 @@
+<map id="WallsAndHoles/savabletiletemplateset.h" name="WallsAndHoles/savabletiletemplateset.h">
+<area shape="rect" id="node2" href="$xmltool_8h.html" title="WallsAndHoles/xmltool.h" alt="" coords="721,79,890,104"/>
+<area shape="rect" id="node6" href="$savabletiletemplateset_8cpp.html" title="WallsAndHoles/savabletiletemplateset.cpp" alt="" coords="1184,152,1456,177"/>
+<area shape="rect" id="node10" href="$tiletemplatesetsview_8h.html" title="WallsAndHoles/tiletemplatesetsview.h" alt="" coords="48,152,293,177"/>
+<area shape="rect" id="node12" href="$tiletemplatesetsmanager_8h.html" title="WallsAndHoles/tiletemplatesetsmanager.h" alt="" coords="323,79,594,104"/>
+<area shape="rect" id="node3" href="$editor_8h.html" title="WallsAndHoles/editor.h" alt="" coords="289,225,447,251"/>
+<area shape="rect" id="node7" href="$tiletemplateset_8cpp.html" title="WallsAndHoles/tiletemplateset.cpp" alt="" coords="934,152,1160,177"/>
+<area shape="rect" id="node8" href="$tiletemplatesetsmanager_8cpp.html" title="WallsAndHoles/tiletemplatesetsmanager.cpp" alt="" coords="574,152,858,177"/>
+<area shape="rect" id="node9" href="$xmltool_8cpp.html" title="WallsAndHoles/xmltool.cpp" alt="" coords="368,152,550,177"/>
+<area shape="rect" id="node4" href="$editor_8cpp.html" title="WallsAndHoles/editor.cpp" alt="" coords="184,299,357,324"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title="WallsAndHoles/main.cpp" alt="" coords="381,299,550,324"/>
+<area shape="rect" id="node11" href="$tiletemplatesetsview_8cpp.html" title="WallsAndHoles/tiletemplatesetsview.cpp" alt="" coords="5,225,264,251"/>
+</map>

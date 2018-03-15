@@ -1,0 +1,4 @@
+<map id="TileMap::resizeMap" name="TileMap::resizeMap">
+<area shape="rect" id="node2" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="196,5,298,31"/>
+<area shape="rect" id="node3" href="$class_array2_d.html#ac2d365d4cdfe82f99189a68855e04cd8" title="Array2D::resize" alt="" coords="191,55,304,80"/>
+</map>

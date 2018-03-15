@@ -1,0 +1,12 @@
+<map id="AbstractTileMapTool::getTileMap" name="AbstractTileMapTool::getTileMap">
+<area shape="rect" id="node2" href="$class_abstract_tile_selection_tool.html#a2017c7e4ab0d80d5782b8de6957febdf" title="activateSelection " alt="" coords="215,5,386,44"/>
+<area shape="rect" id="node3" href="$class_tile_map_selection_tool.html#a8137521586ad7d19e305bdb5461b148d" title="Called when the left mouse button is released over a cell. " alt="" coords="454,49,602,88"/>
+<area shape="rect" id="node4" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="461,135,595,160"/>
+<area shape="rect" id="node5" href="$class_fill_tool.html#a53f4bc64a33285fbe21cf13ebcb21791" title="Called whenever mTileMap changes. Called in constructor. " alt="" coords="204,171,397,196"/>
+<area shape="rect" id="node6" href="$class_fill_tool.html#aea6cf55b437a150c6515b723679d93f8" title="FillTool::updateSelection" alt="" coords="218,220,384,245"/>
+<area shape="rect" id="node9" href="$class_tile_map_brush_tool.html#a0e9ddc543f6aebe2abb045d36929e930" title="Called when the left mouse button is down over a new cell. " alt="" coords="196,269,406,295"/>
+<area shape="rect" id="node10" href="$class_tile_map_brush_tool.html#a99e73a38962b5334ca57ef14f7de9196" title="Called when the mouse hovers over a new cell. " alt="" coords="198,319,403,344"/>
+<area shape="rect" id="node11" href="$class_tile_map_brush_tool.html#a509d04900ff0b58f4e98dda1b914420b" title="Called when the left mouse button is released over a cell. " alt="" coords="195,368,406,393"/>
+<area shape="rect" id="node7" href="$class_fill_tool.html#a7bb9f5c02abc190093d1261b2d9f597a" title="Draws an overlay previewing the area that will be filled. " alt="" coords="456,220,601,245"/>
+<area shape="rect" id="node8" href="$class_fill_tool.html#ae58b84c4864666aa219534f1141a37e5" title="This will show a preview for the selected area. " alt="" coords="650,220,790,245"/>
+</map>

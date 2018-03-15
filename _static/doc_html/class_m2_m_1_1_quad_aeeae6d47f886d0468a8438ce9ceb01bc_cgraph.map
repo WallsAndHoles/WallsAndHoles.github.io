@@ -1,0 +1,4 @@
+<map id="M2M::Quad::makeVerticalQuad" name="M2M::Quad::makeVerticalQuad">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_quad.html#a9a3b0b7a99f80419bfe08dbff7105ae4" title="M2M::Quad::normal" alt="" coords="261,5,400,31"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_quad.html#a02bad4497bbed7aac1ca9d49054c9f9d" title="Creates a quad with the given vertices. Vertices must be specified in counterclockwise order..." alt="" coords="265,55,396,80"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="OBJModel::save" name="OBJModel::save">
+<area shape="rect" id="node2" href="$class_o_b_j_model.html#ae561f8438afd4b75b6b0238840eafc65" title="OBJModel::saveOBJ" alt="" coords="181,5,326,31"/>
+<area shape="rect" id="node3" href="$class_o_b_j_model.html#a1b270f5d3c29b41149e60619cd3b1c50" title="OBJModel::saveMTL" alt="" coords="181,55,327,80"/>
+<area shape="rect" id="node4" href="$class_o_b_j_model.html#ac261ea3288500c754fe98551cac9f320" title="OBJModel::saveImages" alt="" coords="172,104,335,129"/>
+</map>

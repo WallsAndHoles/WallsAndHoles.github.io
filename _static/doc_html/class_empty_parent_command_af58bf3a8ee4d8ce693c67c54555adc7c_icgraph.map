@@ -1,0 +1,4 @@
+<map id="EmptyParentCommand::make" name="EmptyParentCommand::make">
+<area shape="rect" id="node2" href="$class_tile_template_sets_manager.html#a1b3efef949cff7b782b1d6e0b2012a04" title="removeTileTemplateSet Attempt to remove a templateSet at the given index. " alt="" coords="213,5,389,44"/>
+<area shape="rect" id="node3" href="$class_tile_template_sets_manager.html#a4b6c27a67f2d535278988113cc45434b" title="removeTileTemplate Attempts to remove the template specified at this index. If mTileMap uses that tem..." alt="" coords="213,68,389,107"/>
+</map>

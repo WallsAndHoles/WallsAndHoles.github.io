@@ -1,0 +1,8 @@
+<map id="TileTemplateChangeCommand::make" name="TileTemplateChangeCommand::make">
+<area shape="rect" id="node2" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="297,5,431,31"/>
+<area shape="rect" id="node3" href="$class_tile_map_brush_tool.html#a0e9ddc543f6aebe2abb045d36929e930" title="Called when the left mouse button is down over a new cell. " alt="" coords="259,55,469,80"/>
+<area shape="rect" id="node4" href="$class_tile_map_brush_tool.html#a509d04900ff0b58f4e98dda1b914420b" title="Called when the left mouse button is released over a cell. " alt="" coords="258,104,469,129"/>
+<area shape="rect" id="node5" href="$class_tile_template_change_command.html#a3065f20365afbdc53b3be00ae44bd224" title="make Creates the TileTemplateChangeCommand. This will automatically crop the given region so that it ..." alt="" coords="261,153,466,192"/>
+<area shape="rect" id="node6" href="$class_tile_template_sets_manager.html#a1b3efef949cff7b782b1d6e0b2012a04" title="removeTileTemplateSet Attempt to remove a templateSet at the given index. " alt="" coords="276,216,451,255"/>
+<area shape="rect" id="node7" href="$class_tile_template_sets_manager.html#a4b6c27a67f2d535278988113cc45434b" title="removeTileTemplate Attempts to remove the template specified at this index. If mTileMap uses that tem..." alt="" coords="276,279,451,317"/>
+</map>

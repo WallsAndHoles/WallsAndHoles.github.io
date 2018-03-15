@@ -1,0 +1,4 @@
+<map id="TileMapToolManager::cellActivated" name="TileMapToolManager::cellActivated">
+<area shape="rect" id="node2" href="$tilemaptoolmanager_8cpp.html#ae655edb558933435aa80e10dbd9e07c6" title="tool2TileMapTool" alt="" coords="209,5,330,31"/>
+<area shape="rect" id="node3" href="$class_abstract_tile_map_tool.html#aff460acdc94577014670a029dff0c57a" title="Called when the left mouse button is down over a new cell. " alt="" coords="199,55,340,93"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MapView::tilesInFrame" name="MapView::tilesInFrame">
+<area shape="rect" id="node2" href="$class_map_view.html#a77956ebc6949453ed2e4e4fef777a1f1" title="MapView::wheelEvent" alt="" coords="229,5,381,31"/>
+<area shape="rect" id="node3" href="$class_map_view.html#a60ff29a0be8adcf787b30921d73c2cf8" title="MapView::mouseMoveEvent" alt="" coords="210,55,400,80"/>
+<area shape="rect" id="node4" href="$class_map_view.html#a8848c483673fd8648981255355c38ee1" title="MapView::resizeEvent" alt="" coords="229,104,382,129"/>
+</map>

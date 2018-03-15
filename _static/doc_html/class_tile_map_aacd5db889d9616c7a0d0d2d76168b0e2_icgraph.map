@@ -1,0 +1,7 @@
+<map id="TileMap::isTileTemplateSetUsed" name="TileMap::isTileTemplateSetUsed">
+<area shape="rect" id="node2" href="$class_tile_template_sets_manager.html#a1b3efef949cff7b782b1d6e0b2012a04" title="removeTileTemplateSet Attempt to remove a templateSet at the given index. " alt="" coords="265,5,441,44"/>
+<area shape="rect" id="node3" href="$xmltool_8cpp.html#a3a1d7b2d351f2df2c938778ab71dd6c9" title="tileMapElement" alt="" coords="296,68,409,93"/>
+<area shape="rect" id="node4" href="$namespace_x_m_l_tool.html#a743bf21e37f9cad731aef40cd08c38c0" title="XMLTool::saveTileMap" alt="" coords="489,68,643,93"/>
+<area shape="rect" id="node5" href="$class_editor.html#add1f4b900d9c8ae6065ccd769929b617" title="Editor::saveMap" alt="" coords="699,43,817,68"/>
+<area shape="rect" id="node6" href="$class_editor.html#a38d9676c4e9b822da55e107a6e13c997" title="Editor::saveMapAs" alt="" coords="691,92,825,117"/>
+</map>

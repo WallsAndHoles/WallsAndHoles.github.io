@@ -1,0 +1,10 @@
+<map id="Array2DCNeighborIterator::getY" name="Array2DCNeighborIterator::getY">
+<area shape="rect" id="node2" href="$class_array2_d_c_neighbor_iterator.html#a24c99de973d8d9fd75da7d14004251fc" title="Array2DCNeighborIterator\l::operator*" alt="" coords="230,5,406,44"/>
+<area shape="rect" id="node3" href="$class_array2_d_c_neighbor_iterator.html#a0b1e1defb3414bf1f39d0b70c2e98517" title="Array2DCNeighborIterator\l::isInBounds" alt="" coords="230,68,406,107"/>
+<area shape="rect" id="node4" href="$class_array2_d_c_neighbor_iterator.html#ab3e35aeb67d221beebb75d97e8a8203e" title="Array2DCNeighborIterator\l::Array2DCNeighborIterator" alt="" coords="454,36,637,75"/>
+<area shape="rect" id="node9" href="$class_array2_d_c_neighbor_iterator.html#a1f6c6d3e47533c389970da017c3b3c20" title="Array2DCNeighborIterator\l::operator++" alt="" coords="457,99,634,137"/>
+<area shape="rect" id="node5" href="$class_array2_d_c_neighbor_iterator.html#a01215038248f7badd7b5ffe219861109" title="Array2DCNeighborIterator\l::beginning" alt="" coords="685,5,862,44"/>
+<area shape="rect" id="node7" href="$class_array2_d_c_neighbor_iterator.html#a4f6085cebc53934e21c68c3d4d4a024b" title="Array2DCNeighborIterator\l::ending" alt="" coords="685,68,862,107"/>
+<area shape="rect" id="node6" href="$class_array2_d.html#a3a2f6189c2d62fdbe0c90f1ebb0c7470" title="Array2D\&lt; QSharedPointer\l\&lt; Tile \&gt; \&gt;::begin_neighbors" alt="" coords="910,5,1092,44"/>
+<area shape="rect" id="node8" href="$class_array2_d.html#a707d2db1dfea2e699586fe9ff3a2b3ca" title="Array2D\&lt; QSharedPointer\l\&lt; Tile \&gt; \&gt;::end_neighbors" alt="" coords="912,68,1090,107"/>
+</map>

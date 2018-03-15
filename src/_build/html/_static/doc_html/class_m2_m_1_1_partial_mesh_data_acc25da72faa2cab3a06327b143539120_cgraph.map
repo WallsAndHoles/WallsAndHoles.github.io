@@ -1,0 +1,9 @@
+<map id="M2M::PartialMeshData::addTrig" name="M2M::PartialMeshData::addTrig">
+<area shape="rect" id="node2" href="$class_m2_m_1_1_trig.html#a43b64433c6d65ce6bc3479206179cd9e" title="M2M::Trig::imageInfo" alt="" coords="222,5,369,31"/>
+<area shape="rect" id="node3" href="$class_m2_m_1_1_image_info.html#a0751c88adcc238939ea46f98810307b4" title="M2M::ImageInfo::image" alt="" coords="214,55,376,80"/>
+<area shape="rect" id="node4" href="$class_m2_m_1_1_pre_object.html#a3f69dee2fc2a71ac1d4e7ca4693cc54d" title="M2M::PreObject::addTrig" alt="" coords="210,104,380,129"/>
+<area shape="rect" id="node5" href="$class_m2_m_1_1_trig.html#aeaad77678a3b5f3d50c10f49e5eca208" title="M2M::Trig::verts" alt="" coords="455,29,573,55"/>
+<area shape="rect" id="node6" href="$class_m2_m_1_1_trig.html#aa8983eb210bcea2fb58f58b8abd32d0c" title="M2M::Trig::phongInfo" alt="" coords="440,79,588,104"/>
+<area shape="rect" id="node7" href="$class_m2_m_1_1_trig.html#a1bf36001463d53e0a57451d427a0dcde" title="M2M::Trig::normal" alt="" coords="450,128,579,153"/>
+<area shape="rect" id="node8" href="$class_m2_m_1_1_trig.html#a382114f151ce9a3efe49e6b41543b004" title="M2M::Trig::textureCoords" alt="" coords="428,177,600,203"/>
+</map>

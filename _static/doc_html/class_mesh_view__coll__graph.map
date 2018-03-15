@@ -1,0 +1,5 @@
+<map id="MeshView" name="MeshView">
+<area shape="rect" id="node4" href="$class_abstract_mesh_view_camera.html" title="The AbstractMeshViewCamera class Abstract class that will determine how the camera moves based on the..." alt="" coords="316,167,495,192"/>
+<area shape="rect" id="node5" href="$class_abstract_tool.html" title="The AbstractTool class represents a UI tool. A UI tool can be activated or deactivated. " alt="" coords="425,80,519,105"/>
+<area shape="rect" id="node7" href="$class_tool_manager.html" title="The ToolManager class represents a group of mutually exclusive tools out of which only one can be act..." alt="" coords="519,167,617,192"/>
+</map>

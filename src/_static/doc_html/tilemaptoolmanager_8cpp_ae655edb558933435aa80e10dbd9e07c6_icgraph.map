@@ -1,0 +1,10 @@
+<map id="tool2TileMapTool" name="tool2TileMapTool">
+<area shape="rect" id="node2" href="$class_tile_map_tool_manager.html#aeda345159dee672ec1f048e83ce3b7e0" title="TileMapToolManager\l::setTileMap" alt="" coords="179,5,325,44"/>
+<area shape="rect" id="node3" href="$class_tile_map_tool_manager.html#acddf25b4ff803742105d1a5e755d1a11" title="TileMapToolManager\l::cellActivated" alt="" coords="179,68,325,107"/>
+<area shape="rect" id="node5" href="$class_tile_map_tool_manager.html#a27f98b2dd2e97e3f099cab410dc7bc79" title="TileMapToolManager\l::cellClicked" alt="" coords="179,131,325,169"/>
+<area shape="rect" id="node6" href="$class_tile_map_tool_manager.html#a5f55fd9173c8c23f199b655b88bdbc10" title="TileMapToolManager\l::cellReleased" alt="" coords="179,193,325,232"/>
+<area shape="rect" id="node7" href="$class_tile_map_tool_manager.html#a766fa4cb3736ffdfcd7083fc487868bf" title="TileMapToolManager\l::cellHovered" alt="" coords="179,256,325,295"/>
+<area shape="rect" id="node8" href="$class_tile_map_tool_manager.html#a113f95cb43448f0922a98647c4afe3e7" title="TileMapToolManager\l::mouseExitedMap" alt="" coords="179,319,325,357"/>
+<area shape="rect" id="node9" href="$class_tile_map_tool_manager.html#a9001003f6f23e84ea199e9c5672a8c5d" title="TileMapToolManager\l::tileTemplateChanged" alt="" coords="175,381,329,420"/>
+<area shape="rect" id="node4" href="$class_editor.html#a4a43cf95fee9190e70d1f3433e72a323" title="Editor::Editor" alt="" coords="377,232,475,257"/>
+</map>

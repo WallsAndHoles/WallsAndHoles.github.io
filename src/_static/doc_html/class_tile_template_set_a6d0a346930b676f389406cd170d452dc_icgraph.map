@@ -1,0 +1,9 @@
+<map id="TileTemplateSet::parent" name="TileTemplateSet::parent">
+<area shape="rect" id="node2" href="$class_tile_template_set.html#a604a0e8eb36b6d74a24fec238a9c6f96" title="TileTemplateSet::index" alt="" coords="238,93,394,119"/>
+<area shape="rect" id="node7" href="$class_tile_template_set.html#a35fb805a86fffbe09d7fd70d92fdee7e" title="TileTemplateSet::rowCount" alt="" coords="226,143,407,168"/>
+<area shape="rect" id="node8" href="$class_tile_template_set.html#a86803b77b9886dae5e039f0f73a56a63" title="TileTemplateSet::columnCount" alt="" coords="215,192,417,217"/>
+<area shape="rect" id="node3" href="$class_tile_template_set.html#a634112a29b7f0892d551a678cd9086fc" title="TileTemplateSet::removeTile\lTemplate" alt="" coords="465,5,655,44"/>
+<area shape="rect" id="node4" href="$class_tile_template_set.html#a2a602d9fa979d1b5435cb482e77c5469" title="TileTemplateSet::data" alt="" coords="485,68,635,93"/>
+<area shape="rect" id="node5" href="$class_tile_template_set.html#a8e5a6385c3b41116ad04ef5086792630" title="TileTemplateSet::setData" alt="" coords="703,93,873,119"/>
+<area shape="rect" id="node6" href="$class_tile_template_set.html#afc3a8f8592679fc270609a3c6c3b2b8e" title="TileTemplateSet::flags" alt="" coords="484,169,636,195"/>
+</map>

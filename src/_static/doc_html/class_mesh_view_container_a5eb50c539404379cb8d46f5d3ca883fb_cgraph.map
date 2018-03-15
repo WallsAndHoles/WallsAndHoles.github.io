@@ -1,0 +1,8 @@
+<map id="MeshViewContainer::MeshViewContainer" name="MeshViewContainer::MeshViewContainer">
+<area shape="rect" id="node2" href="$class_mesh_view_container.html#ab4e62eb81e6384a57d6297bbbf50f73b" title="MeshViewContainer::\laddCamera" alt="" coords="201,48,349,87"/>
+<area shape="rect" id="node3" href="$class_tool_manager.html#aab66f70d3188b3be8e453ec7b1408b3d" title="Registers the tool with the given identifier. " alt="" coords="397,55,572,80"/>
+<area shape="rect" id="node4" href="$class_tool_manager.html#ac9f1d7f5eb52a1e18872dda47a0561c1" title="Activates the desired tool. " alt="" coords="627,29,803,55"/>
+<area shape="rect" id="node7" href="$class_tool_manager.html#a13842f048249b622ee11f20f24deaad1" title="Deactivates the tool if it is active. NOTE: A ToolManager is exclusive, so activateTool() automatical..." alt="" coords="620,79,811,104"/>
+<area shape="rect" id="node5" href="$class_abstract_tool.html#aea90106532704fa5bb1360c0771c5fde" title="Activates the tool. This is called before the tool is used. " alt="" coords="879,5,1027,31"/>
+<area shape="rect" id="node6" href="$class_abstract_tool.html#ae9043d05a9d0fd9c1a9bf632df023123" title="Returns a vector of qactions which can be used to modify the behaviour of the tool. Will be used by the tool manager to add the actions to a context tool bar. " alt="" coords="859,55,1048,80"/>
+</map>

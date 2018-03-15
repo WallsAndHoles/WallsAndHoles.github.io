@@ -1,0 +1,11 @@
+<map id="AbstractTileMapTool" name="AbstractTileMapTool">
+<area shape="rect" id="node4" href="$class_abstract_shape_brush_tool.html" title="AbstractShapeBrushTool" alt="" coords="163,225,331,251"/>
+<area shape="rect" id="node8" href="$class_abstract_tile_selection_tool.html" title="AbstractTileSelectionTool" alt="" coords="377,225,548,251"/>
+<area shape="rect" id="node10" href="$class_fill_tool.html" title="FillTool" alt="" coords="573,225,635,251"/>
+<area shape="rect" id="node11" href="$class_tile_map_brush_tool.html" title="TileMapBrushTool" alt="" coords="659,225,786,251"/>
+<area shape="rect" id="node2" href="$class_abstract_tool.html" title="The AbstractTool class represents a UI tool. A UI tool can be activated or deactivated. " alt="" coords="486,79,581,104"/>
+<area shape="rect" id="node5" href="$class_ellipse_brush_tool.html" title="EllipseBrushTool" alt="" coords="5,299,125,324"/>
+<area shape="rect" id="node6" href="$class_line_brush_tool.html" title="LineBrushTool" alt="" coords="150,299,256,324"/>
+<area shape="rect" id="node7" href="$class_rect_brush_tool.html" title="RectBrushTool" alt="" coords="279,299,387,324"/>
+<area shape="rect" id="node9" href="$class_tile_map_selection_tool.html" title="TileMapSelectionTool" alt="" coords="411,299,559,324"/>
+</map>

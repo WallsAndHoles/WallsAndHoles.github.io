@@ -1,0 +1,12 @@
+<map id="AbstractTileSelectionTool::activateSelection" name="AbstractTileSelectionTool::activateSelection">
+<area shape="rect" id="node2" href="$class_abstract_tile_selection_tool.html#a410d7a7ac1b41784395759e16d2788ba" title="AbstractTileSelectionTool\l::drawPreview" alt="" coords="237,36,407,75"/>
+<area shape="rect" id="node5" href="$class_abstract_tile_map_tool.html#a8da89838db1265fe788d47bff5ccda0b" title="AbstractTileMapTool\l::getTileMap" alt="" coords="251,99,393,137"/>
+<area shape="rect" id="node6" href="$class_tile_map.html#a9b376db9b1b84540976c1e567987a610" title="TileMap::tileAt" alt="" coords="269,161,375,187"/>
+<area shape="rect" id="node8" href="$class_tile.html#a10d9ca2c7f82875d6e7ca167acfa2768" title="Tile::hasTileTemplate" alt="" coords="249,211,395,236"/>
+<area shape="rect" id="node9" href="$class_property_browser.html#a181f3995a0d1a0c4b190ca68fab31b37" title="clear Deletes the current propertyManager if there is one. The PropertyBrowser will show nothing..." alt="" coords="487,261,644,287"/>
+<area shape="rect" id="node10" href="$class_property_browser.html#ab0220e24f61e700a381b90adb4e2055c" title="setPropertyManager Takes ownership of the property manager. The old property manager will be deleted..." alt="" coords="224,312,420,351"/>
+<area shape="rect" id="node3" href="$class_tile_map_preview_graphics_item.html#a5b67d86080656b8eec6d732e18d1b94f" title="TileMapPreviewGraphicsItem\l::setRegion" alt="" coords="468,5,663,44"/>
+<area shape="rect" id="node4" href="$class_tile_map_preview_graphics_item.html#a5c6df3e43593636775cf43aa487d79dd" title="TileMapPreviewGraphicsItem\l::setColor" alt="" coords="468,68,663,107"/>
+<area shape="rect" id="node7" href="$class_array2_d.html#a9bdcd4e1b8a7fac1669bad6cc768fdfa" title="Array2D::size" alt="" coords="515,161,616,187"/>
+<area shape="rect" id="node11" href="$class_abstract_property_manager.html#a06e41d3b1d614afa8a83e98c437bd2aa" title="properties Returns a vector of all the properties. It must be ordered as follows: Must have at least ..." alt="" coords="479,312,652,351"/>
+</map>

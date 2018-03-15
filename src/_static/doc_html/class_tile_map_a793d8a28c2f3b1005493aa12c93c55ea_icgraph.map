@@ -1,0 +1,4 @@
+<map id="TileMap::setSavePath" name="TileMap::setSavePath">
+<area shape="rect" id="node2" href="$class_editor.html#add1f4b900d9c8ae6065ccd769929b617" title="Editor::saveMap" alt="" coords="212,5,330,31"/>
+<area shape="rect" id="node3" href="$class_editor.html#a38d9676c4e9b822da55e107a6e13c997" title="Editor::saveMapAs" alt="" coords="205,55,338,80"/>
+</map>

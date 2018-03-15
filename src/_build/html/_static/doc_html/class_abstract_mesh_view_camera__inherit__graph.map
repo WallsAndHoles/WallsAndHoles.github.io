@@ -1,0 +1,5 @@
+<map id="AbstractMeshViewCamera" name="AbstractMeshViewCamera">
+<area shape="rect" id="node4" href="$class_map_view_matcher_camera.html" title="MapViewMatcherCamera" alt="" coords="5,225,177,251"/>
+<area shape="rect" id="node5" href="$class_mesh_view_camera_like_blender.html" title="MeshViewCameraLikeBlender" alt="" coords="200,225,401,251"/>
+<area shape="rect" id="node2" href="$class_abstract_tool.html" title="The AbstractTool class represents a UI tool. A UI tool can be activated or deactivated. " alt="" coords="148,79,242,104"/>
+</map>

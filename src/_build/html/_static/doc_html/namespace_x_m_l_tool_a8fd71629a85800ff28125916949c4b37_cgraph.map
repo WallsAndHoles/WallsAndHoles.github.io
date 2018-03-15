@@ -1,0 +1,10 @@
+<map id="XMLTool::openTileTemplateSet" name="XMLTool::openTileTemplateSet">
+<area shape="rect" id="node2" href="$class_image_and_source.html#ac3ccc7225e7dbadf680e9f43c654a8e9" title="ImageAndSource::getShared\lImageAndSource" alt="" coords="259,5,452,44"/>
+<area shape="rect" id="node3" href="$class_tile_material_set.html#a28228a4dce6e4f5cba890a0854354610" title="TileMaterialSet::getInstance" alt="" coords="263,68,449,93"/>
+<area shape="rect" id="node4" href="$class_tile_material_set.html#a1b18c203958f561f74607b2dc7f0751c" title="TileMaterialSet::addMaterial" alt="" coords="262,117,449,143"/>
+<area shape="rect" id="node6" href="$class_tile_material.html#a04b1f180be7f494df8dbcf72b60eb201" title="TileMaterial::getDefault\lMaterial" alt="" coords="501,220,659,259"/>
+<area shape="rect" id="node8" href="$class_tile_template.html#a14369ca2e761ac80d632feb9582a1cc1" title="TileTemplate::setHasSide\lMaterial" alt="" coords="270,219,442,257"/>
+<area shape="rect" id="node9" href="$class_tile_template.html#ab4f9182d034778013024f14670cc1a7a" title="Updates the side material for the tile template. " alt="" coords="258,281,453,307"/>
+<area shape="rect" id="node5" href="$class_tile_material_set.html#a1ca77706a4320b30f97c4fefd1fab1eb" title="TileMaterialSet::size" alt="" coords="510,117,651,143"/>
+<area shape="rect" id="node7" href="$class_tile_material.html#a3829a3fffb63a553ff273119c78ae5f5" title="Creates a TileMaterial with a default material. " alt="" coords="707,227,873,252"/>
+</map>

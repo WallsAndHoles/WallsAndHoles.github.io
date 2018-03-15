@@ -1,0 +1,17 @@
+<map id="TileTemplateSetsManager::loadTileTemplateSet" name="TileTemplateSetsManager::loadTileTemplateSet">
+<area shape="rect" id="node2" href="$namespace_x_m_l_tool.html#a8fd71629a85800ff28125916949c4b37" title="XMLTool::openTileTemplateSet" alt="" coords="229,168,433,193"/>
+<area shape="rect" id="node11" href="$class_tile_template_sets_manager.html#a842a420429bf60bb937bf6cc31570e05" title="addTileTemplateSet Adds the given tileTemplateSet to the application " alt="" coords="243,331,419,369"/>
+<area shape="rect" id="node16" href="$class_tile_template_sets_manager.html#a0929a35a16cc3c2bf6fa9ca361c285ee" title="loadTileTemplateSet Opens dialogs to locate the templateSet to load, then loads it ..." alt="" coords="243,393,419,432"/>
+<area shape="rect" id="node3" href="$class_image_and_source.html#ac3ccc7225e7dbadf680e9f43c654a8e9" title="ImageAndSource::getShared\lImageAndSource" alt="" coords="487,5,680,44"/>
+<area shape="rect" id="node4" href="$class_tile_material_set.html#a28228a4dce6e4f5cba890a0854354610" title="TileMaterialSet::getInstance" alt="" coords="490,68,676,93"/>
+<area shape="rect" id="node5" href="$class_tile_material_set.html#a1b18c203958f561f74607b2dc7f0751c" title="TileMaterialSet::addMaterial" alt="" coords="490,117,677,143"/>
+<area shape="rect" id="node7" href="$class_tile_material.html#a04b1f180be7f494df8dbcf72b60eb201" title="TileMaterial::getDefault\lMaterial" alt="" coords="756,220,914,259"/>
+<area shape="rect" id="node9" href="$class_tile_template.html#a14369ca2e761ac80d632feb9582a1cc1" title="TileTemplate::setHasSide\lMaterial" alt="" coords="497,219,669,257"/>
+<area shape="rect" id="node10" href="$class_tile_template.html#ab4f9182d034778013024f14670cc1a7a" title="Updates the side material for the tile template. " alt="" coords="485,281,681,307"/>
+<area shape="rect" id="node6" href="$class_tile_material_set.html#a1ca77706a4320b30f97c4fefd1fab1eb" title="TileMaterialSet::size" alt="" coords="764,117,905,143"/>
+<area shape="rect" id="node8" href="$class_tile_material.html#a3829a3fffb63a553ff273119c78ae5f5" title="Creates a TileMaterial with a default material. " alt="" coords="985,227,1150,252"/>
+<area shape="rect" id="node12" href="$class_dependent_undo_command.html#a5210e208f60b6f27aedeb1ee28d00b3a" title="DependentUndoCommand\l::make" alt="" coords="493,331,673,369"/>
+<area shape="rect" id="node13" href="$class_undo_command_from_functions.html#adcb099ab5c8f73e781ed2de4b800da0d" title="performCommand Creates the command and performs it immediately. " alt="" coords="481,393,685,432"/>
+<area shape="rect" id="node14" href="$class_undo_command_from_functions.html#ad0bdb5d0519664baf0e6281d3d8fb69b" title="UndoCommandFromFunctions\l::redo" alt="" coords="733,361,937,400"/>
+<area shape="rect" id="node15" href="$class_undo_command_from_functions.html#a1e0cf7e018d6b15b7ef571daa22e43e7" title="UndoCommandFromFunctions\l::undo" alt="" coords="733,424,937,463"/>
+</map>

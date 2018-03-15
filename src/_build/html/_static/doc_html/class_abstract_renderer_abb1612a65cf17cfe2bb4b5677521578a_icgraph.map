@@ -1,0 +1,6 @@
+<map id="AbstractRenderer::repaintNeeded" name="AbstractRenderer::repaintNeeded">
+<area shape="rect" id="node2" href="$class_abstract_renderer.html#a7c301b1514d04a7eb90617e9c28a7923" title="Calling this slot makes the renderer update itself when possible. " alt="" coords="227,8,405,47"/>
+<area shape="rect" id="node4" href="$class_mesh_view.html#a6627a6387b61c80f2cc021878d69d888" title="Makes the MeshView use a new Renderer. " alt="" coords="234,72,398,97"/>
+<area shape="rect" id="node3" href="$class_simple_textured_scene.html#a126c909de9bb5528bbc9003ce21ba251" title="Creates and returns a SimpleTexturedRenderer. " alt="" coords="453,5,604,44"/>
+<area shape="rect" id="node5" href="$class_mesh_view_container.html#a5becc607fc09eac0396e22d0055e229b" title="Calls setRenderer(renderer) on the mesh view. " alt="" coords="455,68,602,107"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="TileTemplatePropertyManager::propertyEdited" name="TileTemplatePropertyManager::propertyEdited">
+<area shape="rect" id="node2" href="$class_tile_template.html#a4cbe1fe82fa79ed89c25f265786ece87" title="TileTemplate::setName" alt="" coords="268,5,425,31"/>
+<area shape="rect" id="node4" href="$class_tile_template.html#ab6e90b3b1cd8d56ea79380d5cdf04e42" title="TileTemplate::setColor" alt="" coords="270,55,423,80"/>
+<area shape="rect" id="node6" href="$class_tile_template.html#a0f37d78fe9ad79f8589cb210a3c29bc1" title="TileTemplate::setHeight" alt="" coords="267,104,427,129"/>
+<area shape="rect" id="node8" href="$class_tile_template.html#aa653b0c759b8000e7e1b7222d4320394" title="setThickness " alt="" coords="256,153,438,179"/>
+<area shape="rect" id="node9" href="$class_tile_template.html#a26bc0b4414ffb9b70ed0a7beb5804df4" title="TileTemplate::thickness" alt="" coords="489,179,648,204"/>
+<area shape="rect" id="node10" href="$class_tile_template.html#ad9317289f7783954091b9d8104281789" title="TileTemplate::position" alt="" coords="493,280,643,305"/>
+<area shape="rect" id="node11" href="$class_tile_template.html#a488d04a50155d1b992424a54038f0a0e" title="setPosition " alt="" coords="262,305,431,331"/>
+<area shape="rect" id="node12" href="$class_tile_template.html#a13896e42d18df03f446f5d43fb2ac6f0" title="TileTemplate::setBridgeTiles" alt="" coords="253,355,441,380"/>
+<area shape="rect" id="node13" href="$class_tile_template.html#a5196c5076d664a8205372ea03064732c" title="TileTemplate::setConnect\lDiagonals" alt="" coords="261,404,432,443"/>
+<area shape="rect" id="node3" href="$class_tile_template.html#a462d1321d583478749946c3eb3c0701e" title="TileTemplate::name" alt="" coords="500,5,637,31"/>
+<area shape="rect" id="node5" href="$class_tile_template.html#a192f60a61b7deb1f08c46713ef9ad481" title="TileTemplate::color" alt="" coords="502,55,635,80"/>
+<area shape="rect" id="node7" href="$class_tile_template.html#a760a430469ab08e5492fea2823570cf2" title="TileTemplate::height" alt="" coords="498,104,638,129"/>
+</map>

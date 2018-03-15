@@ -1,0 +1,6 @@
+<map id="AbstractPropertyManager" name="AbstractPropertyManager">
+<area shape="rect" id="node3" href="$class_map_property_manager.html" title="MapPropertyManager" alt="" coords="369,5,520,31"/>
+<area shape="rect" id="node4" href="$class_material_property_manager.html" title="MaterialPropertyManager" alt="" coords="359,55,530,80"/>
+<area shape="rect" id="node5" href="$class_tile_property_manager.html" title="The TilePropertyManager class Property manager for a Tile. " alt="" coords="372,104,517,129"/>
+<area shape="rect" id="node6" href="$class_tile_template_property_manager.html" title="TileTemplatePropertyManager" alt="" coords="345,153,544,179"/>
+</map>

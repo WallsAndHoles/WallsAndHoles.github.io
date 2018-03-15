@@ -1,0 +1,4 @@
+<map id="FillTool::deactivate" name="FillTool::deactivate">
+<area shape="rect" id="node2" href="$class_fill_tool.html#a3bde76fe27c82b750df6d0aaf9d83504" title="Clears the overlay. " alt="" coords="184,12,329,37"/>
+<area shape="rect" id="node3" href="$class_tile_map_preview_graphics_item.html#a5b67d86080656b8eec6d732e18d1b94f" title="TileMapPreviewGraphicsItem\l::setRegion" alt="" coords="377,5,572,44"/>
+</map>

@@ -7,7 +7,7 @@
 Walls and Holes
 ================================
 
-	**Windows Installation:** :download:`Windows installer v1.0 <downloads/WAH_1_0_Win64_installer.exe>`
+	**Windows Installation:** :download:`Windows installer v1.0 <downloads/WAH_1_0_win64_installer.exe>`
 
 	**Mac Installation:** :download:`Mac installer v1.0 <downloads/WallsAndHoles_1_0.dmg>`
 
@@ -25,3 +25,4 @@ Walls and Holes User Manual
 
    content
    examples
+   documentation

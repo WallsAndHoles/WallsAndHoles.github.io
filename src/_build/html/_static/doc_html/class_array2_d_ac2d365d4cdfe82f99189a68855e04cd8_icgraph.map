@@ -1,0 +1,6 @@
+<map id="Array2D::resize" name="Array2D::resize">
+<area shape="rect" id="node2" href="$class_map_view.html#a1c41de9351ee9f91008be7a201a3a99c" title="MapView::clear" alt="" coords="179,8,291,33"/>
+<area shape="rect" id="node4" href="$class_tile_map.html#adffc3be74f7f06a3f935d72cc89beb46" title="resizeMap " alt="" coords="167,59,304,84"/>
+<area shape="rect" id="node3" href="$class_map_view.html#ab10bc81e10972e66c66c8de6cffff5bb" title="MapView::setMap" alt="" coords="363,5,490,31"/>
+<area shape="rect" id="node5" href="$class_map_property_manager.html#a08aacb9bdc021fef2460ea27d8cb0547" title="propertyEdited Called from PropertyBrowser when a property is edited. Should be handled, and modify the source data as expected. " alt="" coords="352,55,502,93"/>
+</map>

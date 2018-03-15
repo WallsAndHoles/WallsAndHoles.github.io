@@ -1,0 +1,14 @@
+<map id="TileMapPreviewGraphicsItem::setRegion" name="TileMapPreviewGraphicsItem::setRegion">
+<area shape="rect" id="node2" href="$class_abstract_tile_selection_tool.html#ab54dba0651675e229126c3b7cbf0320b" title="Deactivates the tool. This is called before the tool stops being used. " alt="" coords="282,5,453,44"/>
+<area shape="rect" id="node3" href="$class_abstract_tile_selection_tool.html#a410d7a7ac1b41784395759e16d2788ba" title="AbstractTileSelectionTool\l::drawPreview" alt="" coords="282,68,453,107"/>
+<area shape="rect" id="node6" href="$class_fill_tool.html#a3bde76fe27c82b750df6d0aaf9d83504" title="Clears the overlay. " alt="" coords="295,183,440,208"/>
+<area shape="rect" id="node8" href="$class_fill_tool.html#a7bb9f5c02abc190093d1261b2d9f597a" title="Draws an overlay previewing the area that will be filled. " alt="" coords="548,132,693,157"/>
+<area shape="rect" id="node12" href="$class_tile_map_brush_tool.html#a99e73a38962b5334ca57ef14f7de9196" title="Called when the mouse hovers over a new cell. " alt="" coords="265,232,470,257"/>
+<area shape="rect" id="node13" href="$class_tile_map_brush_tool.html#a8aabea162f761d68d5f74b66ebbb6d58" title="Called when the mouse is no longer hovering over a cell. " alt="" coords="248,281,486,307"/>
+<area shape="rect" id="node4" href="$class_abstract_tile_selection_tool.html#a2017c7e4ab0d80d5782b8de6957febdf" title="activateSelection " alt="" coords="536,68,706,107"/>
+<area shape="rect" id="node5" href="$class_tile_map_selection_tool.html#a8137521586ad7d19e305bdb5461b148d" title="Called when the left mouse button is released over a cell. " alt="" coords="756,68,903,107"/>
+<area shape="rect" id="node7" href="$class_fill_tool.html#a7d04208636b59c9d1b7eb1f5b52fa070" title="This will immediately fill an area. " alt="" coords="554,181,688,207"/>
+<area shape="rect" id="node10" href="$class_fill_tool.html#a5b0bf41f383a4e44d3d149dacf914398" title="Called when the mouse is no longer hovering over a cell. " alt="" coords="534,231,708,256"/>
+<area shape="rect" id="node11" href="$class_fill_tool.html#a4128315ab2998945c2637a6515a3111f" title="Deactivates the tool. This is called before the tool stops being used. " alt="" coords="555,280,686,305"/>
+<area shape="rect" id="node9" href="$class_fill_tool.html#ae58b84c4864666aa219534f1141a37e5" title="This will show a preview for the selected area. " alt="" coords="759,132,900,157"/>
+</map>

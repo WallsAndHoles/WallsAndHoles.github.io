@@ -6,7 +6,7 @@ Chichen Itza
 
 This example will shows you how to create a coarse grain 3D model of Chichen Itza using our WallsAndHoles 3D map editor. A completed example can be found `here`_.
 
-.. _here: https://github.com/Bdtrotte/3D-Map-Gen/releases
+.. _here: https://github.com/Bdtrotte/3D-Map-Gen/tree/master/example
 
 .. image:: images/Chichen\ Itza.png
    :align: center

@@ -13,7 +13,7 @@ Walls and Holes
 
 	**Our github page:** https://github.com/Bdtrotte/3D-Map-Gen
 
-	For the latest up-to-date installation go to: https://github.com/Bdtrotte/releases
+	For the latest up-to-date installation go to: https://github.com/Bdtrotte/3D-Map-Gen/releases
 
 ================================
 Walls and Holes User Manual
